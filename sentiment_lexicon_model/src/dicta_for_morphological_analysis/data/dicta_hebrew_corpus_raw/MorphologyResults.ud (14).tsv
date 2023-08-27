@@ -1,0 +1,1274 @@
+﻿
+# new_sentence = yes, end_paragraph=no
+# text = בימים האחרונים אומנם נשבר שיא בצריכת החשמל בשל גל החום הכבד, אך הסתכלות מעמיקה וארוכה יותר על צריכת החשמל במשק מעלה שבתקופת הקורונה הצריכה ירדה באופן ניכר בשל צמצום הפעילות במשק. 
+1-3	בַּיָּמִים	_	_	_	_
+1	בַּ	ב	ADP	ADP
+2	ה_	ה	DET	DET	PronType=Art
+3	יָּמִים	יום	NOUN	NOUN	Gender=Masc|Number=Plur	יוֹם	_
+4-5	הָאַחֲרוֹנִים	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	אַחֲרוֹנִים	אחרון	ADJ	ADJ	Gender=Masc|Number=Plur	אַחֲרוֹן	_
+6	אׇמְנָם	אומנם	ADV	ADV		אׇמְנָם	_
+7	נִשְׁבַּר	נשבר	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=שׁבר|Number=Sing|Person=3|Tense=Past|Voice=Mid	נִשְׁבַּר	_
+8	שִׂיא	שיא	NOUN	NOUN	Gender=Masc|Number=Sing	שִׂיא	_
+9-10	בִּצְרִיכַת	_	_	_	_
+9	בִּ	ב	ADP	ADP
+10	צְרִיכַת	צריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	צְרִיכָה	_
+11-12	הַחַשְׁמַל	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+13	בְּשֶׁל	של	ADP	ADP		שֶׁל	_
+14	גַּל	גל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	גַּל	_
+15-16	הַחֹם	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	חֹם	חום	NOUN	NOUN	Gender=Masc|Number=Sing	חֹם	_
+17-18	הַכָּבֵד	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	כָּבֵד	כבד	ADJ	ADJ	Gender=Masc|Number=Sing	כָּבֵד	_
+19-21	, אַךְ	_	_	_	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	אַךְ	אך	CCONJ	CCONJ		אַךְ	_
+22	הִסְתַּכְּלוּת	הסתכלות	NOUN	NOUN	Gender=Fem|Number=Sing	הִסְתַּכְּלוּת	_
+23	מַעֲמִיקָה	מעמיק	ADJ	ADJ	Gender=Fem|Number=Sing	מַעֲמִיק	_
+24-25	וַאֲרֻכָּה	_	_	_	_
+24	וַ	ו	CCONJ	CCONJ
+25	אֲרֻכָּה	ארוך	ADJ	ADJ	Gender=Fem|Number=Sing	אָרֹךְ	_
+26	יוֹתֵר	יותר	ADV	ADV		יוֹתֵר	_
+27	עַל	על	ADP	ADP		עַל	_
+28	צְרִיכַת	צריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	צְרִיכָה	_
+29-30	הַחַשְׁמַל	_	_	_	_
+29	ה	ה	DET	DET	PronType=Art
+30	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+31-33	בַּמֶּשֶׁק	_	_	_	_
+31	בַּ	ב	ADP	ADP
+32	ה_	ה	DET	DET	PronType=Art
+33	מֶּשֶׁק	משק	NOUN	NOUN	Gender=Masc|Number=Sing	מֶשֶׁק	_
+34	מַעֲלָה	העלה	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=עלי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הֶעְלָה	_
+35-37	שֶׁבִּתְקוּפַת	_	_	_	_
+35	שֶׁ	ש	SCONJ	SCONJ
+36	בִּ	ב	ADP	ADP
+37	תְקוּפַת	תקופה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּקוּפָה	_
+38-39	הַקּוֹרוֹנָה	_	_	_	_
+38	ה	ה	DET	DET	PronType=Art
+39	קּוֹרוֹנָה	קורונה	PROPN	PROPN		קוֹרוֹנָה	_
+40-41	הַצְּרִיכָה	_	_	_	_
+40	ה	ה	DET	DET	PronType=Art
+41	צְּרִיכָה	צריכה	NOUN	NOUN	Gender=Fem|Number=Sing	צְרִיכָה	_
+42	יָרְדָה	ירד	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=ירד|Number=Sing|Person=3|Tense=Past|Voice=Act	יָרַד	_
+43-44	בְּאֹפֶן	_	_	_	_
+43	בְּ	ב	ADP	ADP
+44	אֹפֶן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפֶן	_
+45	נִכָּר	ניכר	ADJ	ADJ	Gender=Masc|Number=Sing	נִכָּר	_
+46	בְּשֶׁל	של	ADP	ADP		שֶׁל	_
+47	צִמְצוּם	צמצום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	צִמְצוּם	_
+48-49	הַפְּעִילוּת	_	_	_	_
+48	ה	ה	DET	DET	PronType=Art
+49	פְּעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+50-52	בַּמֶּשֶׁק	_	_	_	_
+50	בַּ	ב	ADP	ADP
+51	ה_	ה	DET	DET	PronType=Art
+52	מֶּשֶׁק	משק	NOUN	NOUN	Gender=Masc|Number=Sing	מֶשֶׁק	_
+53	.		PUNCT	PUNCT		.	_
+54	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = מדדים מעודכנים עם נתוני הימים האחרונים יעודכנו ויפורסמו כאמור בשבוע הבא.
+1	מַדָּדִים	מדד	NOUN	NOUN	Gender=Masc|Number=Plur	מַדָּד	_
+2	מְעֻדְכָּנִים	מעודכן	ADJ	ADJ	Gender=Masc|Number=Plur	מְעֻדְכָּן	_
+3	עִם	עם	ADP	ADP		עִם	_
+4	נְתוּנֵי	נתון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	נָתוּן	_
+5-6	הַיָּמִים	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	יָּמִים	יום	NOUN	NOUN	Gender=Masc|Number=Plur	יוֹם	_
+7-8	הָאַחֲרוֹנִים	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	אַחֲרוֹנִים	אחרון	ADJ	ADJ	Gender=Masc|Number=Plur	אַחֲרוֹן	_
+9	יְעֻדְכְּנוּ	עודכן	VERB	VERB	Gender=Masc|HebBinyan=PUAL|HebRoot=עדכן|Number=Plur|Person=3|Tense=Fut|Voice=Pass	עֻדְכַּן	_
+10-11	וִיפֻרְסְמוּ	_	_	_	_
+10	וִ	ו	CCONJ	CCONJ
+11	יפֻרְסְמוּ	פורסם	VERB	VERB	Gender=Masc|HebBinyan=PUAL|HebRoot=פרסם|Number=Plur|Person=3|Tense=Fut|Voice=Pass	פֻּרְסַם	_
+12-14	כָּאָמוּר	_	_	_	_
+12	כָּ	כ	ADP	ADP
+13	ה_	ה	DET	DET	PronType=Art
+14	אָמוּר	אמור	ADJ	ADJ	Gender=Masc|Number=Sing	אָמוּר	_
+15-17	בַּשָּׁבוּעַ	_	_	_	_
+15	בַּ	ב	ADP	ADP
+16	ה_	ה	DET	DET	PronType=Art
+17	שָּׁבוּעַ	שבוע	NOUN	NOUN	Gender=Masc|Number=Sing	שָׁבוּעַ	_
+18-19	הַבָּא	_	_	_	_
+18	ה	ה	DET	DET	PronType=Art
+19	בָּא	בא	ADJ	ADJ	Gender=Masc|Number=Sing	בָּא	_
+20	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = הממצא המרכזי לבחינת השינוי בפעילות השוטפת בחודשים האחרונים מוצג באיור 1, בו ניתן להבחין כי בחודש מרץ החלה ירידה בצריכת החשמל המשקית (בימי עבודה, 
+1-2	הַמִּמְצָא	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	מִּמְצָא	ממצא	NOUN	NOUN	Gender=Masc|Number=Sing	מִמְצָא	_
+3-4	הַמֶּרְכָּזִי	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	מֶּרְכָּזִי	מרכזי	ADJ	ADJ	Gender=Masc|Number=Sing	מֶרְכָּזִי	_
+5-6	לִבְחִינַת	_	_	_	_
+5	לִ	ל	ADP	ADP
+6	בְחִינַת	בחינה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּחִינָה	_
+7-8	הַשִּׁנּוּי	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	שִּׁנּוּי	שינוי	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁנּוּי	_
+9-11	בַּפְּעִילוּת	_	_	_	_
+9	בַּ	ב	ADP	ADP
+10	ה_	ה	DET	DET	PronType=Art
+11	פְּעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+12-13	הַשּׁוֹטֶפֶת	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	שּׁוֹטֶפֶת	שוטף	ADJ	ADJ	Gender=Fem|Number=Sing	שׁוֹטֵף	_
+14-15	בָּחֳדָשִׁים	_	_	_	_
+14	בָּ	ב	ADP	ADP
+15	חֳדָשִׁים	חודש	NOUN	NOUN	Gender=Masc|Number=Plur	חֹדֶשׁ	_
+16-17	הָאַחֲרוֹנִים	_	_	_	_
+16	ה	ה	DET	DET	PronType=Art
+17	אַחֲרוֹנִים	אחרון	ADJ	ADJ	Gender=Masc|Number=Plur	אַחֲרוֹן	_
+18	מֻצָּג	הוצג	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+19-20	בְּאִיּוּר	_	_	_	_
+19	בְּ	ב	ADP	ADP
+20	אִיּוּר	איור	NOUN	NOUN	Gender=Masc|Number=Sing	אִיּוּר	_
+21	1		NUM	NUM		1	_
+22-25	, בּוֹ	_	_	_	_
+22	,		PUNCT	PUNCT		,	_
+23	 		X	X	DictaNote=Unknown	 	_
+24	ב_	ב	ADP	ADP		בְּ	_
+25	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+26	נִתָּן	נתן	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	נתן	_
+27	לְהַבְחִין	הבחין	VERB	VERB	HebBinyan=HIFIL|HebRoot=בחן|VerbForm=Inf|Voice=Act	הִבְחִין	_
+28	כִּי	כי	SCONJ	SCONJ		כִּי	_
+29-30	בְּחֹדֶשׁ	_	_	_	_
+29	בְּ	ב	ADP	ADP
+30	חֹדֶשׁ	חודש	NOUN	NOUN	Gender=Masc|Number=Sing	חֹדֶשׁ	_
+31	מֵרְץ	מרץ	PROPN	PROPN		מֵרְץ	_
+32	הֵחֵלָּה	החל	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=חלל|Number=Sing|Person=3|Tense=Past|Voice=Act	הֵחֵל	_
+33	יְרִידָה	ירידה	NOUN	NOUN	Gender=Fem|Number=Sing	יְרִידָה	_
+34-35	בִּצְרִיכַת	_	_	_	_
+34	בִּ	ב	ADP	ADP
+35	צְרִיכַת	צריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	צְרִיכָה	_
+36-37	הַחַשְׁמַל	_	_	_	_
+36	ה	ה	DET	DET	PronType=Art
+37	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+38-39	הַמִּשְׁקִית	_	_	_	_
+38	ה	ה	DET	DET	PronType=Art
+39	מִּשְׁקִית	משקי	ADJ	ADJ	Gender=Fem|Number=Sing	מִשְׁקִי	_
+40-42	 (בִּימֵי	_	_	_	_
+40	 (		X	X	DictaNote=Unknown	 (	_
+41	בִּ	ב	ADP	ADP
+42	ימֵי	יום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	יוֹם	_
+43	עֲבוֹדָה	עבודה	NOUN	NOUN	Gender=Fem|Number=Sing	עֲבוֹדָה	_
+44	,		PUNCT	PUNCT		,	_
+45	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לאחר התחשבות בשינויים במזג האוויר) שהתעצמה, והגיעה לשיא, בשעות הבוקר של חודש אפריל. 
+1	לְאַחַר	לאחר	ADP	ADP		לְאַחַר	_
+2	הִתְחַשְּׁבוּת	התחשבות	NOUN	NOUN	Gender=Fem|Number=Sing	הִתְחַשְּׁבוּת	_
+3-4	בְּשִׁנּוּיִים	_	_	_	_
+3	בְּ	ב	ADP	ADP
+4	שִׁנּוּיִים	שינוי	NOUN	NOUN	Gender=Masc|Number=Plur	שִׁנּוּי	_
+5-6	בְּמֶזֶג	_	_	_	_
+5	בְּ	ב	ADP	ADP
+6	מֶזֶג	מזג	NOUN	NOUN	Gender=Masc|Number=Sing	מֶזֶג	_
+7-8	הָאֲוִיר	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	אֲוִיר	אוויר	NOUN	NOUN	Gender=Masc|Number=Sing	אֲוִיר	_
+9-12	) שֶׁהִתְעַצְּמָה	_	_	_	_
+9	)		PUNCT	PUNCT		)	_
+10	 		X	X	DictaNote=Unknown	 	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	הִתְעַצְּמָה	התעצם	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|HebRoot=עצם|Number=Sing|Person=3|Tense=Past	הִתְעַצֵּם	_
+13-16	, וְהִגִּיעָה	_	_	_	_
+13	,		PUNCT	PUNCT		,	_
+14	 		X	X	DictaNote=Unknown	 	_
+15	וְ	ו	CCONJ	CCONJ
+16	הִגִּיעָה	הגיע	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=נגע|Number=Sing|Person=3|Tense=Past|Voice=Act	הִגִּיעַ	_
+17-18	לְשִׂיא	_	_	_	_
+17	לְ	ל	ADP	ADP
+18	שִׂיא	שיא	NOUN	NOUN	Gender=Masc|Number=Sing	שִׂיא	_
+19-22	, בִּשְׁעוֹת	_	_	_	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	בִּ	ב	ADP	ADP
+22	שְׁעוֹת	שעה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	שָׁעָה	_
+23-24	הַבֹּקֶר	_	_	_	_
+23	ה	ה	DET	DET	PronType=Art
+24	בֹּקֶר	בוקר	NOUN	NOUN	Gender=Masc|Number=Sing	בֹּקֶר	_
+25	שֶׁל	של	ADP	ADP		שֶׁל	_
+26	חֹדֶשׁ	חודש	NOUN	NOUN	Gender=Masc|Number=Sing	חֹדֶשׁ	_
+27	אַפְּרִיל	אפריל	PROPN	PROPN	Gender=Masc|Number=Sing	אַפְּרִיל	_
+28	.		PUNCT	PUNCT		.	_
+29	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בחודש זה צריכת החשמל בשעות הבוקר היתה נמוכה ב-13% מהממוצע בשנתיים קודמות. 
+1-2	בְּחֹדֶשׁ	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	חֹדֶשׁ	חודש	NOUN	NOUN	Gender=Masc|Number=Sing	חֹדֶשׁ	_
+3	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+4	צְרִיכַת	צריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	צְרִיכָה	_
+5-6	הַחַשְׁמַל	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+7-8	בִּשְׁעוֹת	_	_	_	_
+7	בִּ	ב	ADP	ADP
+8	שְׁעוֹת	שעה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	שָׁעָה	_
+9-10	הַבֹּקֶר	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	בֹּקֶר	בוקר	NOUN	NOUN	Gender=Masc|Number=Sing	בֹּקֶר	_
+11	הָיְתָה	היי	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbType=Cop	היי	_
+12	נְמוּכָה	נמוך	ADJ	ADJ	Gender=Fem|Number=Sing	נָמוּךְ	_
+13	בְּ	ב	ADP	ADP		בְּ	_
+14	-		PUNCT	PUNCT		-	_
+15	13		NUM	NUM		13	_
+16-20	% מֵהַמְּמֻצָּע	_	_	_	_
+16	%		PUNCT	PUNCT		%	_
+17	 		X	X	DictaNote=Unknown	 	_
+18	מֵ	מ	ADP	ADP
+19	ה	ה	DET	DET	PronType=Art
+20	מְּמֻצָּע	ממוצע	ADJ	ADJ	Gender=Masc|Number=Sing	מְמֻצָּע	_
+21-22	בִּשְׁנָתַיִם	_	_	_	_
+21	בִּ	ב	ADP	ADP
+22	שְׁנָתַיִם	שנה	NOUN	NOUN	Gender=Fem|Number=Plur	שָׁנָה	_
+23	קוֹדְמוֹת	קודם	ADJ	ADJ	Gender=Fem|Number=Plur	קוֹדֵם	_
+24	.		PUNCT	PUNCT		.	_
+25	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = הירידה בצריכת החשמל ממוקדת בימי עבודה (ולא בשבתות וחגים), ובולטת יותר בשעות היום והערב.
+1-2	הַיְּרִידָה	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	יְּרִידָה	ירידה	NOUN	NOUN	Gender=Fem|Number=Sing	יְרִידָה	_
+3-4	בִּצְרִיכַת	_	_	_	_
+3	בִּ	ב	ADP	ADP
+4	צְרִיכַת	צריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	צְרִיכָה	_
+5-6	הַחַשְׁמַל	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+7	מְמֻקֶּדֶת	ממוקד	ADJ	ADJ	Gender=Fem|Number=Sing	מְמֻקָּד	_
+8-9	בִּימֵי	_	_	_	_
+8	בִּ	ב	ADP	ADP
+9	ימֵי	יום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	יוֹם	_
+10	עֲבוֹדָה	עבודה	NOUN	NOUN	Gender=Fem|Number=Sing	עֲבוֹדָה	_
+11-13	 (וְלֹא	_	_	_	_
+11	 (		X	X	DictaNote=Unknown	 (	_
+12	וְ	ו	CCONJ	CCONJ
+13	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+14-15	בְּשַׁבָּתוֹת	_	_	_	_
+14	בְּ	ב	ADP	ADP
+15	שַׁבָּתוֹת	שבת	NOUN	NOUN	Gender=Fem|Number=Plur	שַׁבָּת	_
+16-17	וְחַגִּים	_	_	_	_
+16	וְ	ו	CCONJ	CCONJ
+17	חַגִּים	חג	NOUN	NOUN	Gender=Masc|Number=Plur	חַג	_
+18-22	), וּבוֹלֶטֶת	_	_	_	_
+18	)		PUNCT	PUNCT		)	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	וּ	ו	CCONJ	CCONJ
+22	בוֹלֶטֶת	בלט	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=בלט|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	בָּלַט	_
+23	יוֹתֵר	יותר	ADV	ADV		יוֹתֵר	_
+24-25	בִּשְׁעוֹת	_	_	_	_
+24	בִּ	ב	ADP	ADP
+25	שְׁעוֹת	שעה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	שָׁעָה	_
+26-27	הַיּוֹם	_	_	_	_
+26	ה	ה	DET	DET	PronType=Art
+27	יּוֹם	יום	NOUN	NOUN	Gender=Masc|Number=Sing	יוֹם	_
+28-30	וְהָעֶרֶב	_	_	_	_
+28	וְ	ו	CCONJ	CCONJ
+29	ה	ה	DET	DET	PronType=Art
+30	עֶרֶב	ערב	NOUN	NOUN	Gender=Masc|Number=Sing	עֶרֶב	_
+31	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = נתונים מעודכנים על השינויים בהוצאה בכרטיסי אשראי כתוצאה ממשבר נגיף הקורונה ועדכון שבועי שוטף של סט אינדיקטורים נבחרים
+
+1	נְתוּנִים	נתון	NOUN	NOUN	Gender=Masc|Number=Plur	נָתוּן	_
+2	מְעֻדְכָּנִים	מעודכן	ADJ	ADJ	Gender=Masc|Number=Plur	מְעֻדְכָּן	_
+3	עַל	על	ADP	ADP		עַל	_
+4-5	הַשִּׁנּוּיִים	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	שִּׁנּוּיִים	שינוי	NOUN	NOUN	Gender=Masc|Number=Plur	שִׁנּוּי	_
+6-7	בְּהוֹצָאָה	_	_	_	_
+6	בְּ	ב	ADP	ADP
+7	הוֹצָאָה	הוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹצָאָה	_
+8-9	בְּכַרְטִיסֵי	_	_	_	_
+8	בְּ	ב	ADP	ADP
+9	כַרְטִיסֵי	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כַּרְטִיס	_
+10	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+11-12	כְּתוֹצָאָה	_	_	_	_
+11	כְּ	כ	ADP	ADP
+12	תוֹצָאָה	תוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	תּוֹצָאָה	_
+13-14	מִמַּשְׁבֵּר	_	_	_	_
+13	מִ	מ	ADP	ADP
+14	מַּשְׁבֵּר	משבר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+15	נְגִיף	נגיף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	נְגִיף	_
+16-17	הַקּוֹרוֹנָה	_	_	_	_
+16	ה	ה	DET	DET	PronType=Art
+17	קּוֹרוֹנָה	קורונה	PROPN	PROPN		קוֹרוֹנָה	_
+18-19	וְעִדְכּוּן	_	_	_	_
+18	וְ	ו	CCONJ	CCONJ
+19	עִדְכּוּן	עדכון	NOUN	NOUN	Gender=Masc|Number=Sing	עִדְכּוּן	_
+20	שְׁבוּעִי	שבועי	ADJ	ADJ	Gender=Masc|Number=Sing	שְׁבוּעִי	_
+21	שׁוֹטֵף	שטף	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁטף|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	שָׁטַף	_
+22	שֶׁל	של	ADP	ADP		שֶׁל	_
+23	סֵט	סט	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	סֵט	_
+24	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+25	נִבְחָרִים	נבחר	ADJ	ADJ	Gender=Masc|Number=Plur	נִבְחָר	_
+
+# new_sentence = yes, end_paragraph=no
+# text = כאשר בוחנים את הוצאות לפי הענפים ניתן לראות כי בענפי מוצרי חשמל, ביגוד וריהוט סכומי ההוצאה שבו לרמות שלפני תחילת המשבר. 
+1	כַּאֲשֶׁר	כאשר	SCONJ	SCONJ		כַּאֲשֶׁר	_
+2	בּוֹחֲנִים	בחן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=בחן|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	בָּחַן	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	הוֹצָאוֹת	הוצאה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	הוֹצָאָה	_
+5	לְפִי	לפי	ADP	ADP		לְפִי	_
+6-7	הָעֲנָפִים	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	עֲנָפִים	ענף	NOUN	NOUN	Gender=Masc|Number=Plur	עָנָף	_
+8	נִתָּן	נתן	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	נתן	_
+9	לִרְאוֹת	ראה	VERB	VERB	HebBinyan=PAAL|HebRoot=ראי|VerbForm=Inf|Voice=Act	רָאָה	_
+10	כִּי	כי	SCONJ	SCONJ		כִּי	_
+11-12	בְּעַנְפֵי	_	_	_	_
+11	בְּ	ב	ADP	ADP
+12	עַנְפֵי	ענף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	עָנָף	_
+13	מוּצְרֵי	מוצר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	מוּצָר	_
+14	חַשְׁמַל	חשמל	NOUN	NOUN	Gender=Masc|Number=Sing	חַשְׁמַל	_
+15-17	, בִּגּוּד	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	בִּגּוּד	ביגוד	NOUN	NOUN	Gender=Masc|Number=Sing	בִּגּוּד	_
+18-19	וְרִהוּט	_	_	_	_
+18	וְ	ו	CCONJ	CCONJ
+19	רִהוּט	ריהוט	NOUN	NOUN	Gender=Masc|Number=Sing	רִהוּט	_
+20	סְכוּמֵי	סכום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	סְכוּם	_
+21-22	הַהוֹצָאָה	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	הוֹצָאָה	הוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹצָאָה	_
+23	שָׁבוּ	שבה	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=שׁבי|Number=Plur|Person=3|Tense=Past|Voice=Act	שָׁבָה	_
+24-25	לְרָמוֹת	_	_	_	_
+24	לְ	ל	ADP	ADP
+25	רָמוֹת	רמה	NOUN	NOUN	Gender=Fem|Number=Plur	רָמָה	_
+26-27	שֶׁלִּפְנֵי	_	_	_	_
+26	שֶׁ	ש	SCONJ	SCONJ
+27	לִּפְנֵי	לפני	ADP	ADP		לִפְנֵי	_
+28	תְּחִלַּת	תחילה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּחִלָּה	_
+29-30	הַמַּשְׁבֵּר	_	_	_	_
+29	ה	ה	DET	DET	PronType=Art
+30	מַּשְׁבֵּר	משבר	NOUN	NOUN	Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+31	.		PUNCT	PUNCT		.	_
+32	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = הגידול בהוצאה על דלק וכלי תחבורה ממחישה את הגידול בניידות של הציבור (ראה גם פרסום על אינדיקטורים שפרסם הבנק על שינויים בדפוסי ניידות). 
+1-2	הַגִּדּוּל	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	גִּדּוּל	גידול	NOUN	NOUN	Gender=Masc|Number=Sing	גִּדּוּל	_
+3-5	בַּהוֹצָאָה	_	_	_	_
+3	בַּ	ב	ADP	ADP
+4	ה_	ה	DET	DET	PronType=Art
+5	הוֹצָאָה	הוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹצָאָה	_
+6	עַל	על	ADP	ADP		עַל	_
+7	דֶּלֶק	דלק	NOUN	NOUN	Gender=Masc|Number=Sing	דֶּלֶק	_
+8-9	וּכְלֵי	_	_	_	_
+8	וּ	ו	CCONJ	CCONJ
+9	כְלֵי	כלי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כְּלִי	_
+10	תַּחְבּוּרָה	תחבורה	NOUN	NOUN	Gender=Fem|Number=Sing	תַּחְבּוּרָה	_
+11	מַמְחִישָׁה	המחיש	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=מחשׁ|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִמְחִישׁ	_
+12	אֶת	את	ADP	ADP		אֶת	_
+13-14	הַגִּדּוּל	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	גִּדּוּל	גידול	NOUN	NOUN	Gender=Masc|Number=Sing	גִּדּוּל	_
+15-16	בְּנַיָּדוּת	_	_	_	_
+15	בְּ	ב	ADP	ADP
+16	נַיָּדוּת	ניידות	NOUN	NOUN	Gender=Fem|Number=Sing	נַיָּדוּת	_
+17	שֶׁל	של	ADP	ADP		שֶׁל	_
+18-19	הַצִּבּוּר	_	_	_	_
+18	ה	ה	DET	DET	PronType=Art
+19	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+20-21	 (רְאֵה	_	_	_	_
+20	 (		X	X	DictaNote=Unknown	 (	_
+21	רְאֵה	ראה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=ראי|Mood=Imp|Number=Sing|Person=2|Voice=Act	רָאָה	_
+22	גַּם	גם	ADV	ADV		גַּם	_
+23	פִּרְסוּם	פרסום	NOUN	NOUN	Gender=Masc|Number=Sing	פִּרְסוּם	_
+24	עַל	על	ADP	ADP		עַל	_
+25	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+26-27	שֶׁפִּרְסֵם	_	_	_	_
+26	שֶׁ	ש	SCONJ	SCONJ
+27	פִּרְסֵם	פרסם	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=פרסם|Number=Sing|Person=3|Tense=Past|Voice=Act	פִּרְסֵם	_
+28-29	הַבַּנְק	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+30	עַל	על	ADP	ADP		עַל	_
+31	שִׁנּוּיִים	שינוי	NOUN	NOUN	Gender=Masc|Number=Plur	שִׁנּוּי	_
+32-33	בִּדְפוּסֵי	_	_	_	_
+32	בִּ	ב	ADP	ADP
+33	דְפוּסֵי	דפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	דְּפוּס	_
+34	נַיָּדוֹת	ניידת	NOUN	NOUN	Gender=Fem|Number=Plur	נַיֶּדֶת	_
+35	)		PUNCT	PUNCT		)	_
+36	.		PUNCT	PUNCT		.	_
+37	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = קיימת מגמה חיובית גם בהוצאה על מסעדות, חינוך ופנאי. 
+1	קַיֶּמֶת	קיים	ADJ	ADJ	Gender=Fem|Number=Sing	קַיָּם	_
+2	מְגַמָּה	מגמה	NOUN	NOUN	Gender=Fem|Number=Sing	מְגַמָּה	_
+3	חִיּוּבִית	חיובי	ADJ	ADJ	Gender=Fem|Number=Sing	חִיּוּבִי	_
+4	גַּם	גם	ADV	ADV		גַּם	_
+5-6	בְּהוֹצָאָה	_	_	_	_
+5	בְּ	ב	ADP	ADP
+6	הוֹצָאָה	הוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹצָאָה	_
+7	עַל	על	ADP	ADP		עַל	_
+8	מִסְעָדוֹת	מסעדה	NOUN	NOUN	Gender=Fem|Number=Plur	מִסְעָדָה	_
+9-11	, חִנּוּךְ	_	_	_	_
+9	,		PUNCT	PUNCT		,	_
+10	 		X	X	DictaNote=Unknown	 	_
+11	חִנּוּךְ	חינוך	NOUN	NOUN	Gender=Masc|Number=Sing	חִנּוּךְ	_
+12-13	וּפְנַאי	_	_	_	_
+12	וּ	ו	CCONJ	CCONJ
+13	פְנַאי	פנאי	NOUN	NOUN	Gender=Masc|Number=Sing	פְּנַאי	_
+14	.		PUNCT	PUNCT		.	_
+15	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לעומת זאת ההוצאה בתחומי התיירות השונים טרם התאוששה.
+1	לְעֻמַּת	לעומת	ADP	ADP		לְעֻמַּת	_
+2	זֹאת	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	זֶה	_
+3-4	הַהוֹצָאָה	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	הוֹצָאָה	הוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹצָאָה	_
+5-6	בִּתְחוּמֵי	_	_	_	_
+5	בִּ	ב	ADP	ADP
+6	תְחוּמֵי	תחום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	תְּחוּם	_
+7-8	הַתַּיָּרוּת	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	תַּיָּרוּת	תיירות	NOUN	NOUN	Gender=Fem|Number=Sing	תַּיָּרוּת	_
+9-10	הַשּׁוֹנִים	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	שּׁוֹנִים	שונה	ADJ	ADJ	Gender=Masc|Number=Plur	שׁוֹנֶה	_
+11	טֶרֶם	טרם	ADV	ADV		טֶרֶם	_
+12	הִתְאוֹשְׁשָׁה	התאושש	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|HebRoot=אשׁשׁ|Number=Sing|Person=3|Tense=Past	הִתְאוֹשֵׁשׁ	_
+13	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = כחלק מהתמודדות עם משבר נגיף הקורונה, בנק ישראל מגבש באופן שוטף תמונת מצב של הכלכלה הישראלית, הן בצד הריאלי, והן בצד הפיננסי. 
+1-2	כְּחֵלֶק	_	_	_	_
+1	כְּ	כ	ADP	ADP
+2	חֵלֶק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	חֵלֶק	_
+3-4	מֵהִתְמוֹדְדוּת	_	_	_	_
+3	מֵ	מ	ADP	ADP
+4	הִתְמוֹדְדוּת	התמודדות	NOUN	NOUN	Gender=Fem|Number=Sing	הִתְמוֹדְדוּת	_
+5	עִם	עם	ADP	ADP		עִם	_
+6	מַשְׁבֵּר	משבר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+7	נְגִיף	נגיף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	נְגִיף	_
+8-9	הַקּוֹרוֹנָה	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	קּוֹרוֹנָה	קורונה	PROPN	PROPN		קוֹרוֹנָה	_
+10-12	, בַּנְק	_	_	_	_
+10	,		PUNCT	PUNCT		,	_
+11	 		X	X	DictaNote=Unknown	 	_
+12	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+13	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+14	מְגַבֵּשׁ	גיבש	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=גבשׁ|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	גִּבֵּשׁ	_
+15-16	בְּאֹפֶן	_	_	_	_
+15	בְּ	ב	ADP	ADP
+16	אֹפֶן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפֶן	_
+17	שׁוֹטֵף	שטף	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁטף|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	שָׁטַף	_
+18	תְּמוּנַת	תמונה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּמוּנָה	_
+19	מַצָּב	מצב	NOUN	NOUN	Gender=Masc|Number=Sing	מַצָּב	_
+20	שֶׁל	של	ADP	ADP		שֶׁל	_
+21-22	הַכַּלְכָּלָה	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	כַּלְכָּלָה	כלכלה	NOUN	NOUN	Gender=Fem|Number=Sing	כַּלְכָּלָה	_
+23-24	הַיִּשְׂרְאֵלִית	_	_	_	_
+23	ה	ה	DET	DET	PronType=Art
+24	יִּשְׂרְאֵלִית	ישראלי	ADJ	ADJ	Gender=Fem|Number=Sing	יִשְׂרְאֵלִי	_
+25-27	, הֵן	_	_	_	_
+25	,		PUNCT	PUNCT		,	_
+26	 		X	X	DictaNote=Unknown	 	_
+27	הֵן	הן	CCONJ	CCONJ		הֵן	_
+28-30	בַּצַּד	_	_	_	_
+28	בַּ	ב	ADP	ADP
+29	ה_	ה	DET	DET	PronType=Art
+30	צַּד	צד	NOUN	NOUN	Gender=Masc|Number=Sing	צַד	_
+31-32	הָרֵאָלִי	_	_	_	_
+31	ה	ה	DET	DET	PronType=Art
+32	רֵאָלִי	ריאלי	ADJ	ADJ	Gender=Masc|Number=Sing	רֵאָלִי	_
+33-36	, וְהֵן	_	_	_	_
+33	,		PUNCT	PUNCT		,	_
+34	 		X	X	DictaNote=Unknown	 	_
+35	וְ	ו	CCONJ	CCONJ
+36	הֵן	הן	CCONJ	CCONJ		הֵן	_
+37-39	בַּצַּד	_	_	_	_
+37	בַּ	ב	ADP	ADP
+38	ה_	ה	DET	DET	PronType=Art
+39	צַּד	צד	NOUN	NOUN	Gender=Masc|Number=Sing	צַד	_
+40-41	הַפִינַנְסִי	_	_	_	_
+40	ה	ה	DET	DET	PronType=Art
+41	פִינַנְסִי	פיננסי	ADJ	ADJ	Gender=Masc|Number=Sing	פִינַנְסִי	_
+42	.		PUNCT	PUNCT		.	_
+43	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לצורך כך הוקמה תשתית מידע ייעודית בבנק ישראל שמנטרת אינדיקטורים מעולמות תוכן שונים. 
+1-2	לְצֹרֶךְ	_	_	_	_
+1	לְ	ל	ADP	ADP
+2	צֹרֶךְ	צורך	NOUN	NOUN	Gender=Masc|Number=Sing	צֹרֶךְ	_
+3	כָּךְ	כך	PRON	PRON	PronType=Dem	כָּךְ	_
+4	הוּקְמָה	הוקם	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|HebRoot=קום|Number=Sing|Person=3|Tense=Past|Voice=Pass	הוּקַם	_
+5	תַּשְׁתִּית	תשתית	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תַּשְׁתִּית	_
+6	מֵידָע	מידע	NOUN	NOUN	Gender=Masc|Number=Sing	מֵידָע	_
+7	יִעוּדִית	ייעודי	ADJ	ADJ	Gender=Fem|Number=Sing	יִעוּדִי	_
+8-9	בְּבַנְק	_	_	_	_
+8	בְּ	ב	ADP	ADP
+9	בַנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+10	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+11-12	שֶׁמַּנְטְרַת	_	_	_	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	מַּנְטְרַת	מנטרה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מַנְטְרָה	_
+13	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+14-15	מֵעוֹלְמוֹת	_	_	_	_
+14	מֵ	מ	ADP	ADP
+15	עוֹלְמוֹת	עולם	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	עוֹלָם	_
+16	תֹּכֶן	תוכן	NOUN	NOUN	Gender=Masc|Number=Sing	תֹּכֶן	_
+17	שׁוֹנִים	שונה	ADJ	ADJ	Gender=Masc|Number=Plur	שׁוֹנֶה	_
+18	.		PUNCT	PUNCT		.	_
+19	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = החל מהיום יפרסם ויעדכן הבנק את נתוני האינדיקטורים השונים בתדירות שבועית בדף ייעודי באתר (קישור).
+1	הָחֵל	החיל	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=חול|Mood=Imp|Number=Sing|Person=2|Voice=Act	הֵחִיל	_
+2-4	מֵהַיּוֹם	_	_	_	_
+2	מֵ	מ	ADP	ADP
+3	ה	ה	DET	DET	PronType=Art
+4	יּוֹם	יום	NOUN	NOUN	Gender=Masc|Number=Sing	יוֹם	_
+5	יְפַרְסֵם	פרסם	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=פרסם|Number=Sing|Person=3|Tense=Fut|Voice=Act	פִּרְסֵם	_
+6-7	וִיעַדְכֵּן	_	_	_	_
+6	וִ	ו	CCONJ	CCONJ
+7	יעַדְכֵּן	עדכן	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=עדכן|Number=Sing|Person=3|Tense=Fut|Voice=Act	עִדְכֵּן	_
+8-9	הַבַּנְק	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+10	אֶת	את	ADP	ADP		אֶת	_
+11	נְתוּנֵי	נתון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	נָתוּן	_
+12-13	הָאִינְדִּיקָטוֹרִים	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+14-15	הַשּׁוֹנִים	_	_	_	_
+14	ה	ה	DET	DET	PronType=Art
+15	שּׁוֹנִים	שונה	ADJ	ADJ	Gender=Masc|Number=Plur	שׁוֹנֶה	_
+16-17	בִּתְדִירוּת	_	_	_	_
+16	בִּ	ב	ADP	ADP
+17	תְדִירוּת	תדירות	NOUN	NOUN	Gender=Fem|Number=Sing	תְּדִירוּת	_
+18	שְׁבוּעִית	שבועי	ADJ	ADJ	Gender=Fem|Number=Sing	שְׁבוּעִי	_
+19-20	בְּדַף	_	_	_	_
+19	בְּ	ב	ADP	ADP
+20	דַף	דף	NOUN	NOUN	Gender=Masc|Number=Sing	דַּף	_
+21	יִעוּדִי	ייעודי	ADJ	ADJ	Gender=Masc|Number=Sing	יִעוּדִי	_
+22-24	בָּאֲתָר	_	_	_	_
+22	בָּ	ב	ADP	ADP
+23	ה_	ה	DET	DET	PronType=Art
+24	אֲתָר	אתר	NOUN	NOUN	Gender=Masc|Number=Sing	אֲתָר	_
+25-26	 (קִשּׁוּר	_	_	_	_
+25	 (		X	X	DictaNote=Unknown	 (	_
+26	קִשּׁוּר	קישור	NOUN	NOUN	Gender=Masc|Number=Sing	קִשּׁוּר	_
+27	)		PUNCT	PUNCT		)	_
+28	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = תמונת המצב הדינמית מוצגת באופן שוטף במסגרת החמ""ל שהקים נגיד בנק ישראל עם פרוץ המשבר, וכוללת, בין היתר, אינדיקטורים משוק העבודה, שוק האשראי, 
+1	תְּמוּנַת	תמונה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּמוּנָה	_
+2-3	הַמַּצָּב	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	מַּצָּב	מצב	NOUN	NOUN	Gender=Masc|Number=Sing	מַצָּב	_
+4-5	הַדִּינָמִית	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	דִּינָמִית	דינמי	ADJ	ADJ	Gender=Fem|Number=Sing	דִּינָמִי	_
+6	מֻצֶּגֶת	הוצג	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+7-8	בְּאֹפֶן	_	_	_	_
+7	בְּ	ב	ADP	ADP
+8	אֹפֶן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפֶן	_
+9	שׁוֹטֵף	שטף	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁטף|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	שָׁטַף	_
+10-11	בְּמִסְגֶּרֶת	_	_	_	_
+10	בְּ	ב	ADP	ADP
+11	מִסְגֶּרֶת	מסגרת	ADP	ADP		מִסְגֶּרֶת	_
+12-14	הַחַמָּ	_	_	_	_
+12	הַ	ה	SCONJ	SCONJ
+13	_		NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing		_
+14	_של_	של	ADP	ADP	_
+15-17	""ל	_	_	_	_
+15	"		PUNCT	PUNCT		"	_
+16	"		PUNCT	PUNCT		"	_
+17	ל	ל	NUM	NUM		ל	_
+18-19	שֶׁהֵקִים	_	_	_	_
+18	שֶׁ	ש	SCONJ	SCONJ
+19	הֵקִים	הקים	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=קום|Number=Sing|Person=3|Tense=Past|Voice=Act	הֵקִים	_
+20	נְגִיד	נגיד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	נָגִיד	_
+21	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+22	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+23	עִם	עם	ADP	ADP		עִם	_
+24	פְּרֹץ	פרץ	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=פרץ|Mood=Imp|Number=Sing|Person=2|Voice=Act	פָּרַץ	_
+25-26	הַמַּשְׁבֵּר	_	_	_	_
+25	ה	ה	DET	DET	PronType=Art
+26	מַּשְׁבֵּר	משבר	NOUN	NOUN	Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+27-30	, וְכוֹלֶלֶת	_	_	_	_
+27	,		PUNCT	PUNCT		,	_
+28	 		X	X	DictaNote=Unknown	 	_
+29	וְ	ו	CCONJ	CCONJ
+30	כוֹלֶלֶת	כלל	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=כלל|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	כָּלַל	_
+31-33	, בֵּין	_	_	_	_
+31	,		PUNCT	PUNCT		,	_
+32	 		X	X	DictaNote=Unknown	 	_
+33	בֵּין	בין	ADP	ADP		בֵּין	_
+34-35	הַיֶּתֶר	_	_	_	_
+34	ה	ה	DET	DET	PronType=Art
+35	יֶּתֶר	יתר	NOUN	NOUN	Gender=Masc|Number=Sing	יֶתֶר	_
+36-38	, אִינְדִּיקָטוֹרִים	_	_	_	_
+36	,		PUNCT	PUNCT		,	_
+37	 		X	X	DictaNote=Unknown	 	_
+38	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+39-40	מִשּׁוּק	_	_	_	_
+39	מִ	מ	ADP	ADP
+40	שּׁוּק	שוק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שׁוּק	_
+41-42	הָעֲבוֹדָה	_	_	_	_
+41	ה	ה	DET	DET	PronType=Art
+42	עֲבוֹדָה	עבודה	NOUN	NOUN	Gender=Fem|Number=Sing	עֲבוֹדָה	_
+43-45	, שׁוּק	_	_	_	_
+43	,		PUNCT	PUNCT		,	_
+44	 		X	X	DictaNote=Unknown	 	_
+45	שׁוּק	שוק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שׁוּק	_
+46-47	הָאַשְׁרַאי	_	_	_	_
+46	ה	ה	DET	DET	PronType=Art
+47	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+48	,		PUNCT	PUNCT		,	_
+49	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = שוק ההון ושוק המט""ח. 
+1	שׁוּק	שוק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שׁוּק	_
+2-3	הַהוֹן	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	הוֹן	הון	NOUN	NOUN	Gender=Masc|Number=Sing	הוֹן	_
+4-5	וְשׁוּק	_	_	_	_
+4	וְ	ו	CCONJ	CCONJ
+5	שׁוּק	שוק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שׁוּק	_
+6-7	הַמָּט	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	מָּט	מט	NOUN	NOUN	Gender=Masc|Number=Sing	מָט	_
+8-10	""ח	_	_	_	_
+8	"		PUNCT	PUNCT		"	_
+9	"		PUNCT	PUNCT		"	_
+10	ח	ח	NUM	NUM		ח	_
+11	.		PUNCT	PUNCT		.	_
+12	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בנוסף, לאור אופי המשבר, גיבש בנק ישראל אינדיקטורים מהירים ייחודיים שעשויים להעיד על שינויי מגמה כלכליים. 
+1-2	בְּנוֹסָף	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	נוֹסָף	נוסף	ADV	ADV		נוֹסָף	_
+3-5	, לְאוֹר	_	_	_	_
+3	,		PUNCT	PUNCT		,	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לְאוֹר	לאור	ADP	ADP		לְאוֹר	_
+6	אֹפִי	אופי	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפִי	_
+7-8	הַמַּשְׁבֵּר	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	מַּשְׁבֵּר	משבר	NOUN	NOUN	Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+9-11	, גִּבֵּשׁ	_	_	_	_
+9	,		PUNCT	PUNCT		,	_
+10	 		X	X	DictaNote=Unknown	 	_
+11	גִּבֵּשׁ	גיבש	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=גבשׁ|Number=Sing|Person=3|Tense=Past|Voice=Act	גִּבֵּשׁ	_
+12	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+13	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+14	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+15	מְהִירִים	מהיר	ADJ	ADJ	Gender=Masc|Number=Plur	מָהִיר	_
+16	יִחוּדִיִּים	ייחודי	ADJ	ADJ	Gender=Masc|Number=Plur	יִחוּדִי	_
+17-18	שֶׁעֲשׂוּיִים	_	_	_	_
+17	שֶׁ	ש	SCONJ	SCONJ
+18	עֲשׂוּיִים	עשוי	AUX	AUX	Gender=Masc|Number=Plur|Person=1,2,3|VerbType=Mod	עָשׂוּי	_
+19	לְהָעִיד	העיד	VERB	VERB	HebBinyan=HIFIL|HebRoot=עוד|VerbForm=Inf|Voice=Act	הֵעִיד	_
+20	עַל	על	ADP	ADP		עַל	_
+21	שִׁנּוּיֵי	שינוי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שִׁנּוּי	_
+22	מְגַמָּה	מגמה	NOUN	NOUN	Gender=Fem|Number=Sing	מְגַמָּה	_
+23	כַּלְכָּלִיִּים	כלכלי	ADJ	ADJ	Gender=Masc|Number=Plur	כַּלְכָּלִי	_
+24	.		PUNCT	PUNCT		.	_
+25	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = עולם מערכות ואמצעי התשלום רלוונטי במיוחד - עולם זה מהווה למעשה את התשתית שדרכה מבוצעות התנועות הכלכליות של הציבור –הצרכנים והעסקים. 
+1	עוֹלַם	עולם	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	עוֹלָם	_
+2	מַעֲרָכוֹת	מערכת	NOUN	NOUN	Gender=Fem|Number=Plur	מַעֲרֶכֶת	_
+3-4	וְאֶמְצָעֵי	_	_	_	_
+3	וְ	ו	CCONJ	CCONJ
+4	אֶמְצָעֵי	אמצעי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	אֶמְצָעִי	_
+5-6	הַתַּשְׁלוּם	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	תַּשְׁלוּם	תשלום	NOUN	NOUN	Gender=Masc|Number=Sing	תַּשְׁלוּם	_
+7	רֵלֵוַנְטִי	רלוונטי	ADJ	ADJ	Gender=Masc|Number=Sing	רֵלֵוַנְטִי	_
+8	בִּמְיֻחָד	מיחד	ADV	ADV		בִּמְיֻחָד	_
+9-10	 - עוֹלָם	_	_	_	_
+9	 - 		X	X	DictaNote=Unknown	 - 	_
+10	עוֹלָם	עולם	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלָם	_
+11	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+12	מְהַוֶּה	היוה	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=הוי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִוָּה	_
+13	לְמַעֲשֶׂה	למעשה	ADV	ADV		לְמַעֲשֶׂה	_
+14	אֶת	את	ADP	ADP		אֶת	_
+15-16	הַתַּשְׁתִּית	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	תַּשְׁתִּית	תשתית	NOUN	NOUN	Gender=Fem|Number=Sing	תַּשְׁתִּית	_
+17-19	שֶׁדַּרְכָּהּ	_	_	_	_
+17	שֶׁ	ש	SCONJ	SCONJ
+18	דרך_	דרך	ADP	ADP		דֶּרֶךְ	_
+19	_היא	היא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs
+20	מְבֻצָּעוֹת	בוצע	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בצע|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Pass	בֻּצַּע	_
+21-22	הַתְּנוּעוֹת	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	תְּנוּעוֹת	תנועה	NOUN	NOUN	Gender=Fem|Number=Plur	תְּנוּעָה	_
+23-24	הַכַּלְכָּלִיּוֹת	_	_	_	_
+23	ה	ה	DET	DET	PronType=Art
+24	כַּלְכָּלִיּוֹת	כלכלי	ADJ	ADJ	Gender=Fem|Number=Plur	כַּלְכָּלִי	_
+25	שֶׁל	של	ADP	ADP		שֶׁל	_
+26-27	הַצִּבּוּר	_	_	_	_
+26	ה	ה	DET	DET	PronType=Art
+27	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+28-30	 –הַצַּרְכָנִים	_	_	_	_
+28	 –		X	X	DictaNote=Unknown	 –	_
+29	ה	ה	DET	DET	PronType=Art
+30	צַּרְכָנִים	צרכן	NOUN	NOUN	Gender=Masc|Number=Plur	צַרְכָן	_
+31-33	וְהָעֲסָקִים	_	_	_	_
+31	וְ	ו	CCONJ	CCONJ
+32	ה	ה	DET	DET	PronType=Art
+33	עֲסָקִים	עסק	NOUN	NOUN	Gender=Masc|Number=Plur	עֵסֶק	_
+34	.		PUNCT	PUNCT		.	_
+35	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = אינדיקטורים מעולם זה כוללים לדוגמה משיכות מזומן של הציבור בכספומטים, פעילות בשיקים, ופעילות בכרטיסי חיוב. 
+1	אִינְדִּיקָטוֹרִים	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Plur	אִינְדִּיקָטוֹר	_
+2-3	מֵעוֹלָם	_	_	_	_
+2	מֵ	מ	ADP	ADP
+3	עוֹלָם	עולם	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלָם	_
+4	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+5	כּוֹלְלִים	כלל	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=כלל|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	כָּלַל	_
+6-7	לְדֻגְמָה	_	_	_	_
+6	לְ	ל	ADP	ADP
+7	דֻגְמָה	דוגמה	NOUN	NOUN	Gender=Fem|Number=Sing	דֻּגְמָה	_
+8	מְשִׁיכוֹת	משיכה	NOUN	NOUN	Gender=Fem|Number=Plur	מְשִׁיכָה	_
+9	מְזֻמָּן	מזומן	ADJ	ADJ	Gender=Masc|Number=Sing	מְזֻמָּן	_
+10	שֶׁל	של	ADP	ADP		שֶׁל	_
+11-12	הַצִּבּוּר	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+13-14	בְּכַסְפּוֹמָטִים	_	_	_	_
+13	בְּ	ב	ADP	ADP
+14	כַסְפּוֹמָטִים	כספומט	NOUN	NOUN	Gender=Masc|Number=Plur	כַּסְפּוֹמָט	_
+15-17	, פְּעִילוּת	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	פְּעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+18-19	בְּשֵׁקִים	_	_	_	_
+18	בְּ	ב	ADP	ADP
+19	שֵׁקִים	שק	NOUN	NOUN	Gender=Masc|Number=Plur	שֵׁק	_
+20-23	, וּפְעִילוּת	_	_	_	_
+20	,		PUNCT	PUNCT		,	_
+21	 		X	X	DictaNote=Unknown	 	_
+22	וּ	ו	CCONJ	CCONJ
+23	פְעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+24-25	בְּכַרְטִיסֵי	_	_	_	_
+24	בְּ	ב	ADP	ADP
+25	כַרְטִיסֵי	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כַּרְטִיס	_
+26	חִיּוּב	חיוב	NOUN	NOUN	Gender=Masc|Number=Sing	חִיּוּב	_
+27	.		PUNCT	PUNCT		.	_
+28	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "
+
+1	"		PUNCT	PUNCT		"	_
+
+# new_sentence = yes, end_paragraph=no
+# text = אינדיקטור מעניין במיוחד הינו הפעילות בכרטיסי אשראי לפי ענפים. 
+1	אִינְדִּיקָטוֹר	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Sing	אִינְדִּיקָטוֹר	_
+2	מְעַנְיֵן	מעניין	ADJ	ADJ	Gender=Masc|Number=Sing	מְעַנְיֵן	_
+3	בִּמְיֻחָד	מיחד	ADV	ADV		בִּמְיֻחָד	_
+4	הִנּוֹ	הנה	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	הִנֵּה	_
+5-6	הַפְּעִילוּת	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	פְּעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+7-8	בְּכַרְטִיסֵי	_	_	_	_
+7	בְּ	ב	ADP	ADP
+8	כַרְטִיסֵי	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כַּרְטִיס	_
+9	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+10	לְפִי	לפי	ADP	ADP		לְפִי	_
+11	עֲנָפִים	ענף	NOUN	NOUN	Gender=Masc|Number=Plur	עָנָף	_
+12	.		PUNCT	PUNCT		.	_
+13	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = אינדיקטור זה מאפשר לקבל תמונת מצב מאוד ברורה של עוצמת הפגיעה של המשבר בענפי משק שונים, ומסייע לגיבוש צעדי מדיניות של הבנק.
+1	אִינְדִּיקָטוֹר	אינדיקטור	NOUN	NOUN	Gender=Masc|Number=Sing	אִינְדִּיקָטוֹר	_
+2	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+3	מְאַפְשֵׁר	אפשר	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=אפשׁר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אִפְשֵׁר	_
+4	לְקַבֵּל	קיבל	VERB	VERB	HebBinyan=PIEL|HebRoot=קבל|VerbForm=Inf|Voice=Act	קִבֵּל	_
+5	תְּמוּנַת	תמונה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּמוּנָה	_
+6	מַצָּב	מצב	NOUN	NOUN	Gender=Masc|Number=Sing	מַצָּב	_
+7	מְאוֹד	מאוד	ADV	ADV		מְאוֹד	_
+8	בְּרוּרָה	ברור	ADJ	ADJ	Gender=Fem|Number=Sing	בָּרוּר	_
+9	שֶׁל	של	ADP	ADP		שֶׁל	_
+10	עׇצְמַת	עוצמה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	עׇצְמָה	_
+11-12	הַפְּגִיעָה	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	פְּגִיעָה	פגיעה	NOUN	NOUN	Gender=Fem|Number=Sing	פְּגִיעָה	_
+13	שֶׁל	של	ADP	ADP		שֶׁל	_
+14-15	הַמַּשְׁבֵּר	_	_	_	_
+14	ה	ה	DET	DET	PronType=Art
+15	מַּשְׁבֵּר	משבר	NOUN	NOUN	Gender=Masc|Number=Sing	מַשְׁבֵּר	_
+16-17	בְּעַנְפֵי	_	_	_	_
+16	בְּ	ב	ADP	ADP
+17	עַנְפֵי	ענף	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	עָנָף	_
+18	מֶשֶׁק	משק	NOUN	NOUN	Gender=Masc|Number=Sing	מֶשֶׁק	_
+19	שׁוֹנִים	שונה	ADJ	ADJ	Gender=Masc|Number=Plur	שׁוֹנֶה	_
+20-23	, וּמְסַיֵּעַ	_	_	_	_
+20	,		PUNCT	PUNCT		,	_
+21	 		X	X	DictaNote=Unknown	 	_
+22	וּ	ו	CCONJ	CCONJ
+23	מְסַיֵּעַ	סייע	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=סיע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	סִיֵּעַ	_
+24-25	לְגִבּוּשׁ	_	_	_	_
+24	לְ	ל	ADP	ADP
+25	גִבּוּשׁ	גיבוש	NOUN	NOUN	Gender=Masc|Number=Sing	גִּבּוּשׁ	_
+26	צַעֲדֵי	צעד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	צַעַד	_
+27	מְדִינִיּוּת	מדיניות	NOUN	NOUN	Gender=Fem|Number=Sing	מְדִינִיּוּת	_
+28	שֶׁל	של	ADP	ADP		שֶׁל	_
+29-30	הַבַּנְק	_	_	_	_
+29	ה	ה	DET	DET	PronType=Art
+30	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+31	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = הרצאת נגיד בנק ישראל בכנס אלי הורביץ לכלכלה וחברה
+
+1	הַרְצָאַת	הרצאה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַרְצָאָה	_
+2	נְגִיד	נגיד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	נָגִיד	_
+3	בַּנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+4	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+5-6	בְּכֶנֶס	_	_	_	_
+5	בְּ	ב	ADP	ADP
+6	כֶנֶס	כנס	NOUN	NOUN	Gender=Masc|Number=Sing	כֶּנֶס	_
+7	אֵלִי	אלי	PROPN	PROPN		אֵלִי	_
+8	הוֹרְבִיץ	הורביץ	PROPN	PROPN		הוֹרְבִיץ	_
+9-10	לְכַלְכָּלָה	_	_	_	_
+9	לְ	ל	ADP	ADP
+10	כַלְכָּלָה	כלכלה	NOUN	NOUN	Gender=Fem|Number=Sing	כַּלְכָּלָה	_
+11-12	וְחֶבְרָה	_	_	_	_
+11	וְ	ו	CCONJ	CCONJ
+12	חֶבְרָה	חברה	NOUN	NOUN	Gender=Fem|Number=Sing	חֶבְרָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בנאומו עסק הנגיד במצב המאקרו כלכלי של המשק, תוך מיקוד במגזר ההייטק בישראל והשוואה בין מבנה ההייטק הישראלי בתחילת שנות האלפיים לזה הנוכחי. 
+1-4	בִּנְאוּמוֹ	_	_	_	_
+1	בִּ	ב	ADP	ADP
+2	נאום_	נאום	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	נְאוּם	_
+3	_של_	של	ADP	ADP	_
+4	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	עָסַק	עסק	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=עסק|Number=Sing|Person=3|Tense=Past|Voice=Act	עָסַק	_
+6-7	הַנָּגִיד	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	נָּגִיד	נגיד	NOUN	NOUN	Gender=Masc|Number=Sing	נָגִיד	_
+8-9	בְּמַצָּב	_	_	_	_
+8	בְּ	ב	ADP	ADP
+9	מַצָּב	מצב	NOUN	NOUN	Gender=Masc|Number=Sing	מַצָּב	_
+10-12	הַמַּקְרוֹ	_	_	_	_
+10	ה	ה	DET	DET	PronType=Art
+11	_		NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing		_
+12	_של_	של	ADP	ADP	_
+13	כַּלְכָּלִי	כלכלי	ADJ	ADJ	Gender=Masc|Number=Sing	כַּלְכָּלִי	_
+14	שֶׁל	של	ADP	ADP		שֶׁל	_
+15-16	הַמֶּשֶׁק	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	מֶּשֶׁק	משק	NOUN	NOUN	Gender=Masc|Number=Sing	מֶשֶׁק	_
+17-19	, תּוֹךְ	_	_	_	_
+17	,		PUNCT	PUNCT		,	_
+18	 		X	X	DictaNote=Unknown	 	_
+19	תּוֹךְ	תוך	ADP	ADP		תּוֹךְ	_
+20	מִקּוּד	מיקוד	NOUN	NOUN	Gender=Masc|Number=Sing	מִקּוּד	_
+21-22	בְּמִגְזַר	_	_	_	_
+21	בְּ	ב	ADP	ADP
+22	מִגְזַר	מגזר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִגְזָר	_
+23-25	הַהַיְטֵק	_	_	_	_
+23	ה	ה	DET	DET	PronType=Art
+24	_		NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing		_
+25	_של_	של	ADP	ADP	_
+26-27	בְּיִשְׂרָאֵל	_	_	_	_
+26	בְּ	ב	ADP	ADP
+27	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+28-29	וְהַשְׁוָאָה	_	_	_	_
+28	וְ	ו	CCONJ	CCONJ
+29	הַשְׁוָאָה	השוואה	NOUN	NOUN	Gender=Fem|Number=Sing	הַשְׁוָאָה	_
+30	בֵּין	בין	ADP	ADP		בֵּין	_
+31	מִבְנֵה	מבנה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִבְנֶה	_
+32-34	הַהַיְטֵק	_	_	_	_
+32	ה	ה	DET	DET	PronType=Art
+33	_		NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing		_
+34	_של_	של	ADP	ADP	_
+35-36	הַיִּשְׂרְאֵלִי	_	_	_	_
+35	ה	ה	DET	DET	PronType=Art
+36	יִּשְׂרְאֵלִי	ישראלי	ADJ	ADJ	Gender=Masc|Number=Sing	יִשְׂרְאֵלִי	_
+37-38	בִּתְחִלַּת	_	_	_	_
+37	בִּ	ב	ADP	ADP
+38	תְחִלַּת	תחילה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּחִלָּה	_
+39	שְׁנוֹת	שנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	שָׁנָה	_
+40-41	הָאַלְפַּיִם	_	_	_	_
+40	ה	ה	DET	DET	PronType=Art
+41	אַלְפַּיִם	אלף	NUM	NUM	Gender=Masc|Number=Dual	אֶלֶף	_
+42-43	לָזֶה	_	_	_	_
+42	לָ	ל	ADP	ADP
+43	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|PronType=Dem	זֶה	_
+44-45	הַנּוֹכְחִי	_	_	_	_
+44	ה	ה	DET	DET	PronType=Art
+45	נּוֹכְחִי	נוכחי	ADJ	ADJ	Gender=Masc|Number=Sing	נוֹכְחִי	_
+46	.		PUNCT	PUNCT		.	_
+47	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בנוסף התייחס הנגיד להתפתחויות האינפלציה בארץ ובעולם ושב והדגיש כי ""הגם שסביבת האינפלציה בישראל נמוכה משמעותית משל מקבילותיה בעולם, מדובר בתהליך עולמי, 
+1-2	בְּנוֹסָף	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	נוֹסָף	נוסף	ADV	ADV		נוֹסָף	_
+3	הִתְיַחֵס	התייחס	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=יחס|Number=Sing|Person=3|Tense=Past	הִתְיַחֵס	_
+4-5	הַנָּגִיד	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	נָּגִיד	נגיד	NOUN	NOUN	Gender=Masc|Number=Sing	נָגִיד	_
+6-7	לְהִתְפַּתְּחוּיוֹת	_	_	_	_
+6	לְ	ל	ADP	ADP
+7	הִתְפַּתְּחוּיוֹת	התפתחות	NOUN	NOUN	Gender=Fem|Number=Plur	הִתְפַּתְּחוּת	_
+8-9	הָאִינְפְלַצְיָה	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	אִינְפְלַצְיָה	אינפלציה	NOUN	NOUN	Gender=Fem|Number=Sing	אִינְפְלַצְיָה	_
+10-12	בָּאָרֶץ	_	_	_	_
+10	בָּ	ב	ADP	ADP
+11	ה_	ה	DET	DET	PronType=Art
+12	אָרֶץ	ארץ	NOUN	NOUN	Gender=Fem|Number=Sing	אֶרֶץ	_
+13-16	וּבָעוֹלָם	_	_	_	_
+13	וּ	ו	CCONJ	CCONJ
+14	בָ	ב	ADP	ADP
+15	ה_	ה	DET	DET	PronType=Art
+16	עוֹלָם	עולם	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלָם	_
+17-18	וְשָׁב	_	_	_	_
+17	וְ	ו	CCONJ	CCONJ
+18	שָׁב	שב	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁוב|Number=Sing|Person=3|Tense=Past|Voice=Act	שָׁב	_
+19-20	וְהִדְגִּישׁ	_	_	_	_
+19	וְ	ו	CCONJ	CCONJ
+20	הִדְגִּישׁ	הדגיש	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=דגשׁ|Number=Sing|Person=3|Tense=Past|Voice=Act	הִדְגִּישׁ	_
+21	כִּי	כי	SCONJ	SCONJ		כִּי	_
+22-24	 ""הַגַּם	_	_	_	_
+22	 ""		X	X	DictaNote=Unknown	 ""	_
+23	ה	ה	DET	DET	PronType=Art
+24	גַּם	גם	ADV	ADV		גַּם	_
+25-26	שֶׁסְּבִיבַת	_	_	_	_
+25	שֶׁ	ש	SCONJ	SCONJ
+26	סְּבִיבַת	סביבה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סְבִיבָה	_
+27-28	הָאִינְפְלַצְיָה	_	_	_	_
+27	ה	ה	DET	DET	PronType=Art
+28	אִינְפְלַצְיָה	אינפלציה	NOUN	NOUN	Gender=Fem|Number=Sing	אִינְפְלַצְיָה	_
+29-30	בְּיִשְׂרָאֵל	_	_	_	_
+29	בְּ	ב	ADP	ADP
+30	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+31	נְמוּכָה	נמוך	ADJ	ADJ	Gender=Fem|Number=Sing	נָמוּךְ	_
+32	מַשְׁמָעוּתִית	משמעותית	ADV	ADV		מַשְׁמָעוּתִית	_
+33-34	מִשֶּׁל	_	_	_	_
+33	מִ	מ	ADP	ADP
+34	שֶּׁל	של	PROPN	PROPN		שֶׁל	_
+35-37	מַקְבִּילוֹתֶיהָ	_	_	_	_
+35	מקבילה_	מקבילה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Plur	מַקְבִּילָה	_
+36	_של_	של	ADP	ADP	_
+37	_היא	היא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+38-40	בָּעוֹלָם	_	_	_	_
+38	בָּ	ב	ADP	ADP
+39	ה_	ה	DET	DET	PronType=Art
+40	עוֹלָם	עולם	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלָם	_
+41-43	, מְדֻבָּר	_	_	_	_
+41	,		PUNCT	PUNCT		,	_
+42	 		X	X	DictaNote=Unknown	 	_
+43	מְדֻבָּר	דובר	VERB	VERB	Gender=Masc|HebBinyan=PUAL|HebRoot=דבר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	דֻּבַּר	_
+44-45	בְּתַהֲלִיךְ	_	_	_	_
+44	בְּ	ב	ADP	ADP
+45	תַהֲלִיךְ	תהליך	NOUN	NOUN	Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+46	עוֹלָמִי	עולמי	ADJ	ADJ	Gender=Masc|Number=Sing	עוֹלָמִי	_
+47	,		PUNCT	PUNCT		,	_
+48	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = חלקו נובע מגורמי היצע והמשך שיבושים בשרשראות האספקה, אך חלקו נובע גם מתהליכי אינפלציה מקומיים, שבגינם המדיניות המוניטרית אפקטיבית יותר. 
+1-3	חֶלְקוֹ	_	_	_	_
+1	חלק_	חלק	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	חֵלֶק	_
+2	_של_	של	ADP	ADP	_
+3	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+4	נוֹבֵעַ	נבע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נבע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָבַע	_
+5-6	מִגּוֹרְמֵי	_	_	_	_
+5	מִ	מ	ADP	ADP
+6	גּוֹרְמֵי	גורם	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	גּוֹרֵם	_
+7	הֶצֵּעַ	היצע	NOUN	NOUN	Gender=Masc|Number=Sing	הֶצֵּעַ	_
+8-9	וְהֶמְשֵׁךְ	_	_	_	_
+8	וְ	ו	CCONJ	CCONJ
+9	הֶמְשֵׁךְ	המשך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	הֶמְשֵׁךְ	_
+10	שִׁבּוּשִׁים	שיבוש	NOUN	NOUN	Gender=Masc|Number=Plur	שִׁבּוּשׁ	_
+11-12	בְּשַׁרְשְׁרָאוֹת	_	_	_	_
+11	בְּ	ב	ADP	ADP
+12	שַׁרְשְׁרָאוֹת	שרשרת	NOUN	NOUN	Gender=Fem|Number=Plur	שַׁרְשֶׁרֶת	_
+13-14	הָאַסְפָּקָה	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	אַסְפָּקָה	אספקה	NOUN	NOUN	Gender=Fem|Number=Sing	אַסְפָּקָה	_
+15-17	, אַךְ	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	אַךְ	אך	CCONJ	CCONJ		אַךְ	_
+18-20	חֶלְקוֹ	_	_	_	_
+18	חלק_	חלק	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	חֵלֶק	_
+19	_של_	של	ADP	ADP	_
+20	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+21	נוֹבֵעַ	נבע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נבע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָבַע	_
+22	גַּם	גם	ADV	ADV		גַּם	_
+23-24	מִתַּהֲלִיכֵי	_	_	_	_
+23	מִ	מ	ADP	ADP
+24	תַּהֲלִיכֵי	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	תַּהֲלִיךְ	_
+25	אִינְפְלַצְיָה	אינפלציה	NOUN	NOUN	Gender=Fem|Number=Sing	אִינְפְלַצְיָה	_
+26	מְקוֹמִיִּים	מקומי	ADJ	ADJ	Gender=Masc|Number=Plur	מְקוֹמִי	_
+27-31	, שֶׁבְּגִינָם	_	_	_	_
+27	,		PUNCT	PUNCT		,	_
+28	 		X	X	DictaNote=Unknown	 	_
+29	שֶׁ	ש	SCONJ	SCONJ
+30	בגין_	בגין	ADP	ADP		בְּגִין	_
+31	_הם	הם	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs
+32-33	הַמְּדִינִיּוּת	_	_	_	_
+32	ה	ה	DET	DET	PronType=Art
+33	מְּדִינִיּוּת	מדיניות	NOUN	NOUN	Gender=Fem|Number=Sing	מְדִינִיּוּת	_
+34-35	הַמּוֹנִיטָרִית	_	_	_	_
+34	ה	ה	DET	DET	PronType=Art
+35	מּוֹנִיטָרִית	מוניטרי	ADJ	ADJ	Gender=Fem|Number=Sing	מוֹנִיטָרִי	_
+36	אֵפֶקְטִיבִית	אפקטיבי	ADJ	ADJ	Gender=Fem|Number=Sing	אֵפֶקְטִיבִי	_
+37	יוֹתֵר	יותר	ADV	ADV		יוֹתֵר	_
+38	.		PUNCT	PUNCT		.	_
+39	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = אינפלציה גבוהה פוגעת בוודאות ובפעילות הכלכלית ובאופן יחסי פוגעת יותר בשכבות החלשות. 
+1	אִינְפְלַצְיָה	אינפלציה	NOUN	NOUN	Gender=Fem|Number=Sing	אִינְפְלַצְיָה	_
+2	גְּבוֹהָה	גבוה	ADJ	ADJ	Gender=Fem|Number=Sing	גָּבוֹהַּ	_
+3	פּוֹגַעַת	פגע	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=פגע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	פָּגַע	_
+4-5	בְּוַדָּאוּת	_	_	_	_
+4	בְּ	ב	ADP	ADP
+5	וַדָּאוּת	ודאות	NOUN	NOUN	Gender=Fem|Number=Sing	וַדָּאוּת	_
+6-9	וּבַפְּעִילוּת	_	_	_	_
+6	וּ	ו	CCONJ	CCONJ
+7	בַ	ב	ADP	ADP
+8	ה_	ה	DET	DET	PronType=Art
+9	פְּעִילוּת	פעילות	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעִילוּת	_
+10-11	הַכַּלְכָּלִית	_	_	_	_
+10	ה	ה	DET	DET	PronType=Art
+11	כַּלְכָּלִית	כלכלי	ADJ	ADJ	Gender=Fem|Number=Sing	כַּלְכָּלִי	_
+12-14	וּבְאֹפֶן	_	_	_	_
+12	וּ	ו	CCONJ	CCONJ
+13	בְ	ב	ADP	ADP
+14	אֹפֶן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפֶן	_
+15	יַחֲסִי	יחסי	ADJ	ADJ	Gender=Masc|Number=Sing	יַחֲסִי	_
+16	פּוֹגַעַת	פגע	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=פגע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	פָּגַע	_
+17	יוֹתֵר	יותר	ADV	ADV		יוֹתֵר	_
+18-20	בַּשְּׁכָבוֹת	_	_	_	_
+18	בַּ	ב	ADP	ADP
+19	ה_	ה	DET	DET	PronType=Art
+20	שְּׁכָבוֹת	שכבה	NOUN	NOUN	Gender=Fem|Number=Plur	שִׁכְבָה	_
+21-22	הַחַלָּשׁוֹת	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	חַלָּשׁוֹת	חלש	ADJ	ADJ	Gender=Fem|Number=Plur	חַלָּשׁ	_
+23	.		PUNCT	PUNCT		.	_
+24	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הוועדה המוניטרית בבנק ישראל נחושה ליישם מדיניות שתחזיר את האינפלציה ליעדה."" "
+
+1-2	הַוַּעֲדָה	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	וַּעֲדָה	ועדה	NOUN	NOUN	Gender=Fem|Number=Sing	וַעֲדָה	_
+3-4	הַמּוֹנִיטָרִית	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	מּוֹנִיטָרִית	מוניטרי	ADJ	ADJ	Gender=Fem|Number=Sing	מוֹנִיטָרִי	_
+5-6	בְּבַנְק	_	_	_	_
+5	בְּ	ב	ADP	ADP
+6	בַנְק	בנק	NOUN	NOUN	Gender=Masc|Number=Sing	בַּנְק	_
+7	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+8	נְחוּשָׁה	נחוש	ADJ	ADJ	Gender=Fem|Number=Sing	נָחוּשׁ	_
+9	לְיַשֵּׂם	יישם	VERB	VERB	HebBinyan=PIEL|HebRoot=ישׂם|VerbForm=Inf|Voice=Act	יִשֵּׂם	_
+10	מְדִינִיּוּת	מדיניות	NOUN	NOUN	Gender=Fem|Number=Sing	מְדִינִיּוּת	_
+11-12	שֶׁתַּחֲזִיר	_	_	_	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	תַּחֲזִיר	החזיר	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=חזר|Number=Sing|Person=3|Tense=Fut|Voice=Act	הֶחְזִיר	_
+13	אֶת	את	ADP	ADP		אֶת	_
+14-15	הָאִינְפְלַצְיָה	_	_	_	_
+14	ה	ה	DET	DET	PronType=Art
+15	אִינְפְלַצְיָה	אינפלציה	NOUN	NOUN	Gender=Fem|Number=Sing	אִינְפְלַצְיָה	_
+16-19	לְיַעֲדָהּ	_	_	_	_
+16	לְ	ל	ADP	ADP
+17	יעד_	יעד	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	יַעַד	_
+18	_של_	של	ADP	ADP	_
+19	_היא	היא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+20	.		PUNCT	PUNCT		.	_
+21	"		PUNCT	PUNCT		"	_
+22	"		PUNCT	PUNCT		"	_
+23	 "		X	X	DictaNote=Unknown	 "	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בנוסף התייחס הנגיד לזווית הכלכלית של ההתפתחויות הפוליטיות מאמש ואמר, ""כפי שאמרתי פעמים רבות בעבר, כלכלה אוהבת יציבות. 
+1-2	בְּנוֹסָף	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	נוֹסָף	נוסף	ADV	ADV		נוֹסָף	_
+3	הִתְיַחֵס	התייחס	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=יחס|Number=Sing|Person=3|Tense=Past	הִתְיַחֵס	_
+4-5	הַנָּגִיד	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	נָּגִיד	נגיד	NOUN	NOUN	Gender=Masc|Number=Sing	נָגִיד	_
+6-8	לַזָּוִית	_	_	_	_
+6	לַ	ל	ADP	ADP
+7	ה_	ה	DET	DET	PronType=Art
+8	זָּוִית	זווית	NOUN	NOUN	Gender=Fem|Number=Sing	זָוִית	_
+9-10	הַכַּלְכָּלִית	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	כַּלְכָּלִית	כלכלי	ADJ	ADJ	Gender=Fem|Number=Sing	כַּלְכָּלִי	_
+11	שֶׁל	של	ADP	ADP		שֶׁל	_
+12-13	הַהִתְפַּתְּחוּיוֹת	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	הִתְפַּתְּחוּיוֹת	התפתחות	NOUN	NOUN	Gender=Fem|Number=Plur	הִתְפַּתְּחוּת	_
+14-15	הַפּוֹלִיטִיּוֹת	_	_	_	_
+14	ה	ה	DET	DET	PronType=Art
+15	פּוֹלִיטִיּוֹת	פוליטי	ADJ	ADJ	Gender=Fem|Number=Plur	פּוֹלִיטִי	_
+16-17	מֵאֶמֶשׁ	_	_	_	_
+16	מֵ	מ	ADP	ADP
+17	אֶמֶשׁ	אמש	ADV	ADV		אֶמֶשׁ	_
+18-19	וְאָמַר	_	_	_	_
+18	וְ	ו	CCONJ	CCONJ
+19	אָמַר	אמר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=אמר|Number=Sing|Person=3|Tense=Past|Voice=Act	אָמַר	_
+20-22	, ""כְּפִי	_	_	_	_
+20	,		PUNCT	PUNCT		,	_
+21	 ""		X	X	DictaNote=Unknown	 ""	_
+22	כְּפִי	כפי	SCONJ	SCONJ		כְּפִי	_
+23-24	שֶׁאָמַרְתִּי	_	_	_	_
+23	שֶׁ	ש	SCONJ	SCONJ
+24	אָמַרְתִּי	אמר	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=אמר|Number=Sing|Person=1|Tense=Past|Voice=Act	אָמַר	_
+25	פְּעָמִים	פעם	NOUN	NOUN	Gender=Fem,Masc|Number=Plur	פַּעַם	_
+26	רַבּוֹת	רב	ADJ	ADJ	Gender=Fem|Number=Plur	רַב	_
+27-29	בֶּעָבָר	_	_	_	_
+27	בֶּ	ב	ADP	ADP
+28	ה_	ה	DET	DET	PronType=Art
+29	עָבָר	עבר	NOUN	NOUN	Gender=Masc|Number=Sing	עָבָר	_
+30-32	, כַּלְכָּלָה	_	_	_	_
+30	,		PUNCT	PUNCT		,	_
+31	 		X	X	DictaNote=Unknown	 	_
+32	כַּלְכָּלָה	כלכלה	NOUN	NOUN	Gender=Fem|Number=Sing	כַּלְכָּלָה	_
+33	אוֹהֶבֶת	אהב	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=אהב|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אָהַב	_
+34	יַצִּיבוּת	יציבות	NOUN	NOUN	Gender=Fem|Number=Sing	יַצִּיבוּת	_
+35	.		PUNCT	PUNCT		.	_
+36	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לצד זאת, לשמחתי לישראל יש מערכת מוסדית שכבר ראינו שאפשרה תפקוד תקין של המשק במערכות בחירות בעבר. 
+1	לְצַד	צד	ADP	ADP		צַד	_
+2	זֹאת	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	זֶה	_
+3-8	, לְשִׂמְחָתִי	_	_	_	_
+3	,		PUNCT	PUNCT		,	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לְ	ל	ADP	ADP
+6	שמחה_	שמחה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	שִׂמְחָה	_
+7	_של_	של	ADP	ADP	_
+8	_אני	אני	PRON	PRON	Case=Gen|Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs
+9-10	לְיִשְׂרָאֵל	_	_	_	_
+9	לְ	ל	ADP	ADP
+10	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+11	יֵשׁ	יש	VERB	VERB	HebExistential=True	יֵשׁ	_
+12	מַעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+13	מוֹסָדִית	מוסדי	ADJ	ADJ	Gender=Fem|Number=Sing	מוֹסָדִי	_
+14-15	שֶׁכְּבָר	_	_	_	_
+14	שֶׁ	ש	SCONJ	SCONJ
+15	כְּבָר	כבר	ADV	ADV		כְּבָר	_
+16	רָאִינוּ	ראה	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=ראי|Number=Plur|Person=1|Tense=Past|Voice=Act	רָאָה	_
+17-18	שֶׁאִפְשְׁרָה	_	_	_	_
+17	שֶׁ	ש	SCONJ	SCONJ
+18	אִפְשְׁרָה	אפשר	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=אפשׁר|Number=Sing|Person=3|Tense=Past|Voice=Act	אִפְשֵׁר	_
+19	תִּפְקוּד	תפקוד	NOUN	NOUN	Gender=Masc|Number=Sing	תִּפְקוּד	_
+20	תַּקִּין	תקין	ADJ	ADJ	Gender=Masc|Number=Sing	תַּקִּין	_
+21	שֶׁל	של	ADP	ADP		שֶׁל	_
+22-23	הַמֶּשֶׁק	_	_	_	_
+22	ה	ה	DET	DET	PronType=Art
+23	מֶּשֶׁק	משק	NOUN	NOUN	Gender=Masc|Number=Sing	מֶשֶׁק	_
+24-25	בְּמַעַרְכוֹת	_	_	_	_
+24	בְּ	ב	ADP	ADP
+25	מַעַרְכוֹת	מערכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	מַעֲרָכָה	_
+26	בְּחִירוֹת	בחירה	NOUN	NOUN	Gender=Fem|Number=Plur	בְּחִירָה	_
+27-29	בֶּעָבָר	_	_	_	_
+27	בֶּ	ב	ADP	ADP
+28	ה_	ה	DET	DET	PronType=Art
+29	עָבָר	עבר	NOUN	NOUN	Gender=Masc|Number=Sing	עָבָר	_
+30	.		PUNCT	PUNCT		.	_
+31	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = כלכלת ישראל הוכיחה יכולת מרשימה לצמוח ולשגשג גם בתנאי אי-ודאות, פוליטית ואחרת וכתמיד חשוב להמשיך לנהוג באחריות פיסקלית. 
+1	כַּלְכָּלַת	כלכלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	כַּלְכָּלָה	_
+2	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+3	הוֹכִיחָה	הוכיח	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=יכח|Number=Sing|Person=3|Tense=Past|Voice=Act	הוֹכִיחַ	_
+4	יְכֹלֶת	יכולת	NOUN	NOUN	Gender=Fem|Number=Sing	יְכֹלֶת	_
+5	מַרְשִׁימָה	מרשים	ADJ	ADJ	Gender=Fem|Number=Sing	מַרְשִׁים	_
+6	לִצְמֹחַ	צמח	VERB	VERB	HebBinyan=PAAL|HebRoot=צמח|VerbForm=Inf|Voice=Act	צָמַח	_
+7-8	וּלְשַׂגְשֵׂג	_	_	_	_
+7	וּ	ו	CCONJ	CCONJ
+8	לְשַׂגְשֵׂג	שגשג	VERB	VERB	HebBinyan=PIEL|HebRoot=שׂגשׂג|VerbForm=Inf|Voice=Act	שִׂגְשֵׂג	_
+9	גַּם	גם	ADV	ADV		גַּם	_
+10-11	בִּתְנָאֵי	_	_	_	_
+10	בִּ	ב	ADP	ADP
+11	תְנָאֵי	תנאי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	תְּנַאי	_
+12	אִי	אי	ADV	ADV	Prefix=Yes	אִי	_
+13-14	-וַדָּאוּת	_	_	_	_
+13	-		PUNCT	PUNCT		-	_
+14	וַדָּאוּת	ודאות	NOUN	NOUN	Gender=Fem|Number=Sing	וַדָּאוּת	_
+15-17	, פּוֹלִיטִית	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	פּוֹלִיטִית	פוליטי	ADJ	ADJ	Gender=Fem|Number=Sing	פּוֹלִיטִי	_
+18-19	וְאַחֶרֶת	_	_	_	_
+18	וְ	ו	CCONJ	CCONJ
+19	אַחֶרֶת	אחר	ADJ	ADJ	Gender=Fem|Number=Sing	אַחֵר	_
+20-22	וּכְתָמִיד	_	_	_	_
+20	וּ	ו	CCONJ	CCONJ
+21	כְ	כ	ADP	ADP
+22	תָמִיד	תמיד	NOUN	NOUN	Gender=Masc|Number=Sing	תָּמִיד	_
+23	חָשׁוּב	חשוב	AUX	AUX	VerbType=Mod	חָשׁוּב	_
+24	לְהַמְשִׁיךְ	המשיך	VERB	VERB	HebBinyan=HIFIL|HebRoot=משׁך|VerbForm=Inf|Voice=Act	הִמְשִׁיךְ	_
+25	לִנְהֹג	נהג	VERB	VERB	HebBinyan=PAAL|HebRoot=נהג|VerbForm=Inf|Voice=Act	נָהַג	_
+26-27	בְּאַחְרָיוּת	_	_	_	_
+26	בְּ	ב	ADP	ADP
+27	אַחְרָיוּת	אחריות	NOUN	NOUN	Gender=Fem|Number=Sing	אַחְרָיוּת	_
+28	פִיסְקָלִית	פיסקלי	ADJ	ADJ	Gender=Fem|Number=Sing	פִיסְקָלִי	_
+29	.		PUNCT	PUNCT		.	_
+30	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "
+
+1	"		PUNCT	PUNCT		"	_
+

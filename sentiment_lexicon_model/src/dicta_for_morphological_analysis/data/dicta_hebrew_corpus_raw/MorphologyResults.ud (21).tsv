@@ -1,0 +1,1197 @@
+﻿
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את התאריך סיום חוזה השכירות כפי שמוצג בחוזה השכירות בבחירה מהתאריכון.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4-5	הַתַּאֲרִיךְ	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	תַּאֲרִיךְ	תאריך	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲרִיךְ	_
+6	סִיּוּם	סיום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	סִיּוּם	_
+7	חוֹזֶה	חוזה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	חוֹזֶה	_
+8-9	הַשְּׂכִירוּת	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	שְּׂכִירוּת	שכירות	NOUN	NOUN	Gender=Fem|Number=Sing	שְׂכִירוּת	_
+10	כְּפִי	כפי	SCONJ	SCONJ		כְּפִי	_
+11-12	שֶׁמֻּצָּג	_	_	_	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	מֻּצָּג	הוצג	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+13-14	בְּחוֹזֶה	_	_	_	_
+13	בְּ	ב	ADP	ADP
+14	חוֹזֶה	חוזה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	חוֹזֶה	_
+15-16	הַשְּׂכִירוּת	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	שְּׂכִירוּת	שכירות	NOUN	NOUN	Gender=Fem|Number=Sing	שְׂכִירוּת	_
+17-19	בַּבְּחִירָה	_	_	_	_
+17	בַּ	ב	ADP	ADP
+18	ה_	ה	DET	DET	PronType=Art
+19	בְּחִירָה	בחירה	NOUN	NOUN	Gender=Fem|Number=Sing	בְּחִירָה	_
+20-22	מֵהַתַּאֲרִיכוֹן	_	_	_	_
+20	מֵ	מ	ADP	ADP
+21	ה	ה	DET	DET	PronType=Art
+22	תַּאֲרִיכוֹן	תאריכון	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲרִיכוֹן	_
+23	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = סכום קבלת סיוע בשכר דירה
+
+1	סְכוּם	סכום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	סְכוּם	_
+2	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+3	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+4-5	בִּשְׂכַר	_	_	_	_
+4	בִּ	ב	ADP	ADP
+5	שְׂכַר	שכר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂכָר	_
+6	דִּירָה	דירה	NOUN	NOUN	Gender=Fem|Number=Sing	דִּירָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = זמין למקבלי סיוע ממשרד הבינוי והשיכון
+
+1	זָמִין	זמין	ADJ	ADJ	Gender=Masc|Number=Sing	זָמִין	_
+2-3	לִמְקַבְּלֵי	_	_	_	_
+2	לִ	ל	ADP	ADP
+3	מְקַבְּלֵי	קיבל	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PIEL|HebRoot=קבל|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	קִבֵּל	_
+4	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+5-6	מִמִּשְׂרַד	_	_	_	_
+5	מִ	מ	ADP	ADP
+6	מִּשְׂרַד	משרד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִשְׂרָד	_
+7-8	הַבִּנּוּי	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	בִּנּוּי	בינוי	NOUN	NOUN	Gender=Masc|Number=Sing	בִּנּוּי	_
+9-11	וְהַשִּׁכּוּן	_	_	_	_
+9	וְ	ו	CCONJ	CCONJ
+10	ה	ה	DET	DET	PronType=Art
+11	שִּׁכּוּן	שיכון	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁכּוּן	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את סכום תשלום סיוע בשכר דירה הניתן על־ידי משרד הבינוי והשיכון.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	סְכוּם	סכום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	סְכוּם	_
+5	תַּשְׁלוּם	תשלום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּשְׁלוּם	_
+6	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+7-8	בִּשְׂכַר	_	_	_	_
+7	בִּ	ב	ADP	ADP
+8	שְׂכַר	שכר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂכָר	_
+9	דִּירָה	דירה	NOUN	NOUN	Gender=Fem|Number=Sing	דִּירָה	_
+10-11	הַנִּתָּן	_	_	_	_
+10	הַ	ה	SCONJ	SCONJ
+11	נִּתָּן	ניתן	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	נִתַּן	_
+12	עַל		ADP	ADP			_
+13-14	־יְדֵי	_	_	_	_
+13	־		PUNCT	PUNCT		־	_
+14	יְדֵי	ידי	PROPN	PROPN	Gender=Masc|Number=Plur	יְדֵי	_
+15	מִשְׂרַד	משרד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִשְׂרָד	_
+16-17	הַבִּנּוּי	_	_	_	_
+16	ה	ה	DET	DET	PronType=Art
+17	בִּנּוּי	בינוי	NOUN	NOUN	Gender=Masc|Number=Sing	בִּנּוּי	_
+18-20	וְהַשִּׁכּוּן	_	_	_	_
+18	וְ	ו	CCONJ	CCONJ
+19	ה	ה	DET	DET	PronType=Art
+20	שִּׁכּוּן	שיכון	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁכּוּן	_
+21	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = בחירת מדינת שיוך מספר הטלפון
+
+1	בְּחִירַת	בחירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּחִירָה	_
+2	מְדִינַת	מדינה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מְדִינָה	_
+3	שִׁיּוּךְ	שיוך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שִׁיּוּךְ	_
+4	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+5-6	הַטֵּלֵפוֹן	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	טֵּלֵפוֹן	טלפון	NOUN	NOUN	Gender=Masc|Number=Sing	טֵלֵפוֹן	_
+
+# new_sentence = yes, end_paragraph=no
+# text = המערכת מאפשרת לאזרחים השוהים מחוץ למדינה לבצע רישום באמצעות מספר טלפון זר, וזאת על-ידי בחירת דגל מדינת המספר הזר.
+1-2	הַמַּעֲרֶכֶת	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	מַּעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+3	מְאַפְשֶׁרֶת	אפשר	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=אפשׁר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אִפְשֵׁר	_
+4-5	לְאֶזְרָחִים	_	_	_	_
+4	לְ	ל	ADP	ADP
+5	אֶזְרָחִים	אזרח	NOUN	NOUN	Gender=Masc|Number=Plur	אֶזְרָח	_
+6-7	הַשּׁוֹהִים	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	שּׁוֹהִים	שהה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁהי|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	שָׁהָה	_
+8	מִחוּץ	מחוץ	ADV	ADV		מִחוּץ	_
+9-11	לַמְּדִינָה	_	_	_	_
+9	לַ	ל	ADP	ADP
+10	ה_	ה	DET	DET	PronType=Art
+11	מְּדִינָה	מדינה	NOUN	NOUN	Gender=Fem|Number=Sing	מְדִינָה	_
+12	לְבַצֵּעַ	ביצע	VERB	VERB	HebBinyan=PIEL|HebRoot=בצע|VerbForm=Inf|Voice=Act	בִּצֵּעַ	_
+13	רִשּׁוּם	רישום	NOUN	NOUN	Gender=Masc|Number=Sing	רִשּׁוּם	_
+14	בְּאֶמְצָעוּת	באמצעות	ADP	ADP		בְּאֶמְצָעוּת	_
+15	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+16	טֵלֵפוֹן	טלפון	NOUN	NOUN	Gender=Masc|Number=Sing	טֵלֵפוֹן	_
+17	זָר	זר	ADJ	ADJ	Gender=Masc|Number=Sing	זָר	_
+18-21	, וְזֹאת	_	_	_	_
+18	,		PUNCT	PUNCT		,	_
+19	 		X	X	DictaNote=Unknown	 	_
+20	וְ	ו	CCONJ	CCONJ
+21	זֹאת	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Dem	זֶה	_
+22	עַל		ADP	ADP			_
+23-24	-יְדֵי	_	_	_	_
+23	-		PUNCT	PUNCT		-	_
+24	יְדֵי	ידי	PROPN	PROPN	Gender=Fem|Number=Sing	יְדֵי	_
+25	בְּחִירַת	בחירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּחִירָה	_
+26	דֶּגֶל	דגל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	דֶּגֶל	_
+27	מְדִינַת	מדינה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מְדִינָה	_
+28-29	הַמִּסְפָּר	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	מִּסְפָּר	מספר	NOUN	NOUN	Gender=Masc|Number=Sing	מִסְפָּר	_
+30-31	הַזָּר	_	_	_	_
+30	ה	ה	DET	DET	PronType=Art
+31	זָּר	זר	ADJ	ADJ	Gender=Masc|Number=Sing	זָר	_
+32	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = איפוס סיסמה
+
+1	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+2	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = תהליך איפוס הסיסמה נועד לתת מענה למקרים בהם משתמש שכח את סיסמתו לכניסה למערכת.
+1	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+2	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+3-4	הַסִּסְמָה	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+5	נוֹעַד	נועד	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=יעד|Number=Sing|Person=3|Tense=Past|Voice=Mid	נוֹעַד	_
+6	לָתֵת	נתן	VERB	VERB	HebBinyan=PAAL|HebRoot=נתן|VerbForm=Inf|Voice=Act	נָתַן	_
+7	מַעֲנֶה	מענה	NOUN	NOUN	Gender=Masc|Number=Sing	מַעֲנֶה	_
+8-9	לְמִקְרִים	_	_	_	_
+8	לְ	ל	ADP	ADP
+9	מִקְרִים	מקרה	NOUN	NOUN	Gender=Masc|Number=Plur	מִקְרֶה	_
+10-11	בָּהֶם	_	_	_	_
+10	ב_	ב	ADP	ADP		בְּ	_
+11	_הם	הם	PRON	PRON	Gender=Masc|Number=Plur|Person=3|PronType=Prs
+12	מִשְׁתַּמֵּשׁ	משתמש	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁתַּמֵּשׁ	_
+13	שָׁכַח	שכח	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁכח|Number=Sing|Person=3|Tense=Past|Voice=Act	שָׁכַח	_
+14	אֶת	את	ADP	ADP		אֶת	_
+15-17	סִיסְמָתוֹ	_	_	_	_
+15	סיסמה_	סיסמה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	סִיסְמָה	_
+16	_של_	של	ADP	ADP	_
+17	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+18-19	לִכְנִיסָה	_	_	_	_
+18	לִ	ל	ADP	ADP
+19	כְנִיסָה	כניסה	NOUN	NOUN	Gender=Fem|Number=Sing	כְּנִיסָה	_
+20-22	לַמַּעֲרֶכֶת	_	_	_	_
+20	לַ	ל	ADP	ADP
+21	ה_	ה	DET	DET	PronType=Art
+22	מַּעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+23	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = הזנת פרטים אישיים
+
+1	הֲזָנַת	הזנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הֲזָנָה	_
+2	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+3	אִישִׁיִּים	אישי	ADJ	ADJ	Gender=Masc|Number=Plur	אִישִׁי	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בעת שליחת טופס ההרשמה תוצג חלונית CPTCHA, המאמתת כאמצעי אבטחה, כי הפעולה מבוצעת על־ידי בן אדם ולא מערכת ממוחשבת. 
+1-2	בְּעֵת	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	עֵת	עת	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	עֵת	_
+3	שְׁלִיחַת	שליחה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	שְׁלִיחָה	_
+4	טֹפֶס	טופס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	טֹפֶס	_
+5-6	הַהַרְשָׁמָה	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	הַרְשָׁמָה	הרשמה	NOUN	NOUN	Gender=Fem|Number=Sing	הַרְשָׁמָה	_
+7	תֻּצַּג	הוצג	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=3|Tense=Fut|Voice=Pass	הֻצַּג	_
+8	חַלּוֹנִית	חלונית	NOUN	NOUN	Gender=Fem|Number=Sing	חַלּוֹנִית	_
+9	CPTCHA		X	X	DictaNote=Foreign	CPTCHA	_
+10-13	, הַמְּאַמֶּתֶת	_	_	_	_
+10	,		PUNCT	PUNCT		,	_
+11	 		X	X	DictaNote=Unknown	 	_
+12	הַ	ה	SCONJ	SCONJ
+13	מְּאַמֶּתֶת	אימת	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=אמת|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אִמֵּת	_
+14-15	כְּאֶמְצָעִי	_	_	_	_
+14	כְּ	כ	ADP	ADP
+15	אֶמְצָעִי	אמצעי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֶמְצָעִי	_
+16	אַבְטָחָה	אבטחה	NOUN	NOUN	Gender=Fem|Number=Sing	אַבְטָחָה	_
+17-19	, כִּי	_	_	_	_
+17	,		PUNCT	PUNCT		,	_
+18	 		X	X	DictaNote=Unknown	 	_
+19	כִּי	כי	SCONJ	SCONJ		כִּי	_
+20-21	הַפְּעֻלָּה	_	_	_	_
+20	ה	ה	DET	DET	PronType=Art
+21	פְּעֻלָּה	פעולה	NOUN	NOUN	Gender=Fem|Number=Sing	פְּעֻלָּה	_
+22	מְבֻצַּעַת	בוצע	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בצע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	בֻּצַּע	_
+23	עַל		ADP	ADP			_
+24-25	־יְדֵי	_	_	_	_
+24	־		PUNCT	PUNCT		־	_
+25	יְדֵי	ידי	PROPN	PROPN	Gender=Fem|Number=Plur	יְדֵי	_
+26	בֶּן	בן	PROPN	PROPN		בֶּן	_
+27	אָדָם	אדם	NOUN	NOUN	Gender=Masc|Number=Sing	אָדָם	_
+28-29	וְלֹא	_	_	_	_
+28	וְ	ו	CCONJ	CCONJ
+29	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+30	מַעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+31	מְמֻחְשֶׁבֶת	ממוחשב	ADJ	ADJ	Gender=Fem|Number=Sing	מְמֻחְשָׁב	_
+32	.		PUNCT	PUNCT		.	_
+33	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = מספר תמונות יוצגו, יש לבחור את התמונות המתאימות בהתאם לתיאור המוצג.
+1	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+2	תְּמוּנוֹת	תמונה	NOUN	NOUN	Gender=Fem|Number=Plur	תְּמוּנָה	_
+3	יֻצְּגוּ	יוצג	VERB	VERB	Gender=Fem,Masc|HebBinyan=PUAL|HebRoot=יצג|Number=Plur|Person=3|Tense=Past|Voice=Pass	יֻצַּג	_
+4-6	, יֵשׁ	_	_	_	_
+4	,		PUNCT	PUNCT		,	_
+5	 		X	X	DictaNote=Unknown	 	_
+6	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+7	לִבְחֹר	בחר	VERB	VERB	HebBinyan=PAAL|HebRoot=בחר|VerbForm=Inf|Voice=Act	בָּחַר	_
+8	אֶת	את	ADP	ADP		אֶת	_
+9-10	הַתְּמוּנוֹת	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	תְּמוּנוֹת	תמונה	NOUN	NOUN	Gender=Fem|Number=Plur	תְּמוּנָה	_
+11-12	הַמַּתְאִימוֹת	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	מַּתְאִימוֹת	מתאים	ADJ	ADJ	Gender=Fem|Number=Plur	מַתְאִים	_
+13-14	בְּהֶתְאֵם	_	_	_	_
+13	בְּ	ב	ADP	ADP
+14	הֶתְאֵם	התאם	NOUN	NOUN	Gender=Masc|Number=Sing	הֶתְאֵם	_
+15-17	לַתֵּאוּר	_	_	_	_
+15	לַ	ל	ADP	ADP
+16	ה_	ה	DET	DET	PronType=Art
+17	תֵּאוּר	תיאור	NOUN	NOUN	Gender=Masc|Number=Sing	תֵּאוּר	_
+18-19	הַמֻּצָּג	_	_	_	_
+18	הַ	ה	SCONJ	SCONJ
+19	מֻּצָּג	הוצג	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+20	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = ייתכנו מספר תמונות מתאימות. 
+1	יִתָּכְנוּ	נתכן	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=תכן|Number=Plur|Person=3|Tense=Fut|Voice=Mid	נִתְכַּן	_
+2	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+3	תְּמוּנוֹת	תמונה	NOUN	NOUN	Gender=Fem|Number=Plur	תְּמוּנָה	_
+4	מַתְאִימוֹת	מתאים	ADJ	ADJ	Gender=Fem|Number=Plur	מַתְאִים	_
+5	.		PUNCT	PUNCT		.	_
+6	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ייתכן שמשתמש יתבקש לבצע תהליך זה מספר פעמים.
+1	יִתָּכֵן	ייתכן	ADV	ADV		יִתָּכֵן	_
+2-3	שֶׁמִּשְׁתַּמֵּשׁ	_	_	_	_
+2	שֶׁ	ש	SCONJ	SCONJ
+3	מִּשְׁתַּמֵּשׁ	משתמש	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁתַּמֵּשׁ	_
+4	יִתְבַּקֵּשׁ	התבקש	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=בקשׁ|Number=Sing|Person=3|Tense=Fut	הִתְבַּקֵּשׁ	_
+5	לְבַצֵּעַ	ביצע	VERB	VERB	HebBinyan=PIEL|HebRoot=בצע|VerbForm=Inf|Voice=Act	בִּצֵּעַ	_
+6	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+7	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+8	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+9	פְּעָמִים	פעם	NOUN	NOUN	Gender=Fem,Masc|Number=Plur	פַּעַם	_
+10	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להתחיל את תהליך איפוס הסיסמה מההתחלה.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהַתְחִיל	התחיל	VERB	VERB	HebBinyan=HIFIL|HebRoot=תחל|VerbForm=Inf|Voice=Act	הִתְחִיל	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+5	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+6-7	הַסִּסְמָה	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+8-10	מֵהַהַתְחָלָה	_	_	_	_
+8	מֵ	מ	ADP	ADP
+9	ה	ה	DET	DET	PronType=Art
+10	הַתְחָלָה	התחלה	NOUN	NOUN	Gender=Fem|Number=Sing	הַתְחָלָה	_
+11	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = פרטי הזיהוי לא נמצאו
+
+1	פְּרָטֵי	פרט	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	פְּרָט	_
+2-3	הַזִּהוּי	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	זִּהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+4	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+5	נִמְצְאוּ	נמצא	VERB	VERB	Gender=Fem,Masc|HebBinyan=NIFAL|HebRoot=מצא|Number=Plur|Person=3|Tense=Past|Voice=Mid	נִמְצָא	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש לוודא כי האזרח ביצע הרשמה בעבר למערכת ההזדהות הלאומית. 
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְוַדֵּא	וידא	VERB	VERB	HebBinyan=PIEL|HebRoot=ודא|VerbForm=Inf|Voice=Act	וִדֵּא	_
+3	כִּי	כי	SCONJ	SCONJ		כִּי	_
+4-5	הָאֶזְרָח	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	אֶזְרָח	אזרח	NOUN	NOUN	Gender=Masc|Number=Sing	אֶזְרָח	_
+6	בִּצֵּעַ	ביצע	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=בצע|Number=Sing|Person=3|Tense=Past|Voice=Act	בִּצֵּעַ	_
+7	הַרְשָׁמָה	הרשמה	NOUN	NOUN	Gender=Fem|Number=Sing	הַרְשָׁמָה	_
+8-10	בֶּעָבָר	_	_	_	_
+8	בֶּ	ב	ADP	ADP
+9	ה_	ה	DET	DET	PronType=Art
+10	עָבָר	עבר	NOUN	NOUN	Gender=Masc|Number=Sing	עָבָר	_
+11-12	לְמַעֲרֶכֶת	_	_	_	_
+11	לְ	ל	ADP	ADP
+12	מַעֲרֶכֶת	מערכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מַעֲרָכָה	_
+13-14	הַהִזְדַּהוּת	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	הִזְדַּהוּת	הזדהות	NOUN	NOUN	Gender=Fem|Number=Sing	הִזְדַּהוּת	_
+15-16	הַלְּאֻמִּית	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	לְּאֻמִּית	לאומי	ADJ	ADJ	Gender=Fem|Number=Sing	לְאֻמִּי	_
+17	.		PUNCT	PUNCT		.	_
+18	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לבדיקת סטטוס רישום, ניתן לבצע שימוש בממשק המוקדן.
+1-2	לִבְדִיקַת	_	_	_	_
+1	לִ	ל	ADP	ADP
+2	בְדִיקַת	בדיקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּדִיקָה	_
+3	סְטָטוּס	סטטוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	סְטָטוּס	_
+4	רִשּׁוּם	רישום	NOUN	NOUN	Gender=Masc|Number=Sing	רִשּׁוּם	_
+5-7	, נִתָּן	_	_	_	_
+5	,		PUNCT	PUNCT		,	_
+6	 		X	X	DictaNote=Unknown	 	_
+7	נִתָּן	נתן	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	נתן	_
+8	לְבַצֵּעַ	ביצע	VERB	VERB	HebBinyan=PIEL|HebRoot=בצע|VerbForm=Inf|Voice=Act	בִּצֵּעַ	_
+9	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+10-11	בְּמִמְשַׁק	_	_	_	_
+10	בְּ	ב	ADP	ADP
+11	מִמְשַׁק	ממשק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִמְשָׁק	_
+12-13	הַמּוֹקְדָן	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	מּוֹקְדָן	מוקדן	NOUN	NOUN	Gender=Masc|Number=Sing	מוֹקְדָן	_
+14	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = שכחתי סיסמה
+
+1	שָׁכַחְתִּי	שכח	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=שׁכח|Number=Sing|Person=1|Tense=Past|Voice=Act	שָׁכַח	_
+2	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לתחילת תהליך איפוס הסיסמה, יש ללחוץ על כפתור שכחתי סיסמה בעמוד הכניסה למערכת.
+1-2	לִתְחִלַּת	_	_	_	_
+1	לִ	ל	ADP	ADP
+2	תְחִלַּת	תחילה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּחִלָּה	_
+3	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+4	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+5-6	הַסִּסְמָה	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+7-9	, יֵשׁ	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+10	לִלְחֹץ	לחץ	VERB	VERB	HebBinyan=PAAL|HebRoot=לחץ|VerbForm=Inf|Voice=Act	לָחַץ	_
+11	עַל	על	ADP	ADP		עַל	_
+12	כַּפְתּוֹר	כפתור	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּפְתּוֹר	_
+13	שָׁכַחְתִּי	שכח	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=שׁכח|Number=Sing|Person=1|Tense=Past|Voice=Act	שָׁכַח	_
+14	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+15-16	בְּעַמּוּד	_	_	_	_
+15	בְּ	ב	ADP	ADP
+16	עַמּוּד	עמוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	עַמּוּד	_
+17-18	הַכְּנִיסָה	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	כְּנִיסָה	כניסה	NOUN	NOUN	Gender=Fem|Number=Sing	כְּנִיסָה	_
+19-21	לַמַּעֲרֶכֶת	_	_	_	_
+19	לַ	ל	ADP	ADP
+20	ה_	ה	DET	DET	PronType=Art
+21	מַּעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+22	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = תהליך איפוס הסיסמה
+
+1	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+2	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+3-4	הַסִּסְמָה	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = תהליך איפוס הסיסמה מכיל ארבעה שלבים: 
+1	תַּהֲלִיךְ	תהליך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּהֲלִיךְ	_
+2	אִפּוּס	איפוס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִפּוּס	_
+3-4	הַסִּסְמָה	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+5	מֵכִיל	הכיל	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=כול|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הֵכִיל	_
+6	אַרְבָּעָה	ארבעה	NUM	NUM	Gender=Masc|Number=Plur	אַרְבָּעָה	_
+7	שְׁלַבִּים	שלב	NOUN	NOUN	Gender=Masc|Number=Plur	שָׁלָב	_
+8	:		PUNCT	PUNCT		:	_
+9	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 1. 
+1	1		NUM	NUM		1	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = פרטים אישיים 2. 
+1	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+2	אִישִׁיִּים	אישי	ADJ	ADJ	Gender=Masc|Number=Plur	אִישִׁי	_
+3	2		NUM	NUM		2	_
+4	.		PUNCT	PUNCT		.	_
+5	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = קוד אימות 3. 
+1	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+2	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+3	3		NUM	NUM		3	_
+4	.		PUNCT	PUNCT		.	_
+5	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = זיהוי 4. 
+1	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+2	4		NUM	NUM		4	_
+3	.		PUNCT	PUNCT		.	_
+4	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = יצירת סיסמה חדשה
+
+1	יְצִירַת	יצירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	יְצִירָה	_
+2	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+3	חֲדָשָׁה	חדש	ADJ	ADJ	Gender=Fem|Number=Sing	חָדָשׁ	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = בחר בשלב הרצוי:
+
+1	בְּחַר	בחר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=בחר|Mood=Imp|Number=Sing|Person=2|Voice=Act	בָּחַר	_
+2-4	בַּשָּׁלָב	_	_	_	_
+2	בַּ	ב	ADP	ADP
+3	ה_	ה	DET	DET	PronType=Art
+4	שָּׁלָב	שלב	NOUN	NOUN	Gender=Masc|Number=Sing	שָׁלָב	_
+5-6	הָרָצוּי	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	רָצוּי	רצוי	ADJ	ADJ	Gender=Masc|Number=Sing	רָצוּי	_
+7	:		PUNCT	PUNCT		:	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = פרטים אישיים
+
+1	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+2	אִישִׁיִּים	אישי	ADJ	ADJ	Gender=Masc|Number=Plur	אִישִׁי	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = קוד אימות
+
+1	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+2	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = יצירת סיסמה חדשה
+
+1	יְצִירַת	יצירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	יְצִירָה	_
+2	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+3	חֲדָשָׁה	חדש	ADJ	ADJ	Gender=Fem|Number=Sing	חָדָשׁ	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = האם בוצעה הרשמה בעבר?
+
+1	הַאִם	אם	ADV	ADV	PronType=Int	אִם	_
+2	בֻּצְּעָה	בוצע	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בצע|Number=Sing|Person=3|Tense=Past|Voice=Pass	בֻּצַּע	_
+3	הַרְשָׁמָה	הרשמה	NOUN	NOUN	Gender=Fem|Number=Sing	הַרְשָׁמָה	_
+4-6	בֶּעָבָר	_	_	_	_
+4	בֶּ	ב	ADP	ADP
+5	ה_	ה	DET	DET	PronType=Art
+6	עָבָר	עבר	NOUN	NOUN	Gender=Masc|Number=Sing	עָבָר	_
+7	?		PUNCT	PUNCT		?	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = שליחת קוד אימות
+
+1	שְׁלִיחַת	שליחה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	שְׁלִיחָה	_
+2	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+3	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בשלב זה, יתבקש המשתמש לאמת את זהותו בהזנת קוד אימות שישלח אליו. 
+1-2	בְּשָׁלָב	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	שָׁלָב	שלב	NOUN	NOUN	Gender=Masc|Number=Sing	שָׁלָב	_
+3	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+4-6	, יִתְבַּקֵּשׁ	_	_	_	_
+4	,		PUNCT	PUNCT		,	_
+5	 		X	X	DictaNote=Unknown	 	_
+6	יִתְבַּקֵּשׁ	התבקש	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=בקשׁ|Number=Sing|Person=3|Tense=Fut	הִתְבַּקֵּשׁ	_
+7-8	הַמִּשְׁתַּמֵּשׁ	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	מִּשְׁתַּמֵּשׁ	משתמש	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁתַּמֵּשׁ	_
+9	לְאַמֵּת	אימת	VERB	VERB	HebBinyan=PIEL|HebRoot=אמת|VerbForm=Inf|Voice=Act	אִמֵּת	_
+10	אֶת	את	ADP	ADP		אֶת	_
+11-13	זֶהוּתוֹ	_	_	_	_
+11	זהות_	זהות	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	זֶהוּת	_
+12	_של_	של	ADP	ADP	_
+13	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14-15	בַּהֲזָנַת	_	_	_	_
+14	בַּ	ב	ADP	ADP
+15	הֲזָנַת	הזנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הֲזָנָה	_
+16	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+17	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+18-19	שֶׁיִּשְׁלַח	_	_	_	_
+18	שֶׁ	ש	SCONJ	SCONJ
+19	יִּשְׁלַח	שלח	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁלח|Number=Sing|Person=3|Tense=Fut|Voice=Act	שָׁלַח	_
+20-21	אֵלָיו	_	_	_	_
+20	אל_	אל	ADP	ADP		אֶל	_
+21	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+22	.		PUNCT	PUNCT		.	_
+23	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = באפשרותו של המשתמש לבחור האם לקבל את קוד האימות לטלפון הנייד או לדואר האלקטרוני.
+1-4	בְּאֶפְשָׁרוּתוֹ	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	אפשרות_	אפשרות	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	אֶפְשָׁרוּת	_
+3	_של_	של	ADP	ADP	_
+4	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+5	שֶׁל	של	ADP	ADP		שֶׁל	_
+6-7	הַמִּשְׁתַּמֵּשׁ	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	מִּשְׁתַּמֵּשׁ	משתמש	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁתַּמֵּשׁ	_
+8	לִבְחֹר	בחר	VERB	VERB	HebBinyan=PAAL|HebRoot=בחר|VerbForm=Inf|Voice=Act	בָּחַר	_
+9	הַאִם	אם	ADV	ADV	PronType=Int	אִם	_
+10	לְקַבֵּל	קיבל	VERB	VERB	HebBinyan=PIEL|HebRoot=קבל|VerbForm=Inf|Voice=Act	קִבֵּל	_
+11	אֶת	את	ADP	ADP		אֶת	_
+12	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+13-14	הָאִמּוּת	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+15-16	לְטֵלֵפוֹן	_	_	_	_
+15	לְ	ל	ADP	ADP
+16	טֵלֵפוֹן	טלפון	NOUN	NOUN	Gender=Masc|Number=Sing	טֵלֵפוֹן	_
+17-18	הַנַּיָּד	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	נַּיָּד	נייד	NOUN	NOUN	Gender=Masc|Number=Sing	נַיָּד	_
+19	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+20-22	לַדֹּאַר	_	_	_	_
+20	לַ	ל	ADP	ADP
+21	ה_	ה	DET	DET	PronType=Art
+22	דֹּאַר	דואר	NOUN	NOUN	Gender=Masc|Number=Sing	דֹּאַר	_
+23-24	הָאֵלֶקְטְרוֹנִי	_	_	_	_
+23	ה	ה	DET	DET	PronType=Art
+24	אֵלֶקְטְרוֹנִי	אלקטרוני	ADJ	ADJ	Gender=Masc|Number=Sing	אֵלֶקְטְרוֹנִי	_
+25	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = לאחר הבחירה, יש ללחוץ על שלחו אלי קוד אימות.
+1	לְאַחַר	לאחר	ADP	ADP		לְאַחַר	_
+2-3	הַבְּחִירָה	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	בְּחִירָה	בחירה	NOUN	NOUN	Gender=Fem|Number=Sing	בְּחִירָה	_
+4-6	, יֵשׁ	_	_	_	_
+4	,		PUNCT	PUNCT		,	_
+5	 		X	X	DictaNote=Unknown	 	_
+6	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+7	לִלְחֹץ	לחץ	VERB	VERB	HebBinyan=PAAL|HebRoot=לחץ|VerbForm=Inf|Voice=Act	לָחַץ	_
+8	עַל	על	ADP	ADP		עַל	_
+9	שָׁלְחוּ	שלח	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=שׁלח|Number=Plur|Person=3|Tense=Past|Voice=Act	שָׁלַח	_
+10-11	אֵלַי	_	_	_	_
+10	אל_	אל	ADP	ADP		אֶל	_
+11	_אני	אני	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs
+12	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+13	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+14	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = הזנת קוד האימות
+
+1	הֲזָנַת	הזנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הֲזָנָה	_
+2	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+3-4	הָאִמּוּת	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את קוד האימות כפי שנשלח.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+5-6	הָאִמּוּת	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+7	כְּפִי	כפי	SCONJ	SCONJ		כְּפִי	_
+8-9	שֶׁנִּשְׁלַח	_	_	_	_
+8	שֶׁ	ש	SCONJ	SCONJ
+9	נִּשְׁלַח	נשלח	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=שׁלח|Number=Sing|Person=3|Tense=Past|Voice=Mid	נִשְׁלַח	_
+10	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = האם התקבל קוד האימות?
+
+1	הַאִם	אם	ADV	ADV	PronType=Int	אִם	_
+2	הִתְקַבֵּל	התקבל	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=קבל|Number=Sing|Person=3|Tense=Past	הִתְקַבֵּל	_
+3	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+4-5	הָאִמּוּת	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	אִמּוּת	אימות	NOUN	NOUN	Gender=Masc|Number=Sing	אִמּוּת	_
+6	?		PUNCT	PUNCT		?	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הזנת אמצעי זיהוי
+
+1	הֲזָנַת	הזנה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הֲזָנָה	_
+2	אֶמְצָעֵי	אמצעי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	אֶמְצָעִי	_
+3	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בחלק השלישי, יתבקש המשתמש לבחור אמצעי זיהוי יחיד מהרשימה ולמלא את המידע המתאים: 
+1-2	בְּחֵלֶק	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	חֵלֶק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	חֵלֶק	_
+3-4	הַשְּׁלִישִׁי	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	שְּׁלִישִׁי	שלושה	NUM	NUM	Gender=Masc|Number=Sing	שְׁלוֹשָׁה	_
+5-7	, יִתְבַּקֵּשׁ	_	_	_	_
+5	,		PUNCT	PUNCT		,	_
+6	 		X	X	DictaNote=Unknown	 	_
+7	יִתְבַּקֵּשׁ	התבקש	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=בקשׁ|Number=Sing|Person=3|Tense=Fut	הִתְבַּקֵּשׁ	_
+8-9	הַמִּשְׁתַּמֵּשׁ	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	מִּשְׁתַּמֵּשׁ	משתמש	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁתַּמֵּשׁ	_
+10	לִבְחֹר	בחר	VERB	VERB	HebBinyan=PAAL|HebRoot=בחר|VerbForm=Inf|Voice=Act	בָּחַר	_
+11	אֶמְצָעִי	אמצעי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֶמְצָעִי	_
+12	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+13	יָחִיד	יחיד	ADJ	ADJ	Gender=Masc|Number=Sing	יָחִיד	_
+14-16	מֵהָרְשִׁימָה	_	_	_	_
+14	מֵ	מ	ADP	ADP
+15	ה	ה	DET	DET	PronType=Art
+16	רְשִׁימָה	רשימה	NOUN	NOUN	Gender=Fem|Number=Sing	רְשִׁימָה	_
+17-18	וּלְמַלֵּא	_	_	_	_
+17	וּ	ו	CCONJ	CCONJ
+18	לְמַלֵּא	מילא	VERB	VERB	HebBinyan=PIEL|HebRoot=מלא|VerbForm=Inf|Voice=Act	מִלֵּא	_
+19	אֶת	את	ADP	ADP		אֶת	_
+20-21	הַמֵּידָע	_	_	_	_
+20	ה	ה	DET	DET	PronType=Art
+21	מֵּידָע	מידע	NOUN	NOUN	Gender=Masc|Number=Sing	מֵידָע	_
+22-23	הַמַּתְאִים	_	_	_	_
+22	ה	ה	DET	DET	PronType=Art
+23	מַּתְאִים	מתאים	ADJ	ADJ	Gender=Masc|Number=Sing	מַתְאִים	_
+24	:		PUNCT	PUNCT		:	_
+25	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = כרטיס אשראי דרכון ישראלי 2 שאלות אישיות תעודת עולה
+
+1	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+2	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+3	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+4	יִשְׂרְאֵלִי	ישראלי	ADJ	ADJ	Gender=Masc|Number=Sing	יִשְׂרְאֵלִי	_
+5-6	2שְׁאֵלוֹת	_	_	_	_
+5	2		NUM	NUM		2	_
+6	שְׁאֵלוֹת	שאלה	NOUN	NOUN	Gender=Fem|Number=Plur	שְׁאֵלָה	_
+7	אִישִׁיּוּת	אישיות	NOUN	NOUN	Gender=Fem|Number=Sing	אִישִׁיּוּת	_
+8	תְּעוּדַת	תעודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּעוּדָה	_
+9	עוֹלֶה	עולה	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלֶה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = לפירוט אופן המילוי ומגבלות, בחר באמצעי הזיהוי הרצוי:
+
+1-2	לְפֵרוּט	_	_	_	_
+1	לְ	ל	ADP	ADP
+2	פֵרוּט	פירוט	NOUN	NOUN	Gender=Masc|Number=Sing	פֵּרוּט	_
+3	אֹפֶן	אופן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֹפֶן	_
+4-5	הַמִּלּוּי	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	מִּלּוּי	מילוי	NOUN	NOUN	Gender=Masc|Number=Sing	מִלּוּי	_
+6-7	וּמִגְבָּלוֹת	_	_	_	_
+6	וּ	ו	CCONJ	CCONJ
+7	מִגְבָּלוֹת	מגבלה	NOUN	NOUN	Gender=Fem|Number=Plur	מִגְבָּלָה	_
+8-10	, בָּחַר	_	_	_	_
+8	,		PUNCT	PUNCT		,	_
+9	 		X	X	DictaNote=Unknown	 	_
+10	בָּחַר	בחר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=בחר|Number=Sing|Person=3|Tense=Past|Voice=Act	בָּחַר	_
+11-12	בְּאֶמְצָעִי	_	_	_	_
+11	בְּ	ב	ADP	ADP
+12	אֶמְצָעִי	אמצעי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֶמְצָעִי	_
+13-14	הַזִּהוּי	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	זִּהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+15-16	הָרָצוּי	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	רָצוּי	רצוי	ADJ	ADJ	Gender=Masc|Number=Sing	רָצוּי	_
+17	:		PUNCT	PUNCT		:	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = כרטיס אשראי
+
+1	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+2	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = מגבלות ודגשים
+
+1	מִגְבָּלוֹת	מגבלה	NOUN	NOUN	Gender=Fem|Number=Plur	מִגְבָּלָה	_
+2-3	וּדְגֵשִׁים	_	_	_	_
+2	וּ	ו	CCONJ	CCONJ
+3	דְגֵשִׁים	דגש	NOUN	NOUN	Gender=Masc|Number=Plur	דָּגֵשׁ	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לא יבוצע חיוב או כל שימוש בכרטיס למעט זיהוי האזרח.
+1	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+2	יְבֻצַּע	בוצע	VERB	VERB	Gender=Masc|HebBinyan=PUAL|HebRoot=בצע|Number=Sing|Person=3|Tense=Fut|Voice=Pass	בֻּצַּע	_
+3	חִיּוּב	חיוב	NOUN	NOUN	Gender=Masc|Number=Sing	חִיּוּב	_
+4	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+5	כׇּל	כול	DET	DET	Definite=Cons	כֹּל	_
+6	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+7-8	בְּכַרְטִיס	_	_	_	_
+7	בְּ	ב	ADP	ADP
+8	כַרְטִיס	כרטיס	NOUN	NOUN	Gender=Masc|Number=Sing	כַּרְטִיס	_
+9	לְמַעֵט	למעט	ADP	ADP		לְמַעֵט	_
+10	זִהוּי	זיהוי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	זִהוּי	_
+11-12	הָאֶזְרָח	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	אֶזְרָח	אזרח	NOUN	NOUN	Gender=Masc|Number=Sing	אֶזְרָח	_
+13	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = אופן המילוי
+
+1	אֹפֶן	אופן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֹפֶן	_
+2-3	הַמִּלּוּי	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	מִּלּוּי	מילוי	NOUN	NOUN	Gender=Masc|Number=Sing	מִלּוּי	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את מספר כרטיס האשראי במלואו. 
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+5	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+6-7	הָאַשְׁרַאי	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+8-11	בִּמְלוֹאוֹ	_	_	_	_
+8	בִּ	ב	ADP	ADP
+9	מלוא_	מלוא	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	מְלוֹא	_
+10	_של_	של	ADP	ADP	_
+11	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+12	.		PUNCT	PUNCT		.	_
+13	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את תאריך תוקף בכרטיס בבחירת חודש ושנה מהרשימה. 
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	תַּאֲרִיךְ	תאריך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּאֲרִיךְ	_
+5	תֹּקֶף	תוקף	NOUN	NOUN	Gender=Masc|Number=Sing	תֹּקֶף	_
+6-7	בְּכַרְטִיס	_	_	_	_
+6	בְּ	ב	ADP	ADP
+7	כַרְטִיס	כרטיס	NOUN	NOUN	Gender=Masc|Number=Sing	כַּרְטִיס	_
+8-9	בִּבְחִירַת	_	_	_	_
+8	בִּ	ב	ADP	ADP
+9	בְחִירַת	בחירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּחִירָה	_
+10	חֹדֶשׁ	חודש	NOUN	NOUN	Gender=Masc|Number=Sing	חֹדֶשׁ	_
+11-12	וְשָׁנָה	_	_	_	_
+11	וְ	ו	CCONJ	CCONJ
+12	שָׁנָה	שנה	NOUN	NOUN	Gender=Fem|Number=Sing	שָׁנָה	_
+13-15	מֵהָרְשִׁימָה	_	_	_	_
+13	מֵ	מ	ADP	ADP
+14	ה	ה	DET	DET	PronType=Art
+15	רְשִׁימָה	רשימה	NOUN	NOUN	Gender=Fem|Number=Sing	רְשִׁימָה	_
+16	.		PUNCT	PUNCT		.	_
+17	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את קוד האבטחה (שלוש הספרות בגב הכרטיס).
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	קוֹד	קוד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	קוֹד	_
+5-6	הָאַבְטָחָה	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	אַבְטָחָה	אבטחה	NOUN	NOUN	Gender=Fem|Number=Sing	אַבְטָחָה	_
+7-8	 (שָׁלוֹשׁ	_	_	_	_
+7	 (		X	X	DictaNote=Unknown	 (	_
+8	שָׁלוֹשׁ	שלושה	NUM	NUM		שְׁלוֹשָׁה	_
+9-10	הַסְּפָרוֹת	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	סְּפָרוֹת	ספרה	NOUN	NOUN	Gender=Fem|Number=Plur	סִפְרָה	_
+11-12	בְּגַב	_	_	_	_
+11	בְּ	ב	ADP	ADP
+12	גַב	גב	NOUN	NOUN	Gender=Masc|Number=Sing	גַּב	_
+13-14	הַכַּרְטִיס	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	כַּרְטִיס	כרטיס	NOUN	NOUN	Gender=Masc|Number=Sing	כַּרְטִיס	_
+15	)		PUNCT	PUNCT		)	_
+16	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = דרכון ישראלי
+
+1	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+2	יִשְׂרְאֵלִי	ישראלי	ADJ	ADJ	Gender=Masc|Number=Sing	יִשְׂרְאֵלִי	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = מגבלות ודגשים
+
+1	מִגְבָּלוֹת	מגבלה	NOUN	NOUN	Gender=Fem|Number=Plur	מִגְבָּלָה	_
+2-3	וּדְגֵשִׁים	_	_	_	_
+2	וּ	ו	CCONJ	CCONJ
+3	דְגֵשִׁים	דגש	NOUN	NOUN	Gender=Masc|Number=Plur	דָּגֵשׁ	_
+
+# new_sentence = yes, end_paragraph=no
+# text = דרכון ישראלי דרכון בתוקף. 
+1	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+2	יִשְׂרְאֵלִי	ישראלי	ADJ	ADJ	Gender=Masc|Number=Sing	יִשְׂרְאֵלִי	_
+3	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+4-5	בְּתֹקֶף	_	_	_	_
+4	בְּ	ב	ADP	ADP
+5	תֹקֶף	תוקף	NOUN	NOUN	Gender=Masc|Number=Sing	תֹּקֶף	_
+6	.		PUNCT	PUNCT		.	_
+7	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = דרכון הקבע האחרון שהונפק. 
+1	דַּרְכּוֹן	דרכון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+2-3	הַקֶּבַע	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	קֶּבַע	קבע	NOUN	NOUN	Gender=Masc|Number=Sing	קֶבַע	_
+4-5	הָאַחֲרוֹן	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	אַחֲרוֹן	אחרון	ADJ	ADJ	Gender=Masc|Number=Sing	אַחֲרוֹן	_
+6-7	שֶׁהֻנְפַּק	_	_	_	_
+6	שֶׁ	ש	SCONJ	SCONJ
+7	הֻנְפַּק	הונפק	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=נפק|Number=Sing|Person=3|Tense=Past|Voice=Pass	הֻנְפַּק	_
+8	.		PUNCT	PUNCT		.	_
+9	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לא יתאפשר זיהוי באמצעות דרכון זמני.
+1	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+2	יִתְאַפְשֵׁר	התאפשר	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=אפשׁר|Number=Sing|Person=3|Tense=Fut	הִתְאַפְשֵׁר	_
+3	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+4	בְּאֶמְצָעוּת	באמצעות	ADP	ADP		בְּאֶמְצָעוּת	_
+5	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+6	זְמַנִּי	זמני	ADJ	ADJ	Gender=Masc|Number=Sing	זְמַנִּי	_
+7	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = אופן המילוי
+
+1	אֹפֶן	אופן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֹפֶן	_
+2-3	הַמִּלּוּי	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	מִּלּוּי	מילוי	NOUN	NOUN	Gender=Masc|Number=Sing	מִלּוּי	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את מספר הדרכון. 
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+5-6	הַדַּרְכּוֹן	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+7	.		PUNCT	PUNCT		.	_
+8	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין את תאריך הנפקת הדרכון בבחירה מהתאריכון.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	אֶת	את	ADP	ADP		אֶת	_
+4	תַּאֲרִיךְ	תאריך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תַּאֲרִיךְ	_
+5	הַנְפָּקַת	הנפקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַנְפָּקָה	_
+6-7	הַדַּרְכּוֹן	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	דַּרְכּוֹן	דרכון	NOUN	NOUN	Gender=Masc|Number=Sing	דַּרְכּוֹן	_
+8-9	בִּבְחִירָה	_	_	_	_
+8	בִּ	ב	ADP	ADP
+9	בְחִירָה	בחירה	NOUN	NOUN	Gender=Fem|Number=Sing	בְּחִירָה	_
+10-12	מֵהַתַּאֲרִיכוֹן	_	_	_	_
+10	מֵ	מ	ADP	ADP
+11	ה	ה	DET	DET	PronType=Art
+12	תַּאֲרִיכוֹן	תאריכון	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲרִיכוֹן	_
+13	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = תעודת עולה
+
+1	תְּעוּדַת	תעודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּעוּדָה	_
+2	עוֹלֶה	עולה	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלֶה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = מגבלות ודגשים
+
+1	מִגְבָּלוֹת	מגבלה	NOUN	NOUN	Gender=Fem|Number=Plur	מִגְבָּלָה	_
+2-3	וּדְגֵשִׁים	_	_	_	_
+2	וּ	ו	CCONJ	CCONJ
+3	דְגֵשִׁים	דגש	NOUN	NOUN	Gender=Masc|Number=Plur	דָּגֵשׁ	_
+
+# new_sentence = yes, end_paragraph=no
+# text = שימוש באמצעי זיהוי זה יתאפשר בשנה הראשונה לקבלת מעמד עולה. 
+1	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+2-3	בְּאֶמְצְעֵי	_	_	_	_
+2	בְּ	ב	ADP	ADP
+3	אֶמְצְעֵי	אמצע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	אֶמְצַע	_
+4	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+5	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+6	יִתְאַפְשֵׁר	התאפשר	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=אפשׁר|Number=Sing|Person=3|Tense=Fut	הִתְאַפְשֵׁר	_
+7-9	בַּשָּׁנָה	_	_	_	_
+7	בַּ	ב	ADP	ADP
+8	ה_	ה	DET	DET	PronType=Art
+9	שָּׁנָה	שנה	NOUN	NOUN	Gender=Fem|Number=Sing	שָׁנָה	_
+10-11	הָרִאשׁוֹנָה	_	_	_	_
+10	ה	ה	DET	DET	PronType=Art
+11	רִאשׁוֹנָה	ראשונה	ADJ	ADJ	Gender=Fem|Number=Sing|NumType=Ord	רִאשׁוֹנָה	_
+12-13	לְקַבָּלַת	_	_	_	_
+12	לְ	ל	ADP	ADP
+13	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+14	מַעֲמָד	מעמד	NOUN	NOUN	Gender=Masc|Number=Sing	מַעֲמָד	_
+15	עוֹלֶה	עלה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=עלי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	עָלָה	_
+16	.		PUNCT	PUNCT		.	_
+17	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = שימוש באמצעי זיהוי זה יתאפשר מגיל 17 ומעלה. 
+1	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+2-3	בְּאֶמְצְעֵי	_	_	_	_
+2	בְּ	ב	ADP	ADP
+3	אֶמְצְעֵי	אמצע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	אֶמְצַע	_
+4	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+5	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+6	יִתְאַפְשֵׁר	התאפשר	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=אפשׁר|Number=Sing|Person=3|Tense=Fut	הִתְאַפְשֵׁר	_
+7-8	מִגִּיל	_	_	_	_
+7	מִ	מ	ADP	ADP
+8	גִּיל	גיל	NOUN	NOUN	Gender=Masc|Number=Sing	גִּיל	_
+9-11	17וָמַעְלָה	_	_	_	_
+9	17		NUM	NUM		17	_
+10	וָ	ו	CCONJ	CCONJ
+11	מַעְלָה	מעל	ADV	ADV		מַעַל	_
+12	.		PUNCT	PUNCT		.	_
+13	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = תעודת בתוקף.
+1	תְּעוּדַת	תעודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּעוּדָה	_
+2-3	בְּתֹקֶף	_	_	_	_
+2	בְּ	ב	ADP	ADP
+3	תֹקֶף	תוקף	NOUN	NOUN	Gender=Masc|Number=Sing	תֹּקֶף	_
+4	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין מספר תעודת עולה המוצגת בפנקס העולה. 
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+4	תְּעוּדַת	תעודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	תְּעוּדָה	_
+5	עוֹלֶה	עולה	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלֶה	_
+6-7	הַמֻּצֶּגֶת	_	_	_	_
+6	הַ	ה	SCONJ	SCONJ
+7	מֻּצֶּגֶת	הוצג	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+8-9	בְּפִנְקַס	_	_	_	_
+8	בְּ	ב	ADP	ADP
+9	פִנְקַס	פנקס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	פִּנְקָס	_
+10-11	הָעוֹלֶה	_	_	_	_
+10	ה	ה	DET	DET	PronType=Art
+11	עוֹלֶה	עולה	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹלֶה	_
+12	.		PUNCT	PUNCT		.	_
+13	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = יש להזין מספר פנקס המוצג בעמוד האחרון של הפנקס (המספר המחורר).
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְהָזִין	הזין	VERB	VERB	HebBinyan=HIFIL|HebRoot=זון|VerbForm=Inf|Voice=Act	הֵזִין	_
+3	מִסְפַּר	מספר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִסְפָּר	_
+4	פִּנְקָס	פנקס	NOUN	NOUN	Gender=Masc|Number=Sing	פִּנְקָס	_
+5-6	הַמֻּצָּג	_	_	_	_
+5	הַ	ה	SCONJ	SCONJ
+6	מֻּצָּג	הוצג	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Pass	הֻצַּג	_
+7-8	בְּעַמּוּד	_	_	_	_
+7	בְּ	ב	ADP	ADP
+8	עַמּוּד	עמוד	NOUN	NOUN	Gender=Masc|Number=Sing	עַמּוּד	_
+9-10	הָאַחֲרוֹן	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	אַחֲרוֹן	אחרון	ADJ	ADJ	Gender=Masc|Number=Sing	אַחֲרוֹן	_
+11	שֶׁל	של	ADP	ADP		שֶׁל	_
+12-13	הַפִּנְקָס	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	פִּנְקָס	פנקס	NOUN	NOUN	Gender=Masc|Number=Sing	פִּנְקָס	_
+14-16	 (הַמִּסְפָּר	_	_	_	_
+14	 (		X	X	DictaNote=Unknown	 (	_
+15	ה	ה	DET	DET	PronType=Art
+16	מִּסְפָּר	מספר	NOUN	NOUN	Gender=Masc|Number=Sing	מִסְפָּר	_
+17-18	הַמְּחוֹרֵר	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	מְּחוֹרֵר	חורר	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=חור|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	חוֹרֵר	_
+19	)		PUNCT	PUNCT		)	_
+20	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = יש לוודא הזנה תקינה של הנתונים.
+1	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+2	לְוַדֵּא	וידא	VERB	VERB	HebBinyan=PIEL|HebRoot=ודא|VerbForm=Inf|Voice=Act	וִדֵּא	_
+3	הֲזָנָה	הזנה	NOUN	NOUN	Gender=Fem|Number=Sing	הֲזָנָה	_
+4	תַּקִּינָה	תקין	ADJ	ADJ	Gender=Fem|Number=Sing	תַּקִּין	_
+5	שֶׁל	של	ADP	ADP		שֶׁל	_
+6-7	הַנְּתוּנִים	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	נְּתוּנִים	נתון	NOUN	NOUN	Gender=Masc|Number=Plur	נָתוּן	_
+8	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = בעת המילוי, יסומנו התנאים בה עומד הסיסמה וכן יוצג חיווי אודות חוזק הסיסמה. 
+1-2	בְּעֵת	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	עֵת	עת	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	עֵת	_
+3-4	הַמִּלּוּי	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	מִּלּוּי	מילוי	NOUN	NOUN	Gender=Masc|Number=Sing	מִלּוּי	_
+5-7	, יְסֻמְּנוּ	_	_	_	_
+5	,		PUNCT	PUNCT		,	_
+6	 		X	X	DictaNote=Unknown	 	_
+7	יְסֻמְּנוּ	סומן	VERB	VERB	Gender=Masc|HebBinyan=PUAL|HebRoot=סמן|Number=Plur|Person=3|Tense=Fut|Voice=Pass	סֻמַּן	_
+8-9	הַתְּנָאִים	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	תְּנָאִים	תנאי	NOUN	NOUN	Gender=Masc|Number=Plur	תְּנַאי	_
+10-11	בָּהּ	_	_	_	_
+10	ב_	ב	ADP	ADP		בְּ	_
+11	_היא	היא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs
+12	עוֹמֵד	עמד	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=עמד|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	עָמַד	_
+13-14	הַסִּסְמָה	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+15-16	וְכֵן	_	_	_	_
+15	וְ	ו	CCONJ	CCONJ
+16	כֵן	כן	CCONJ	CCONJ		כֵּן	_
+17	יֻצַּג	הוצג	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=יצג|Number=Sing|Person=3|Tense=Fut|Voice=Pass	הֻצַּג	_
+18	חִוּוּי	חיווי	NOUN	NOUN	Gender=Masc|Number=Sing	חִוּוּי	_
+19	אוֹדוֹת	אודות	ADP	ADP		אוֹדוֹת	_
+20	חֹזֶק	חוזק	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	חֹזֶק	_
+21-22	הַסִּסְמָה	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+23	.		PUNCT	PUNCT		.	_
+24	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = סיסמה תקינה תופיע כסיסמה חזקה. 
+1	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+2	תַּקִּינָה	תקין	ADJ	ADJ	Gender=Fem|Number=Sing	תַּקִּין	_
+3	תּוֹפִיעַ	הופיע	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=יפע|Number=Sing|Person=3|Tense=Fut|Voice=Act	הוֹפִיעַ	_
+4-5	כְּסִיסְמָה	_	_	_	_
+4	כְּ	כ	ADP	ADP
+5	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+6	חֲזָקָה	חזק	ADJ	ADJ	Gender=Fem|Number=Sing	חָזָק	_
+7	.		PUNCT	PUNCT		.	_
+8	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ככל שלא יתקבל חיווי לסיסמה חזקה, לא תתאפשר יצירת הסיסמה.
+1	כְּכָל	ככל	CCONJ	CCONJ		כְּכָל	_
+2-3	שֶׁלֹּא	_	_	_	_
+2	שֶׁ	ש	SCONJ	SCONJ
+3	לֹּא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+4	יִתְקַבֵּל	התקבל	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=קבל|Number=Sing|Person=3|Tense=Fut	הִתְקַבֵּל	_
+5	חִוּוּי	חיווי	NOUN	NOUN	Gender=Masc|Number=Sing	חִוּוּי	_
+6-7	לְסִיסְמָה	_	_	_	_
+6	לְ	ל	ADP	ADP
+7	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+8	חֲזָקָה	חזק	ADJ	ADJ	Gender=Fem|Number=Sing	חָזָק	_
+9-11	, לֹא	_	_	_	_
+9	,		PUNCT	PUNCT		,	_
+10	 		X	X	DictaNote=Unknown	 	_
+11	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+12	תִּתְאַפְשֵׁר	התאפשר	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|HebRoot=אפשׁר|Number=Sing|Person=3|Tense=Fut	הִתְאַפְשֵׁר	_
+13	יְצִירַת	יצירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	יְצִירָה	_
+14-15	הַסִּסְמָה	_	_	_	_
+14	ה	ה	DET	DET	PronType=Art
+15	סִּסְמָה	ססמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִסְמָה	_
+16	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=no
+# text = לסיום ויצירת סיסמה, יש ללחוץ על כפתור יצירת סיסמה חדשה.
+1-2	לְסִיּוּם	_	_	_	_
+1	לְ	ל	ADP	ADP
+2	סִיּוּם	סיום	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּם	_
+3-4	וִיצִירַת	_	_	_	_
+3	וִ	ו	CCONJ	CCONJ
+4	יצִירַת	יצירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	יְצִירָה	_
+5	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+6-8	, יֵשׁ	_	_	_	_
+6	,		PUNCT	PUNCT		,	_
+7	 		X	X	DictaNote=Unknown	 	_
+8	יֵשׁ	יש	AUX	AUX	VerbType=Mod	יֵשׁ	_
+9	לִלְחֹץ	לחץ	VERB	VERB	HebBinyan=PAAL|HebRoot=לחץ|VerbForm=Inf|Voice=Act	לָחַץ	_
+10	עַל	על	ADP	ADP		עַל	_
+11	כַּפְתּוֹר	כפתור	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּפְתּוֹר	_
+12	יְצִירַת	יצירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	יְצִירָה	_
+13	סִיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+14	חֲדָשָׁה	חדש	ADJ	ADJ	Gender=Fem|Number=Sing	חָדָשׁ	_
+15	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = עדכון הסיסמה
+
+1	עִדְכּוּן	עדכון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	עִדְכּוּן	_
+2-3	הַסִּיסְמָה	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	סִּיסְמָה	סיסמה	NOUN	NOUN	Gender=Fem|Number=Sing	סִיסְמָה	_
+

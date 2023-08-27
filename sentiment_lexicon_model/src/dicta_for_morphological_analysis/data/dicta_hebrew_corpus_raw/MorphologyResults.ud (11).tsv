@@ -1,0 +1,2351 @@
+﻿
+# new_sentence = yes, end_paragraph=yes
+# text = פיצויים לדוגמא
+
+1	פִּצּוּיִים	פיצוי	NOUN	NOUN	Gender=Masc|Number=Plur	פִּצּוּי	_
+2-3	לְדֻגְמָא	_	_	_	_
+2	לְ	ל	ADP	ADP
+3	דֻגְמָא	דוגמה	NOUN	NOUN	Gender=Fem|Number=Sing	דֻּגְמָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 11. 
+1	11		NUM	NUM		11	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (א) בית המשפט רשאי לפסוק לנוסע שהונפק לו כרטיס טיסה פיצויים שאינם תלויים בנזק (בסעיף זה – פיצויים לדוגמה), בסכום שלא יעלה על 10,000 שקלים חדשים, 
+1-2	(א	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	א	א	NUM	NUM		א	_
+3-5	) בֵּית	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	בֵּית	בית	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בַּיִת	_
+6-7	הַמִּשְׁפָּט	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	מִּשְׁפָּט	משפט	NOUN	NOUN	Gender=Masc|Number=Sing	מִשְׁפָּט	_
+8	רַשַּׁאי	רשאי	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	רַשַּׁאי	_
+9	לִפְסֹק	פסק	VERB	VERB	HebBinyan=PAAL|HebRoot=פסק|VerbForm=Inf|Voice=Act	פָּסַק	_
+10-11	לְנוֹסֵעַ	_	_	_	_
+10	לְ	ל	ADP	ADP
+11	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+12-13	שֶׁהֻנְפַּק	_	_	_	_
+12	שֶׁ	ש	SCONJ	SCONJ
+13	הֻנְפַּק	הונפק	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=נפק|Number=Sing|Person=3|Tense=Past|Voice=Pass	הֻנְפַּק	_
+14-15	לוֹ	_	_	_	_
+14	ל_	ל	ADP	ADP		לְ	_
+15	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+16	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+17	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+18	פִּצּוּיִים	פיצוי	NOUN	NOUN	Gender=Masc|Number=Plur	פִּצּוּי	_
+19-20	שֶׁאֵינָם	_	_	_	_
+19	שֶׁ	ש	SCONJ	SCONJ
+20	אֵינָם	אין	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop	אֵין	_
+21	תְּלוּיִים	תלוי	ADJ	ADJ	Gender=Masc|Number=Plur	תָּלוּי	_
+22-23	בְּנֶזֶק	_	_	_	_
+22	בְּ	ב	ADP	ADP
+23	נֶזֶק	נזק	NOUN	NOUN	Gender=Masc|Number=Sing	נֶזֶק	_
+24-26	 (בִּסְעִיף	_	_	_	_
+24	 (		X	X	DictaNote=Unknown	 (	_
+25	בִּ	ב	ADP	ADP
+26	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+27	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+28-29	 – פִּצּוּיִים	_	_	_	_
+28	 – 		X	X	DictaNote=Unknown	 – 	_
+29	פִּצּוּיִים	פיצוי	NOUN	NOUN	Gender=Masc|Number=Plur	פִּצּוּי	_
+30-31	לְדֻגְמָה	_	_	_	_
+30	לְ	ל	ADP	ADP
+31	דֻגְמָה	דוגמה	NOUN	NOUN	Gender=Fem|Number=Sing	דֻּגְמָה	_
+32-36	), בִּסְכוּם	_	_	_	_
+32	)		PUNCT	PUNCT		)	_
+33	,		PUNCT	PUNCT		,	_
+34	 		X	X	DictaNote=Unknown	 	_
+35	בִּ	ב	ADP	ADP
+36	סְכוּם	סכום	NOUN	NOUN	Gender=Masc|Number=Sing	סְכוּם	_
+37-38	שֶׁלֹּא	_	_	_	_
+37	שֶׁ	ש	SCONJ	SCONJ
+38	לֹּא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+39	יַעֲלֶה	העלה	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=עלי|Number=Sing|Person=3|Tense=Fut|Voice=Act	הֶעְלָה	_
+40	עַל	על	ADP	ADP		עַל	_
+41-42	10,000שְׁקָלִים	_	_	_	_
+41	10,000		NUM	NUM		10,000	_
+42	שְׁקָלִים	שקל	NOUN	NOUN	Gender=Masc|Number=Plur	שֶׁקֶל	_
+43	חֲדָשִׁים	חדש	ADJ	ADJ	Gender=Masc|Number=Plur	חָדָשׁ	_
+44	,		PUNCT	PUNCT		,	_
+45	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = אם מצא כי נעשה ביודעין אחד מאלה:
+
+1	אִם	אם	CCONJ	CCONJ		אִם	_
+2	מָצָא	מצא	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=מצא|Number=Sing|Person=3|Tense=Past|Voice=Act	מָצָא	_
+3	כִּי	כי	SCONJ	SCONJ		כִּי	_
+4	נַעֲשָׂה	נעשה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=עשׂי|Number=Sing|Person=3|Tense=Past|Voice=Mid	נַעֲשָׂה	_
+5-6	בְּיוֹדְעִין	_	_	_	_
+5	בְּ	ב	ADP	ADP
+6	יוֹדְעִין	ידע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=ידע|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	יָדַע	_
+7	אֶחָד	אחד	NUM	NUM	Gender=Masc|Number=Sing	אֶחָד	_
+8-9	מֵאֵלֶּה	_	_	_	_
+8	מֵ	מ	ADP	ADP
+9	אֵלֶּה	אלה	PRON	PRON	Gender=Fem,Masc|Number=Plur|Person=3|PronType=Dem	אֵלֶּה	_
+10	:		PUNCT	PUNCT		:	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (1) מפעיל טיסה או מארגן – (א) לא נתן הטבות לנוסע שסירב להטיסו, בניגוד להוראות סעיף 5; 
+1	(		PUNCT	PUNCT		(	_
+2	1		NUM	NUM		1	_
+3-5	) מַפְעִיל	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	מַפְעִיל	מפעיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַפְעִיל	_
+6	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+7	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+8	מְאַרְגֵּן	מארגן	NOUN	NOUN	Gender=Masc|Number=Sing	מְאַרְגֵּן	_
+9-10	 – (א	_	_	_	_
+9	 – (		X	X	DictaNote=Unknown	 – (	_
+10	א	א	NUM	NUM		א	_
+11-13	) לֹא	_	_	_	_
+11	)		PUNCT	PUNCT		)	_
+12	 		X	X	DictaNote=Unknown	 	_
+13	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+14	נָתַן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=3|Tense=Past|Voice=Act	נָתַן	_
+15	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+16-17	לְנוֹסֵעַ	_	_	_	_
+16	לְ	ל	ADP	ADP
+17	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+18-19	שֶׁסֵּרֵב	_	_	_	_
+18	שֶׁ	ש	SCONJ	SCONJ
+19	סֵּרֵב	סירב	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=סרב|Number=Sing|Person=3|Tense=Past|Voice=Act	סֵרֵב	_
+20-22	לַהֲטִיסוֹ	_	_	_	_
+20	הטיס_	הטיס	VERB	VERB	HebBinyan=HIFIL|HebRoot=טוס|VerbForm=Inf|Voice=Act	הֵטִיס	_
+21	_את_	את	ADP	ADP	Case=Acc
+22	_הוא	הוא	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+23-25	, בְּנִגּוּד	_	_	_	_
+23	,		PUNCT	PUNCT		,	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	בְּנִגּוּד	בניגוד	ADV	ADV		בְּנִגּוּד	_
+26-27	לְהוֹרָאוֹת	_	_	_	_
+26	לְ	ל	ADP	ADP
+27	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+28	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+29	5		NUM	NUM		5	_
+30	;		PUNCT	PUNCT		;	_
+31	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (ב) לא נתן הטבות לנוסע שטיסתו בוטלה, בניגוד להוראות סעיף 6; 
+1-2	(ב	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	ב	ב	NUM	NUM		ב	_
+3-5	) לֹא	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+6	נָתַן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=3|Tense=Past|Voice=Act	נָתַן	_
+7	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+8-9	לְנוֹסֵעַ	_	_	_	_
+8	לְ	ל	ADP	ADP
+9	נוֹסֵעַ	נסע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נסע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָסַע	_
+10-13	שֶׁטִּיסָתוֹ	_	_	_	_
+10	שֶׁ	ש	SCONJ	SCONJ
+11	טיסה_	טיסה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	טִיסָה	_
+12	_של_	של	ADP	ADP	_
+13	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14	בֻּטְּלָה	בוטל	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בטל|Number=Sing|Person=3|Tense=Past|Voice=Pass	בֻּטַּל	_
+15-17	, בְּנִגּוּד	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	בְּנִגּוּד	בניגוד	ADV	ADV		בְּנִגּוּד	_
+18-19	לְהוֹרָאוֹת	_	_	_	_
+18	לְ	ל	ADP	ADP
+19	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+20	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+21	6		NUM	NUM		6	_
+22	;		PUNCT	PUNCT		;	_
+23	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (ג) לא נתן הטבות לנוסע שטיסתו המריאה באיחור, בניגוד להוראות סעיף 7; 
+1-2	(ג	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	ג	ג	NUM	NUM		ג	_
+3-5	) לֹא	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+6	נָתַן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=3|Tense=Past|Voice=Act	נָתַן	_
+7	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+8-9	לְנוֹסֵעַ	_	_	_	_
+8	לְ	ל	ADP	ADP
+9	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+10-13	שֶׁטִּיסָתוֹ	_	_	_	_
+10	שֶׁ	ש	SCONJ	SCONJ
+11	טיסה_	טיסה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	טִיסָה	_
+12	_של_	של	ADP	ADP	_
+13	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14	הִמְרִיאָה	המריא	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=מרא|Number=Sing|Person=3|Tense=Past|Voice=Act	הִמְרִיא	_
+15-16	בְּאִחוּר	_	_	_	_
+15	בְּ	ב	ADP	ADP
+16	אִחוּר	איחור	NOUN	NOUN	Gender=Masc|Number=Sing	אִחוּר	_
+17-20	, בְּנִגּוּד	_	_	_	_
+17	,		PUNCT	PUNCT		,	_
+18	 		X	X	DictaNote=Unknown	 	_
+19	בְּ	ב	ADP	ADP
+20	נִגּוּד	ניגוד	NOUN	NOUN	Gender=Masc|Number=Sing	נִגּוּד	_
+21-22	לְהוֹרָאוֹת	_	_	_	_
+21	לְ	ל	ADP	ADP
+22	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+23	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+24	7		NUM	NUM		7	_
+25	;		PUNCT	PUNCT		;	_
+26	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (ד) לא נתן הטבות לנוסע שמועד ההמראה של טיסתו הוקדם, בניגוד להוראות סעיף 8; 
+1-2	(ד	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	ד	ד	NUM	NUM		ד	_
+3-5	) לֹא	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+6	נָתַן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=3|Tense=Past|Voice=Act	נָתַן	_
+7	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+8-9	לְנוֹסֵעַ	_	_	_	_
+8	לְ	ל	ADP	ADP
+9	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+10-11	שֶׁמּוֹעֵד	_	_	_	_
+10	שֶׁ	ש	SCONJ	SCONJ
+11	מּוֹעֵד	מועד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מוֹעֵד	_
+12-13	הַהַמְרָאָה	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	הַמְרָאָה	המראה	NOUN	NOUN	Gender=Fem|Number=Sing	הַמְרָאָה	_
+14	שֶׁל	של	ADP	ADP		שֶׁל	_
+15-17	טִיסָתוֹ	_	_	_	_
+15	טיסה_	טיסה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	טִיסָה	_
+16	_של_	של	ADP	ADP	_
+17	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+18	הֻקְדַּם	הוקדם	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=קדם|Number=Sing|Person=3|Tense=Past|Voice=Pass	הֻקְדַּם	_
+19-22	, בְּנִגּוּד	_	_	_	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	בְּ	ב	ADP	ADP
+22	נִגּוּד	ניגוד	NOUN	NOUN	Gender=Masc|Number=Sing	נִגּוּד	_
+23-24	לְהוֹרָאוֹת	_	_	_	_
+23	לְ	ל	ADP	ADP
+24	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+25	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+26	8		NUM	NUM		8	_
+27	;		PUNCT	PUNCT		;	_
+28	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (ה) לא נתן פיצוי בשל שינוי בתנאי כרטיס הטיסה כאמור בתוספת השנייה, לנוסע שהועבר למחלקה ברמה נמוכה יותר מזו הנקובה בכרטיס הטיסה שלו, 
+1-2	(ה	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	ה	ה	NUM	NUM		ה	_
+3-5	) לֹא	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+6	נָתַן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=3|Tense=Past|Voice=Act	נָתַן	_
+7	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+8	בְּשֶׁל	של	ADP	ADP		שֶׁל	_
+9	שִׁנּוּי	שינוי	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁנּוּי	_
+10-11	בִּתְנַאי	_	_	_	_
+10	בִּ	ב	ADP	ADP
+11	תְנַאי	תנאי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תְּנַאי	_
+12	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+13-14	הַטִּיסָה	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+15-17	כָּאָמוּר	_	_	_	_
+15	כָּ	כ	ADP	ADP
+16	ה_	ה	DET	DET	PronType=Art
+17	אָמוּר	אמור	ADJ	ADJ	Gender=Masc|Number=Sing	אָמוּר	_
+18-20	בַּתּוֹסֶפֶת	_	_	_	_
+18	בַּ	ב	ADP	ADP
+19	ה_	ה	DET	DET	PronType=Art
+20	תּוֹסֶפֶת	תוספת	NOUN	NOUN	Gender=Fem|Number=Sing	תּוֹסֶפֶת	_
+21-22	הַשְּׁנִיָּה	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	שְּׁנִיָּה	שניים	NUM	NUM	Gender=Fem|Number=Sing	שְׁנַיִם	_
+23-26	, לְנוֹסֵעַ	_	_	_	_
+23	,		PUNCT	PUNCT		,	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	לְ	ל	ADP	ADP
+26	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+27-28	שֶׁהׇעֳבַר	_	_	_	_
+27	שֶׁ	ש	SCONJ	SCONJ
+28	הׇעֳבַר	הועבר	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=עבר|Number=Sing|Person=3|Tense=Past|Voice=Pass	הֻעְבַּר	_
+29-30	לְמַחְלָקָה	_	_	_	_
+29	לְ	ל	ADP	ADP
+30	מַחְלָקָה	מחלקה	NOUN	NOUN	Gender=Fem|Number=Sing	מַחְלָקָה	_
+31-32	בְּרָמָה	_	_	_	_
+31	בְּ	ב	ADP	ADP
+32	רָמָה	רמה	NOUN	NOUN	Gender=Fem|Number=Sing	רָמָה	_
+33	נְמוּכָה	נמוך	ADJ	ADJ	Gender=Fem|Number=Sing	נָמוּךְ	_
+34	יוֹתֵר	יותר	ADV	ADV		יוֹתֵר	_
+35-36	מִזּוֹ	_	_	_	_
+35	מִ	מ	ADP	ADP
+36	זּוֹ	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3	זֶה	_
+37-38	הַנְּקוּבָה	_	_	_	_
+37	ה	ה	DET	DET	PronType=Art
+38	נְּקוּבָה	נקב	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=נקב|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָקַב	_
+39-40	בְּכַרְטִיס	_	_	_	_
+39	בְּ	ב	ADP	ADP
+40	כַרְטִיס	כרטיס	NOUN	NOUN	Gender=Masc|Number=Sing	כַּרְטִיס	_
+41-42	הַטִּיסָה	_	_	_	_
+41	ה	ה	DET	DET	PronType=Art
+42	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+43-44	שֶׁלּוֹ	_	_	_	_
+43	_של	של	ADP	ADP	Case=Gen	של	_
+44	הוא_	הוא_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	הוא_	_
+45	,		PUNCT	PUNCT		,	_
+46	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = בניגוד להוראות סעיף 9(ב);
+
+1-2	בְּנִגּוּד	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	נִגּוּד	ניגוד	NOUN	NOUN	Gender=Masc|Number=Sing	נִגּוּד	_
+3-4	לְהוֹרָאוֹת	_	_	_	_
+3	לְ	ל	ADP	ADP
+4	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+5	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+6	9		NUM	NUM		9	_
+7-8	(ב	_	_	_	_
+7	(		PUNCT	PUNCT		(	_
+8	ב	ב	NUM	NUM		ב	_
+9	)		PUNCT	PUNCT		)	_
+10	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (2) מפעיל טיסה או מארגן או מי שהסמיכו לכך הנפיק לנוסע כרטיס טיסה שמועד הטיסה הנקוב בו אינו המועד שרשות שדות התעופה אישרה מראש, 
+1	(		PUNCT	PUNCT		(	_
+2	2		NUM	NUM		2	_
+3-5	) מַפְעִיל	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	מַפְעִיל	מפעיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַפְעִיל	_
+6	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+7	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+8	מְאַרְגֵּן	מארגן	NOUN	NOUN	Gender=Masc|Number=Sing	מְאַרְגֵּן	_
+9	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+10	מִי	מי	PRON	PRON	PronType=Int	מִי	_
+11-13	שֶׁהַסְמִיכוֹ	_	_	_	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	הסמיך_	הסמיך	VERB	VERB	HebBinyan=HIFIL|HebRoot=סמך|Voice=Act	הִסְמִיךְ	_
+13	_הוא	הוא	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14-15	לְכָךְ	_	_	_	_
+14	לְ	ל	ADP	ADP
+15	כָךְ	כך	PRON	PRON		כָּךְ	_
+16	הִנְפִּיק	הנפיק	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=נפק|Number=Sing|Person=3|Tense=Past|Voice=Act	הִנְפִּיק	_
+17-19	לַנּוֹסֵעַ	_	_	_	_
+17	לַ	ל	ADP	ADP
+18	ה_	ה	DET	DET	PronType=Art
+19	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+20	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+21	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+22-23	שֶׁמּוֹעֵד	_	_	_	_
+22	שֶׁ	ש	SCONJ	SCONJ
+23	מּוֹעֵד	מועד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מוֹעֵד	_
+24-25	הַטִּיסָה	_	_	_	_
+24	ה	ה	DET	DET	PronType=Art
+25	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+26-27	הַנָּקוּב	_	_	_	_
+26	ה	ה	DET	DET	PronType=Art
+27	נָּקוּב	נקוב	ADJ	ADJ	Gender=Masc|Number=Sing	נָקוּב	_
+28-29	בּוֹ	_	_	_	_
+28	ב_	ב	ADP	ADP		בְּ	_
+29	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+30	אֵינוֹ	אין	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop	אֵין	_
+31-32	הַמּוֹעֵד	_	_	_	_
+31	ה	ה	DET	DET	PronType=Art
+32	מּוֹעֵד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	מוֹעֵד	_
+33-34	שֶׁרָשׁוּת	_	_	_	_
+33	שֶׁ	ש	SCONJ	SCONJ
+34	רָשׁוּת	רשות	NOUN	NOUN	Gender=Fem|Number=Sing	רָשׁוּת	_
+35	שְׂדוֹת	שדה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שָׂדֶה	_
+36-37	הַתְּעוּפָה	_	_	_	_
+36	ה	ה	DET	DET	PronType=Art
+37	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+38	אִשְּׁרָה	אישר	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=אשׁר|Number=Sing|Person=3|Tense=Past|Voice=Act	אִשֵּׁר	_
+39	מֵרֹאשׁ	מראש	ADV	ADV		מֵרֹאשׁ	_
+40	,		PUNCT	PUNCT		,	_
+41	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ובשל כך הטיסה לא היתה אמורה להמריא במועד הנקוב כאמור, בניגוד להוראות סעיף 10, והיא בוטלה או המריאה בפער העולה על שעתיים מהמועד הנקוב באותו כרטיס טיסה.
+1-2	וּבְשֶׁל	_	_	_	_
+1	וּ	ו	CCONJ	CCONJ
+2	בְשֶׁל	של	ADP	ADP		שֶׁל	_
+3	כָּךְ	כך	ADV	ADV		כָּךְ	_
+4-5	הַטִּיסָה	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+6	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+7	הָיְתָה	היי	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Tense=Past|VerbType=Cop	היי	_
+8	אֲמוּרָה	אמור	AUX	AUX	Gender=Fem|Number=Sing|Person=1,2,3|VerbType=Mod	אָמוּר	_
+9	לְהַמְרִיא	המריא	VERB	VERB	HebBinyan=HIFIL|HebRoot=מרא|VerbForm=Inf|Voice=Act	הִמְרִיא	_
+10-12	בַּמּוֹעֵד	_	_	_	_
+10	בַּ	ב	ADP	ADP
+11	ה_	ה	DET	DET	PronType=Art
+12	מּוֹעֵד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	מוֹעֵד	_
+13-14	הַנָּקוּב	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	נָּקוּב	נקוב	ADJ	ADJ	Gender=Masc|Number=Sing	נָקוּב	_
+15-17	כָּאָמוּר	_	_	_	_
+15	כָּ	כ	ADP	ADP
+16	ה_	ה	DET	DET	PronType=Art
+17	אָמוּר	אמור	ADJ	ADJ	Gender=Masc|Number=Sing	אָמוּר	_
+18-21	, בְּנִגּוּד	_	_	_	_
+18	,		PUNCT	PUNCT		,	_
+19	 		X	X	DictaNote=Unknown	 	_
+20	בְּ	ב	ADP	ADP
+21	נִגּוּד	ניגוד	NOUN	NOUN	Gender=Masc|Number=Sing	נִגּוּד	_
+22-23	לְהוֹרָאוֹת	_	_	_	_
+22	לְ	ל	ADP	ADP
+23	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+24	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+25	10		NUM	NUM		10	_
+26-29	, וְהִיא	_	_	_	_
+26	,		PUNCT	PUNCT		,	_
+27	 		X	X	DictaNote=Unknown	 	_
+28	וְ	ו	CCONJ	CCONJ
+29	הִיא	הוא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs	הוא	_
+30	בֻּטְּלָה	בוטל	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בטל|Number=Sing|Person=3|Tense=Past|Voice=Pass	בֻּטַּל	_
+31	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+32	הִמְרִיאָה	המריא	VERB	VERB	Gender=Fem|HebBinyan=HIFIL|HebRoot=מרא|Number=Sing|Person=3|Tense=Past|Voice=Act	הִמְרִיא	_
+33-34	בְּפַעַר	_	_	_	_
+33	בְּ	ב	ADP	ADP
+34	פַעַר	פער	NOUN	NOUN	Gender=Masc|Number=Sing	פַּעַר	_
+35-36	הָעוֹלֶה	_	_	_	_
+35	הָ	ה	SCONJ	SCONJ
+36	עוֹלֶה	עלה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=עלי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	עָלָה	_
+37	עַל	על	ADP	ADP		עַל	_
+38	שְׁעָתַיִם	שעה	NOUN	NOUN	Gender=Masc|Number=Dual	שָׁעָה	_
+39-41	מֵהַמּוֹעֵד	_	_	_	_
+39	מֵ	מ	ADP	ADP
+40	ה	ה	DET	DET	PronType=Art
+41	מּוֹעֵד	מועד	NOUN	NOUN	Gender=Masc|Number=Sing	מוֹעֵד	_
+42-43	הַנָּקוּב	_	_	_	_
+42	ה	ה	DET	DET	PronType=Art
+43	נָּקוּב	נקוב	ADJ	ADJ	Gender=Masc|Number=Sing	נָקוּב	_
+44-45	בְּאוֹתוֹ	_	_	_	_
+44	בְּ	ב	ADP	ADP
+45	אוֹתוֹ	את	PRON	PRON	Gender=Masc|Number=Sing|PronType=Dem	אֶת	_
+46	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+47	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+48	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = חישוב מרחקים
+
+1	חִשּׁוּב	חישוב	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	חִשּׁוּב	_
+2	מֶרְחַקִּים	מרחק	NOUN	NOUN	Gender=Masc|Number=Plur	מֶרְחָק	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = עדכון סכומים
+
+1	עִדְכּוּן	עדכון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	עִדְכּוּן	_
+2	סְכוּמִים	סכום	NOUN	NOUN	Gender=Masc|Number=Plur	סְכוּם	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = חובת יידוע וגילוי
+
+1	חוֹבַת	חובה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	חוֹבָה	_
+2	יִדּוּעַ	יידוע	NOUN	NOUN	Gender=Masc|Number=Sing	יִדּוּעַ	_
+3-4	וְגִלּוּי	_	_	_	_
+3	וְ	ו	CCONJ	CCONJ
+4	גִלּוּי	גילוי	NOUN	NOUN	Gender=Masc|Number=Sing	גִּלּוּי	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 14. 
+1	14		NUM	NUM		14	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (א) (1) מפעיל טיסה או מארגן יציג במקום שבו הוא מקבל קהל, מודעה המפרטת את זכות הנוסע להטבות במקרה של סירוב להטיסו בטיסה, עיכוב טיסה, 
+1-2	(אַ	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	אַ	א	ADP	ADP		אַ	_
+3	)		PUNCT	PUNCT		)	_
+4	 (		X	X	DictaNote=Unknown	 (	_
+5	1		NUM	NUM		1	_
+6-8	) מַפְעִיל	_	_	_	_
+6	)		PUNCT	PUNCT		)	_
+7	 		X	X	DictaNote=Unknown	 	_
+8	מַפְעִיל	מפעיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַפְעִיל	_
+9	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+10	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+11	מְאַרְגֵּן	מארגן	NOUN	NOUN	Gender=Masc|Number=Sing	מְאַרְגֵּן	_
+12	יַצִּיג	הציג	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יצג|Number=Sing|Person=3|Tense=Fut|Voice=Act	הִצִּיג	_
+13-14	בְּמָקוֹם	_	_	_	_
+13	בְּ	ב	ADP	ADP
+14	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+15-17	שֶׁבּוֹ	_	_	_	_
+15	שֶׁ	ש	SCONJ	SCONJ
+16	ב_	ב	ADP	ADP		בְּ	_
+17	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+18	הוּא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	הוא	_
+19	מְקַבֵּל	קיבל	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=קבל|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	קִבֵּל	_
+20	קָהָל	קהל	NOUN	NOUN	Gender=Masc|Number=Sing	קָהָל	_
+21-23	, מוֹדָעָה	_	_	_	_
+21	,		PUNCT	PUNCT		,	_
+22	 		X	X	DictaNote=Unknown	 	_
+23	מוֹדָעָה	מודעה	NOUN	NOUN	Gender=Fem|Number=Sing	מוֹדָעָה	_
+24-25	הַמְּפָרֶטֶת	_	_	_	_
+24	ה	ה	DET	DET	PronType=Art
+25	מְּפָרֶטֶת	פירט	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=פרט|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	פֵּרֵט	_
+26	אֶת	את	ADP	ADP		אֶת	_
+27	זְכוּת	זכות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	זְכוּת	_
+28-29	הַנּוֹסֵעַ	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+30-32	לַהֲטָבוֹת	_	_	_	_
+30	לַ	ל	ADP	ADP
+31	ה_	ה	DET	DET	PronType=Art
+32	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+33-35	בַּמִּקְרֶה	_	_	_	_
+33	בַּ	ב	ADP	ADP
+34	ה_	ה	DET	DET	PronType=Art
+35	מִּקְרֶה	מקרה	NOUN	NOUN	Gender=Masc|Number=Sing	מִקְרֶה	_
+36	שֶׁל	של	ADP	ADP		שֶׁל	_
+37	סֵרוּב	סירוב	NOUN	NOUN	Gender=Masc|Number=Sing	סֵרוּב	_
+38-40	לַהֲטִיסוֹ	_	_	_	_
+38	הטיס_	הטיס	VERB	VERB	HebBinyan=HIFIL|HebRoot=טוס|VerbForm=Inf|Voice=Act	הֵטִיס	_
+39	_את_	את	ADP	ADP	Case=Acc
+40	_הוא	הוא	PRON	PRON	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+41-42	בְּטִיסָה	_	_	_	_
+41	בְּ	ב	ADP	ADP
+42	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+43-45	, עִכּוּב	_	_	_	_
+43	,		PUNCT	PUNCT		,	_
+44	 		X	X	DictaNote=Unknown	 	_
+45	עִכּוּב	עיכוב	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	עִכּוּב	_
+46	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+47	,		PUNCT	PUNCT		,	_
+48	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הקדמת טיסה או ביטולה (בסעיף זה – מידע לנוסע), במקום הנראה לעין ובאותיות ברורות וקריאות.
+
+1	הַקְדָּמַת	הקדמה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַקְדָּמָה	_
+2	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+3	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+4-6	בִּטּוּלָהּ	_	_	_	_
+4	בטול_	ביטול	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	בִּטּוּל	_
+5	_של_	של	ADP	ADP	_
+6	_היא	היא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+7-9	 (בִּסְעִיף	_	_	_	_
+7	 (		X	X	DictaNote=Unknown	 (	_
+8	בִּ	ב	ADP	ADP
+9	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+10	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+11-12	 – מֵידָע	_	_	_	_
+11	 – 		X	X	DictaNote=Unknown	 – 	_
+12	מֵידָע	מידע	NOUN	NOUN	Gender=Masc|Number=Sing	מֵידָע	_
+13-14	לְנוֹסֵעַ	_	_	_	_
+13	לְ	ל	ADP	ADP
+14	נוֹסֵעַ	נסע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נסע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָסַע	_
+15-20	), בַּמָּקוֹם	_	_	_	_
+15	)		PUNCT	PUNCT		)	_
+16	,		PUNCT	PUNCT		,	_
+17	 		X	X	DictaNote=Unknown	 	_
+18	בַּ	ב	ADP	ADP
+19	ה_	ה	DET	DET	PronType=Art
+20	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+21-22	הַנִּרְאֶה	_	_	_	_
+21	הַ	ה	SCONJ	SCONJ
+22	נִּרְאֶה	נראה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=ראי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	נִרְאָה	_
+23-25	לָעַיִן	_	_	_	_
+23	לָ	ל	ADP	ADP
+24	ה_	ה	DET	DET	PronType=Art
+25	עַיִן	עין	NOUN	NOUN	Gender=Fem|Number=Sing	עַיִן	_
+26-28	וּבְאוֹתִיּוֹת	_	_	_	_
+26	וּ	ו	CCONJ	CCONJ
+27	בְ	ב	ADP	ADP
+28	אוֹתִיּוֹת	אות	NOUN	NOUN	Gender=Fem,Masc|Number=Plur	אוֹת	_
+29	בְּרוּרוֹת	ברור	ADJ	ADJ	Gender=Fem|Number=Plur	בָּרוּר	_
+30-31	וּקְרִיאוֹת	_	_	_	_
+30	וּ	ו	CCONJ	CCONJ
+31	קְרִיאוֹת	קריא	ADJ	ADJ	Gender=Fem|Number=Plur	קָרִיא	_
+32	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = (2) מפעיל טיסה, מארגן ונותן שירותי סוכנות נסיעות המציעים כרטיסי טיסה למכירה יפרסמו מידע לנוסע באתרי האינטרנט שלהם, אם קיימים, באופן בולט.
+
+1	(		PUNCT	PUNCT		(	_
+2	2		NUM	NUM		2	_
+3-5	) מַפְעִיל	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	מַפְעִיל	מפעיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַפְעִיל	_
+6	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+7-9	, מְאַרְגֵּן	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	מְאַרְגֵּן	מארגן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מְאַרְגֵּן	_
+10-11	וְנוֹתֵן	_	_	_	_
+10	וְ	ו	CCONJ	CCONJ
+11	נוֹתֵן	נתן	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+12	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+13	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+14	נְסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+15-16	הַמַּצִּיעִים	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	מַּצִּיעִים	הציע	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יצע|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	הִצִּיעַ	_
+17	כַּרְטִיסֵי	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כַּרְטִיס	_
+18	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+19-20	לִמְכִירָה	_	_	_	_
+19	לִ	ל	ADP	ADP
+20	מְכִירָה	מכירה	NOUN	NOUN	Gender=Fem|Number=Sing	מְכִירָה	_
+21	יְפַרְסְמוּ	פרסם	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=פרסם|Number=Plur|Person=3|Tense=Fut|Voice=Act	פִּרְסֵם	_
+22	מֵידָע	מידע	NOUN	NOUN	Gender=Masc|Number=Sing	מֵידָע	_
+23-25	לַנּוֹסֵעַ	_	_	_	_
+23	לַ	ל	ADP	ADP
+24	ה_	ה	DET	DET	PronType=Art
+25	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+26-27	בַּאֲתָרֵי	_	_	_	_
+26	בַּ	ב	ADP	ADP
+27	אֲתָרֵי	אתר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	אֲתָר	_
+28-29	הָאִינְטֶרְנֵט	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	אִינְטֶרְנֵט	אינטרנט	NOUN	NOUN	Gender=Masc|Number=Sing	אִינְטֶרְנֵט	_
+30-31	שֶׁלָּהֶם	_	_	_	_
+30	_של	של	ADP	ADP	Case=Gen	של	_
+31	הם_	הם_	PRON	PRON	Gender=Masc|Number=Plur|Person=3	הם_	_
+32-34	, אִם	_	_	_	_
+32	,		PUNCT	PUNCT		,	_
+33	 		X	X	DictaNote=Unknown	 	_
+34	אִם	אם	CCONJ	CCONJ		אִם	_
+35	קַיָּמִים	קיים	ADJ	ADJ	Gender=Masc|Number=Plur	קַיָּם	_
+36-39	, בְּאֹפֶן	_	_	_	_
+36	,		PUNCT	PUNCT		,	_
+37	 		X	X	DictaNote=Unknown	 	_
+38	בְּ	ב	ADP	ADP
+39	אֹפֶן	אופן	NOUN	NOUN	Gender=Masc|Number=Sing	אֹפֶן	_
+40	בּוֹלֵט	בולט	ADJ	ADJ	Gender=Masc|Number=Sing	בּוֹלֵט	_
+41	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (3) בעל רישיון להפעלת שדה תעופה לפי חוק הטיס, התשע""א–2011, יציב בכל שדה תעופה שהוא מפעיל שילוט המציג מידע לנוסע, במקום הנראה לעין באותיות ברורות וקריאות. 
+1	(		PUNCT	PUNCT		(	_
+2	3		NUM	NUM		3	_
+3-5	) בַּעַל	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	בַּעַל	בעל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בַּעַל	_
+6	רִשָּׁיוֹן	רישיון	NOUN	NOUN	Gender=Masc|Number=Sing	רִשָּׁיוֹן	_
+7-8	לְהַפְעָלַת	_	_	_	_
+7	לְ	ל	ADP	ADP
+8	הַפְעָלַת	הפעלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַפְעָלָה	_
+9	שְׂדֵה	שדה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂדֶה	_
+10	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+11	לְפִי	לפי	ADP	ADP		לְפִי	_
+12	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+13-14	הַטַּיִס	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	טַּיִס	טיס	NOUN	NOUN	Gender=Masc|Number=Sing	טַיִס	_
+15-18	, הַתֵּשַׁע	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	ה	ה	DET	DET	PronType=Art
+18	תֵּשַׁע	תשעה	NUM	NUM	Gender=Fem|Number=Plur	תִּשְׁעָה	_
+19-21	""אַ	_	_	_	_
+19	"		PUNCT	PUNCT		"	_
+20	"		PUNCT	PUNCT		"	_
+21	אַ	א	ADP	ADP		אַ	_
+22	–		PUNCT	PUNCT		–	_
+23	2011		NUM	NUM		2011	_
+24-26	, יַצִּיב	_	_	_	_
+24	,		PUNCT	PUNCT		,	_
+25	 		X	X	DictaNote=Unknown	 	_
+26	יַצִּיב	הציב	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יצב|Number=Sing|Person=3|Tense=Fut|Voice=Act	הִצִּיב	_
+27-28	בְּכׇל	_	_	_	_
+27	בְּ	ב	ADP	ADP
+28	כׇל	כול	DET	DET	Definite=Cons	כֹּל	_
+29	שְׂדֵה	שדה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂדֶה	_
+30	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+31-32	שֶׁהוּא	_	_	_	_
+31	שֶׁ	ש	SCONJ	SCONJ
+32	הוּא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	הוא	_
+33	מַפְעִיל	הפעיל	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=פעל|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִפְעִיל	_
+34	שִׁלּוּט	שילוט	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁלּוּט	_
+35-36	הַמַּצִּיג	_	_	_	_
+35	הַ	ה	SCONJ	SCONJ
+36	מַּצִּיג	הציג	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יצג|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִצִּיג	_
+37	מֵידָע	מידע	NOUN	NOUN	Gender=Masc|Number=Sing	מֵידָע	_
+38-40	לַנּוֹסֵעַ	_	_	_	_
+38	לַ	ל	ADP	ADP
+39	ה_	ה	DET	DET	PronType=Art
+40	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+41-45	, בַּמָּקוֹם	_	_	_	_
+41	,		PUNCT	PUNCT		,	_
+42	 		X	X	DictaNote=Unknown	 	_
+43	בַּ	ב	ADP	ADP
+44	ה_	ה	DET	DET	PronType=Art
+45	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+46-47	הַנִּרְאֶה	_	_	_	_
+46	הַ	ה	SCONJ	SCONJ
+47	נִּרְאֶה	נראה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=ראי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	נִרְאָה	_
+48-49	לְעַיִן	_	_	_	_
+48	לְ	ל	ADP	ADP
+49	עַיִן	עין	NOUN	NOUN	Gender=Fem|Number=Sing	עַיִן	_
+50-51	בְּאוֹתִיּוֹת	_	_	_	_
+50	בְּ	ב	ADP	ADP
+51	אוֹתִיּוֹת	אות	NOUN	NOUN	Gender=Fem,Masc|Number=Plur	אוֹת	_
+52	בְּרוּרוֹת	ברור	ADJ	ADJ	Gender=Fem|Number=Plur	בָּרוּר	_
+53-54	וּקְרִיאוֹת	_	_	_	_
+53	וּ	ו	CCONJ	CCONJ
+54	קְרִיאוֹת	קריאה	NOUN	NOUN	Gender=Fem|Number=Plur	קְרִיאָה	_
+55	.		PUNCT	PUNCT		.	_
+56	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "
+
+1	"		PUNCT	PUNCT		"	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (ג) מפעיל טיסה או מארגן המנפיק לנוסע כרטיס טיסה, ימסור לו פרטים בדבר מקום הימצאו בשדה התעופה של מי שמונה לפי הוראות סעיף 8ג(א1) לחוק רישוי שירותי התעופה, 
+1-2	(ג	_	_	_	_
+1	(		PUNCT	PUNCT		(	_
+2	ג	ג	NUM	NUM		ג	_
+3-5	) מַפְעִיל	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	מַפְעִיל	מפעיל	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַפְעִיל	_
+6	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+7	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+8	מְאַרְגֵּן	מארגן	NOUN	NOUN	Gender=Masc|Number=Sing	מְאַרְגֵּן	_
+9-10	הַמַּנְפִּיק	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	מַּנְפִּיק	הנפיק	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=נפק|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִנְפִּיק	_
+11-12	לְנוֹסֵעַ	_	_	_	_
+11	לְ	ל	ADP	ADP
+12	נוֹסֵעַ	נסע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נסע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָסַע	_
+13	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+14	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+15-17	, יִמְסֹר	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	יִמְסֹר	מסר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=מסר|Number=Sing|Person=3|Tense=Fut|Voice=Act	מָסַר	_
+18-19	לוֹ	_	_	_	_
+18	ל_	ל	ADP	ADP		לְ	_
+19	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+20	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+21-22	בִּדְבַר	_	_	_	_
+21	בִּ	ב	ADP	ADP
+22	דְבַר	דבר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	דָּבָר	_
+23	מְקוֹם	מקום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מָקוֹם	_
+24-25	הִמָּצְאוֹ	_	_	_	_
+24	נמצא_	נמצא	VERB	VERB	HebBinyan=NIFAL|HebRoot=מצא|Voice=Mid	נִמְצָא	_
+25	_הוא	הוא	PRON	PRON	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+26-27	בִּשְׂדֵה	_	_	_	_
+26	בִּ	ב	ADP	ADP
+27	שְׂדֵה	שדה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂדֶה	_
+28-29	הַתְּעוּפָה	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+30	שֶׁל	של	ADP	ADP		שֶׁל	_
+31	מִי	מי	PRON	PRON	PronType=Int	מִי	_
+32-33	שֶׁמּוֹנֶה	_	_	_	_
+32	שֶׁ	ש	SCONJ	SCONJ
+33	מּוֹנֶה	הונה	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יני|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הוֹנָה	_
+34	לְפִי	לפי	ADP	ADP		לְפִי	_
+35	הוֹרָאוֹת	הוראה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	הוֹרָאָה	_
+36	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+37-38	8ג	_	_	_	_
+37	8		NUM	NUM		8	_
+38	ג	ג	NUM	NUM		ג	_
+39-40	(אַ	_	_	_	_
+39	(		PUNCT	PUNCT		(	_
+40	אַ	א	ADP	ADP		אַ	_
+41	1		NUM	NUM		1	_
+42-45	) לְחֹק	_	_	_	_
+42	)		PUNCT	PUNCT		)	_
+43	 		X	X	DictaNote=Unknown	 	_
+44	לְ	ל	ADP	ADP
+45	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+46	רִשּׁוּי	רישוי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	רִשּׁוּי	_
+47	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+48-49	הַתְּעוּפָה	_	_	_	_
+48	ה	ה	DET	DET	PronType=Art
+49	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+50	,		PUNCT	PUNCT		,	_
+51	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = התשכ""ג-1963, לשם סיוע לנוסעים לממש את זכויותיהם בהתאם להוראות חוק זה ובדבר דרכי ההתקשרות עמו; 
+1-2	התשׁכ	_	_	_	_
+1	_		VERB	VERB	Gender=Masc|HebRoot=|Number=Sing|Person=2|VerbForm=Part		_
+2	_את_	את	ADP	ADP	Case=Acc
+3-5	""ג	_	_	_	_
+3	"		PUNCT	PUNCT		"	_
+4	"		PUNCT	PUNCT		"	_
+5	ג	ג	NUM	NUM		ג	_
+6	-		PUNCT	PUNCT		-	_
+7	1963		NUM	NUM		1963	_
+8-10	, לְשֵׁם	_	_	_	_
+8	,		PUNCT	PUNCT		,	_
+9	 		X	X	DictaNote=Unknown	 	_
+10	לְשֵׁם	שם	ADP	ADP		שֵׁם	_
+11	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+12-14	לַנּוֹסְעִים	_	_	_	_
+12	לַ	ל	ADP	ADP
+13	ה_	ה	DET	DET	PronType=Art
+14	נּוֹסְעִים	נסע	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נסע|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	נָסַע	_
+15	לְמַמֵּשׁ	מימש	VERB	VERB	HebBinyan=PIEL|HebRoot=ממשׁ|VerbForm=Inf|Voice=Act	מִמֵּשׁ	_
+16	אֶת	את	ADP	ADP		אֶת	_
+17-19	זְכוּיוֹתֵיהֶם	_	_	_	_
+17	זכות_	זכות	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Plur	זְכוּת	_
+18	_של_	של	ADP	ADP	_
+19	_הם	הם	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+20-21	בְּהֶתְאֵם	_	_	_	_
+20	בְּ	ב	ADP	ADP
+21	הֶתְאֵם	התאם	NOUN	NOUN	Gender=Masc|Number=Sing	הֶתְאֵם	_
+22-23	לְהוֹרָאוֹת	_	_	_	_
+22	לְ	ל	ADP	ADP
+23	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+24	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+25	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+26-28	וּבְדָבָר	_	_	_	_
+26	וּ	ו	CCONJ	CCONJ
+27	בְ	ב	ADP	ADP
+28	דָבָר	דבר	NOUN	NOUN	Gender=Masc|Number=Sing	דָּבָר	_
+29	דַּרְכֵי	דרך	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	דֶּרֶךְ	_
+30-31	הַהִתְקַשְּׁרוּת	_	_	_	_
+30	ה	ה	DET	DET	PronType=Art
+31	הִתְקַשְּׁרוּת	התקשרות	NOUN	NOUN	Gender=Fem|Number=Sing	הִתְקַשְּׁרוּת	_
+32-33	עִמּוֹ	_	_	_	_
+32	עם_	עם	ADP	ADP		עִם	_
+33	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+34	;		PUNCT	PUNCT		;	_
+35	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = החובה למסור פרטים כאמור תחול גם על נותן שירותי סוכנות נסיעות שמוכר לנוסע כרטיס טיסה, ובלבד שקיבל את הפרטים ממפעיל טיסה או מהמארגן. 
+1-2	הַחוֹבָה	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	חוֹבָה	חובה	NOUN	NOUN	Gender=Fem|Number=Sing	חוֹבָה	_
+3	לִמְסֹר	מסר	VERB	VERB	HebBinyan=PAAL|HebRoot=מסר|VerbForm=Inf|Voice=Act	מָסַר	_
+4	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+5-7	כָּאָמוּר	_	_	_	_
+5	כָּ	כ	ADP	ADP
+6	ה_	ה	DET	DET	PronType=Art
+7	אָמוּר	אמור	ADJ	ADJ	Gender=Masc|Number=Sing	אָמוּר	_
+8	תָּחוּל	חל	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=חול|Number=Sing|Person=3|Tense=Fut|Voice=Act	חָל	_
+9	גַּם	גם	ADV	ADV		גַּם	_
+10	עַל	על	ADP	ADP		עַל	_
+11	נוֹתֵן	נתן	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+12	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+13	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+14	נְסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+15-16	שֶׁמּוֹכֵר	_	_	_	_
+15	שֶׁ	ש	SCONJ	SCONJ
+16	מּוֹכֵר	מכר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=מכר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	מָכַר	_
+17-18	לְנוֹסֵעַ	_	_	_	_
+17	לְ	ל	ADP	ADP
+18	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+19	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+20	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+21-24	, וּבִלְבַד	_	_	_	_
+21	,		PUNCT	PUNCT		,	_
+22	 		X	X	DictaNote=Unknown	 	_
+23	וּ	ו	CCONJ	CCONJ
+24	בִלְבַד	בלבד	ADV	ADV		בִּלְבַד	_
+25-26	שֶׁקִּבֵּל	_	_	_	_
+25	שֶׁ	ש	SCONJ	SCONJ
+26	קִּבֵּל	קיבל	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=קבל|Number=Sing|Person=3|Tense=Past|Voice=Act	קִבֵּל	_
+27	אֶת	את	ADP	ADP		אֶת	_
+28-29	הַפְּרָטִים	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	פְּרָטִים	פרט	NOUN	NOUN	Gender=Masc|Number=Plur	פְּרָט	_
+30-31	מִמַּפְעִיל	_	_	_	_
+30	מִ	מ	ADP	ADP
+31	מַּפְעִיל	מפעיל	NOUN	NOUN	Gender=Masc|Number=Sing	מַפְעִיל	_
+32	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+33	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+34-36	מֵהַמְּאַרְגֵּן	_	_	_	_
+34	מֵ	מ	ADP	ADP
+35	ה	ה	DET	DET	PronType=Art
+36	מְּאַרְגֵּן	ארגן	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=ארגן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אִרְגֵּן	_
+37	.		PUNCT	PUNCT		.	_
+38	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "
+
+1	"		PUNCT	PUNCT		"	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = סיוע של נותן שירותי סוכנות נסיעות בקבלת הטבות
+
+1	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+2	שֶׁל	של	ADP	ADP		שֶׁל	_
+3	נוֹתֵן	נתן	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+4	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+5	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+6	נְסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+7-8	בְּקַבָּלַת	_	_	_	_
+7	בְּ	ב	ADP	ADP
+8	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+9	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 15. 
+1	15		NUM	NUM		15	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לשם קבלת פיצוי או השבת תמורה, רשאי נוסע לבקש מנותן שירותי סוכנות הנסיעות שממנו רכש את כרטיס הטיסה לטיסה שהתקיימה בה עילה מזכה, 
+1	לְשֵׁם	שם	ADP	ADP		שֵׁם	_
+2	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+3	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+4	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+5	הֲשָׁבַת	השבה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הֲשָׁבָה	_
+6	תְּמוּרָה	תמורה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּמוּרָה	_
+7-9	, רַשַּׁאי	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	רַשַּׁאי	רשאי	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	רַשַּׁאי	_
+10	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+11	לְבַקֵּשׁ	ביקש	VERB	VERB	HebBinyan=PIEL|HebRoot=בקשׁ|VerbForm=Inf|Voice=Act	בִּקֵּשׁ	_
+12-13	מִנּוֹתֵן	_	_	_	_
+12	מִ	מ	ADP	ADP
+13	נּוֹתֵן	נתן	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+14	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+15	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+16-17	הַנְּסִיעוֹת	_	_	_	_
+16	ה	ה	DET	DET	PronType=Art
+17	נְּסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+18-20	שֶׁמִּמֶּנּוּ	_	_	_	_
+18	שֶׁ	ש	SCONJ	SCONJ
+19	מן_	מין	ADP	ADP		מִן	_
+20	_אנחנו	אנחנו	PRON	PRON	Gender=Fem,Masc|Number=Plur|Person=1|PronType=Prs
+21	רָכַשׁ	רכש	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=רכשׁ|Number=Sing|Person=3|Tense=Past|Voice=Act	רָכַשׁ	_
+22	אֶת	את	ADP	ADP		אֶת	_
+23	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+24-25	הַטִּיסָה	_	_	_	_
+24	ה	ה	DET	DET	PronType=Art
+25	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+26-27	לְטִיסָה	_	_	_	_
+26	לְ	ל	ADP	ADP
+27	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+28-29	שֶׁהִתְקַיְּמָה	_	_	_	_
+28	שֶׁ	ש	SCONJ	SCONJ
+29	הִתְקַיְּמָה	התקיים	VERB	VERB	Gender=Fem|HebBinyan=HITPAEL|HebRoot=קים|Number=Sing|Person=3|Tense=Past	הִתְקַיֵּם	_
+30-31	בָּהּ	_	_	_	_
+30	ב_	ב	ADP	ADP		בְּ	_
+31	_היא	היא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs
+32	עִלָּה	עילה	NOUN	NOUN	Gender=Fem|Number=Sing	עִלָּה	_
+33	מְזַכָּה	זיכה	VERB	VERB	Gender=Fem|HebBinyan=PIEL|HebRoot=זכי|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	זִכָּה	_
+34	,		PUNCT	PUNCT		,	_
+35	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = לסייע לו בקבלת ההטבות האמורות; 
+1	לְסַיֵּעַ	סייע	VERB	VERB	HebBinyan=PIEL|HebRoot=סיע|VerbForm=Inf|Voice=Act	סִיֵּעַ	_
+2-3	לוֹ	_	_	_	_
+2	ל_	ל	ADP	ADP		לְ	_
+3	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+4-5	בְּקַבָּלַת	_	_	_	_
+4	בְּ	ב	ADP	ADP
+5	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+6-7	הַהֲטָבוֹת	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+8-9	הָאֲמוּרוֹת	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	אֲמוּרוֹת	אמור	ADJ	ADJ	Gender=Fem|Number=Plur	אָמוּר	_
+10	;		PUNCT	PUNCT		;	_
+11	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ביקש הנוסע כאמור, יפנה נותן שירותי סוכנות הנסיעות למפעיל הטיסה, למארגן או למי מטעמם, למימוש זכאותו של הנוסע לאותן הטבות, בהתאם להוראות חוק זה.
+1	בִּקֵּשׁ	ביקש	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=בקשׁ|Number=Sing|Person=3|Tense=Past|Voice=Act	בִּקֵּשׁ	_
+2-3	הַנּוֹסֵעַ	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+4-6	כָּאָמוּר	_	_	_	_
+4	כָּ	כ	ADP	ADP
+5	ה_	ה	DET	DET	PronType=Art
+6	אָמוּר	אמור	ADJ	ADJ	Gender=Masc|Number=Sing	אָמוּר	_
+7-9	, יִפְנֶה	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	יִפְנֶה	פנה	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=פני|Number=Sing|Person=3|Tense=Fut|Voice=Act	פָּנָה	_
+10	נוֹתֵן	נתן	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+11	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+12	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+13-14	הַנְּסִיעוֹת	_	_	_	_
+13	ה	ה	DET	DET	PronType=Art
+14	נְּסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+15-16	לְמַפְעִיל	_	_	_	_
+15	לְ	ל	ADP	ADP
+16	מַפְעִיל	מפעיל	NOUN	NOUN	Gender=Masc|Number=Sing	מַפְעִיל	_
+17-18	הַטִּיסָה	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+19-23	, לַמְּאַרְגֵּן	_	_	_	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	לַ	ל	ADP	ADP
+22	ה_	ה	DET	DET	PronType=Art
+23	מְּאַרְגֵּן	ארגן	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=ארגן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אִרְגֵּן	_
+24	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+25-26	לְמִי	_	_	_	_
+25	לְ	ל	ADP	ADP
+26	מִי	מי	PRON	PRON	PronType=Int	מִי	_
+27-29	מִטַּעֲמָם	_	_	_	_
+27	מִ	מ	ADP	ADP
+28	טעם_	טעם	VERB	VERB	HebBinyan=PAAL|HebRoot=טעם|Voice=Act	טָעַם	_
+29	_הם	הם	PRON	PRON	Case=Nom|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+30-33	, לְמִמּוּשׁ	_	_	_	_
+30	,		PUNCT	PUNCT		,	_
+31	 		X	X	DictaNote=Unknown	 	_
+32	לְ	ל	ADP	ADP
+33	מִמּוּשׁ	מימוש	NOUN	NOUN	Gender=Masc|Number=Sing	מִמּוּשׁ	_
+34-35	זַכָּאוּתוֹ	_	_	_	_
+34	זכאותו_	זכאותו	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	זַכָּאוּתוֹ	_
+35	_של_	של	ADP	ADP	_
+36	שֶׁל	של	ADP	ADP		שֶׁל	_
+37-38	הַנּוֹסֵעַ	_	_	_	_
+37	ה	ה	DET	DET	PronType=Art
+38	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+39-40	לְאוֹתָן	_	_	_	_
+39	לְ	ל	ADP	ADP
+40	אוֹתָן	את	PRON	PRON	Gender=Fem|Number=Plur|PronType=Dem	אֶת	_
+41	הֲטָבוֹת	הטבה	NOUN	NOUN	Gender=Fem|Number=Plur	הֲטָבָה	_
+42-45	, בְּהֶתְאֵם	_	_	_	_
+42	,		PUNCT	PUNCT		,	_
+43	 		X	X	DictaNote=Unknown	 	_
+44	בְּ	ב	ADP	ADP
+45	הֶתְאֵם	התאם	NOUN	NOUN	Gender=Masc|Number=Sing	הֶתְאֵם	_
+46-47	לְהוֹרָאוֹת	_	_	_	_
+46	לְ	ל	ADP	ADP
+47	הוֹרָאוֹת	הוראה	NOUN	NOUN	Gender=Fem|Number=Plur	הוֹרָאָה	_
+48	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+49	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+50	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = שמירת דיונים
+
+1	שְׁמִירַת	שמירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	שְׁמִירָה	_
+2	דִּיּוּנִים	דיון	NOUN	NOUN	Gender=Masc|Number=Plur	דִּיּוּן	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = התניה –לטובת הנוסע
+
+1	הַתְנָיָה	התניה	NOUN	NOUN	Gender=Fem|Number=Sing	הַתְנָיָה	_
+2-4	 –לְטוֹבַת	_	_	_	_
+2	 –		X	X	DictaNote=Unknown	 –	_
+3	לְ	ל	ADP	ADP
+4	טוֹבַת	טוב	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	טוֹב	_
+5-6	הַנּוֹסֵעַ	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 17. 
+1	17		NUM	NUM		17	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = אין להתנות על הוראות חוק זה, אלא לטובת הנוסע.
+1	אֵין	אין	ADV	ADV	Polarity=Neg|PronType=Neg	אֵין	_
+2	לְהַתְנוֹת	התנה	VERB	VERB	HebBinyan=HIFIL|HebRoot=תני|VerbForm=Inf|Voice=Act	הִתְנָה	_
+3	עַל	על	ADP	ADP		עַל	_
+4	הוֹרָאוֹת	הוראה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	הוֹרָאָה	_
+5	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+6	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+7-9	, אֶלָּא	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	אֶלָּא	אילא	CCONJ	CCONJ		אֶלָּא	_
+10-11	לְטוֹבַת	_	_	_	_
+10	לְ	ל	ADP	ADP
+11	טוֹבַת	טוב	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	טוֹב	_
+12-13	הַנּוֹסֵעַ	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+14	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = תחולה על נוסע בטיסה פנים ארצית
+
+1	תְּחוּלָה	תחולה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּחוּלָה	_
+2	עַל	על	ADP	ADP		עַל	_
+3	נוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+4-5	בְּטִיסָה	_	_	_	_
+4	בְּ	ב	ADP	ADP
+5	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+6	פָּנִים	פן	NOUN	NOUN	Gender=Masc|Number=Plur	פָּן	_
+7	אַרְצִית	ארצי	ADJ	ADJ	Gender=Fem|Number=Sing	אַרְצִי	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = התיישנות
+
+1	הִתְיַשְּׁנוּת	התיישנות	NOUN	NOUN	Gender=Fem|Number=Sing	הִתְיַשְּׁנוּת	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = סייג לזכאות בשל קבלת הטבה לפי דין זר
+
+1	סְיָג	סייג	NOUN	NOUN	Gender=Masc|Number=Sing	סְיָג	_
+2-3	לְזַכָּאוּת	_	_	_	_
+2	לְ	ל	ADP	ADP
+3	זַכָּאוּת	זכאות	NOUN	NOUN	Gender=Fem|Number=Sing	זַכָּאוּת	_
+4	בְּשֶׁל	של	ADP	ADP		שֶׁל	_
+5	קַבָּלַת	קבלה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	קַבָּלָה	_
+6	הֲטָבָה	הטבה	NOUN	NOUN	Gender=Fem|Number=Sing	הֲטָבָה	_
+7	לְפִי	לפי	ADP	ADP		לְפִי	_
+8	דִּין	דין	NOUN	NOUN	Gender=Masc|Number=Sing	דִּין	_
+9	זָר	זר	ADJ	ADJ	Gender=Masc|Number=Sing	זָר	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = שינוי התוספות
+
+1	שִׁנּוּי	שינוי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שִׁנּוּי	_
+2-3	הַתּוֹסָפוֹת	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	תּוֹסָפוֹת	תוספת	NOUN	NOUN	Gender=Fem|Number=Plur	תּוֹסֶפֶת	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 21. 
+1	21		NUM	NUM		21	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = השר רשאי, בצו, לשנות את התוספות לחוק זה.
+1-2	הַשַּׂר	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	שַּׂר	שר	NOUN	NOUN	Gender=Masc|Number=Sing	שַׂר	_
+3	רַשַּׁאי	רשאי	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	רַשַּׁאי	_
+4-7	, בְּצַו	_	_	_	_
+4	,		PUNCT	PUNCT		,	_
+5	 		X	X	DictaNote=Unknown	 	_
+6	בְּ	ב	ADP	ADP
+7	צַו	צו	NOUN	NOUN	Gender=Masc|Number=Sing	צַו	_
+8-10	, לְשַׁנּוֹת	_	_	_	_
+8	,		PUNCT	PUNCT		,	_
+9	 		X	X	DictaNote=Unknown	 	_
+10	לְשַׁנּוֹת	שינה	VERB	VERB	HebBinyan=PIEL|HebRoot=שׁני|VerbForm=Inf|Voice=Act	שִׁנָּה	_
+11	אֶת	את	ADP	ADP		אֶת	_
+12-13	הַתּוֹסָפוֹת	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	תּוֹסָפוֹת	תוספת	NOUN	NOUN	Gender=Fem|Number=Plur	תּוֹסֶפֶת	_
+14-15	לְחֹק	_	_	_	_
+14	לְ	ל	ADP	ADP
+15	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+16	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+17	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = ביצוע ותקנות
+
+1	בִּצּוּעַ	ביצוע	NOUN	NOUN	Gender=Masc|Number=Sing	בִּצּוּעַ	_
+2-3	וְתַקָּנוֹת	_	_	_	_
+2	וְ	ו	CCONJ	CCONJ
+3	תַקָּנוֹת	תקנה	NOUN	NOUN	Gender=Fem|Number=Plur	תַּקָּנָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = תיקון חוק רישוי שירותי התעופה – מס' 4
+
+1	תִּקּוּן	תיקון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	תִּקּוּן	_
+2	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+3	רִשּׁוּי	רישוי	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	רִשּׁוּי	_
+4	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+5-6	הַתְּעוּפָה	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+7-8	 – מַס'	_	_	_	_
+7	 – 		X	X	DictaNote=Unknown	 – 	_
+8	מַס'	מס	NOUN	NOUN	Gender=Masc|Number=Sing	מַס	_
+9	4		NUM	NUM		4	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (2) החובה למנות אדם לפי הוראה פסקה (1) תחול גם בשדה תעופה מחוץ לישראל, לגבי טיסה לישראל, ובלבד שהונפק לנוסע כרטיס טיסה הלוך ושוב לטיסה מישראל ואליה, 
+1	(		PUNCT	PUNCT		(	_
+2	2		NUM	NUM		2	_
+3-6	) הַחוֹבָה	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	ה	ה	DET	DET	PronType=Art
+6	חוֹבָה	חובה	NOUN	NOUN	Gender=Fem|Number=Sing	חוֹבָה	_
+7	לְמַנּוֹת	מינה	VERB	VERB	HebBinyan=PIEL|HebRoot=מני|VerbForm=Inf|Voice=Act	מִנָּה	_
+8	אָדָם	אדם	NOUN	NOUN	Gender=Masc|Number=Sing	אָדָם	_
+9	לְפִי	לפי	ADP	ADP		לְפִי	_
+10	הוֹרָאָה	הוראה	NOUN	NOUN	Gender=Fem|Number=Sing	הוֹרָאָה	_
+11	פִּסְקָה	פסקה	NOUN	NOUN	Gender=Fem|Number=Sing	פִּסְקָה	_
+12	 (		X	X	DictaNote=Unknown	 (	_
+13	1		NUM	NUM		1	_
+14-16	) תָּחוּל	_	_	_	_
+14	)		PUNCT	PUNCT		)	_
+15	 		X	X	DictaNote=Unknown	 	_
+16	תָּחוּל	חל	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=חול|Number=Sing|Person=3|Tense=Fut|Voice=Act	חָל	_
+17	גַּם	גם	ADV	ADV		גַּם	_
+18-19	בִּשְׂדֵה	_	_	_	_
+18	בִּ	ב	ADP	ADP
+19	שְׂדֵה	שדה	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שָׂדֶה	_
+20	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+21-22	מִחוּץ	_	_	_	_
+21	מִ	מ	ADP	ADP
+22	חוּץ	חוץ	NOUN	NOUN	Gender=Masc|Number=Sing	חוּץ	_
+23-24	לְיִשְׂרָאֵל	_	_	_	_
+23	לְ	ל	ADP	ADP
+24	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+25-27	, לְגַבֵּי	_	_	_	_
+25	,		PUNCT	PUNCT		,	_
+26	 		X	X	DictaNote=Unknown	 	_
+27	לְגַבֵּי	לגבי	ADP	ADP		לְגַבֵּי	_
+28	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+29-30	לְיִשְׂרָאֵל	_	_	_	_
+29	לְ	ל	ADP	ADP
+30	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+31-34	, וּבִלְבַד	_	_	_	_
+31	,		PUNCT	PUNCT		,	_
+32	 		X	X	DictaNote=Unknown	 	_
+33	וּ	ו	CCONJ	CCONJ
+34	בִלְבַד	בלבד	ADV	ADV		בִּלְבַד	_
+35-36	שֶׁהֻנְפַּק	_	_	_	_
+35	שֶׁ	ש	SCONJ	SCONJ
+36	הֻנְפַּק	הונפק	VERB	VERB	Gender=Masc|HebBinyan=HUFAL|HebRoot=נפק|Number=Sing|Person=3|Tense=Past|Voice=Pass	הֻנְפַּק	_
+37-39	לַנּוֹסֵעַ	_	_	_	_
+37	לַ	ל	ADP	ADP
+38	ה_	ה	DET	DET	PronType=Art
+39	נּוֹסֵעַ	נוסע	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹסֵעַ	_
+40	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+41	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+42	הָלוֹךְ	הלך	VERB	VERB	HebBinyan=PAAL|HebRoot=הלך|Voice=Act	הָלַךְ	_
+43-44	וָשׁוֹב	_	_	_	_
+43	וָ	ו	CCONJ	CCONJ
+44	שׁוֹב	שב	VERB	VERB	HebBinyan=PAAL|HebRoot=שׁוב|Voice=Act	שָׁב	_
+45-47	לַטִּיסָה	_	_	_	_
+45	לַ	ל	ADP	ADP
+46	ה_	ה	DET	DET	PronType=Art
+47	טִּיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+48-49	מִיִּשְׂרָאֵל	_	_	_	_
+48	מִ	מ	ADP	ADP
+49	יִּשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+50-52	וְאֵלֶיהָ	_	_	_	_
+50	וְ	ו	CCONJ	CCONJ
+51	אל_	אל	ADP	ADP		אֶל	_
+52	_היא	היא	PRON	PRON	Gender=Fem|Number=Sing|Person=3|PronType=Prs
+53	,		PUNCT	PUNCT		,	_
+54	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = לרבות טיסה הכוללת חניית ביניים.
+
+1-2	לְרַבּוֹת	_	_	_	_
+1	לְ	ל	ADP	ADP
+2	רַבּוֹת	רב	ADJ	ADJ	Gender=Fem|Number=Plur	רַב	_
+3	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+4-5	הַכּוֹלֶלֶת	_	_	_	_
+4	הַ	ה	SCONJ	SCONJ
+5	כּוֹלֶלֶת	כלל	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=כלל|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	כָּלַל	_
+6	חֲנָיַת	חניה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	חֲנָיָה	_
+7	בֵּינַיִם	ביניים	NOUN	NOUN	Gender=Masc|Number=Dual	בֵּינַיִם	_
+8	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (3) בסעיף קטן זה – ""חוק פיצוי וסיוע"" – חוק שירותי תעופה (פיצוי וסיוע בשל ביטול טיסה או שינוי בתנאיה), התשע""ב-2012; 
+1	(		PUNCT	PUNCT		(	_
+2	3		NUM	NUM		3	_
+3-6	) בִּסְעִיף	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	בִּ	ב	ADP	ADP
+6	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+7	קָטָן	קטן	NOUN	NOUN	Gender=Masc|Number=Sing	קָטָן	_
+8	זֶה	זה	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Dem	זֶה	_
+9-10	 – ""חֹק	_	_	_	_
+9	 – ""		X	X	DictaNote=Unknown	 – ""	_
+10	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+11	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+12-13	וְסִיּוּעַ	_	_	_	_
+12	וְ	ו	CCONJ	CCONJ
+13	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+14-17	"" – חֹק	_	_	_	_
+14	"		PUNCT	PUNCT		"	_
+15	"		PUNCT	PUNCT		"	_
+16	 – 		X	X	DictaNote=Unknown	 – 	_
+17	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+18	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+19	תְּעוּפָה	תעופה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּעוּפָה	_
+20-21	 (פִּצּוּי	_	_	_	_
+20	 (		X	X	DictaNote=Unknown	 (	_
+21	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+22-23	וְסִיּוּעַ	_	_	_	_
+22	וְ	ו	CCONJ	CCONJ
+23	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+24	בְּשֶׁל	של	ADP	ADP		שֶׁל	_
+25	בִּטּוּל	ביטול	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בִּטּוּל	_
+26	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+27	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+28	שִׁנּוּי	שינוי	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁנּוּי	_
+29-32	בִּתְנָאֶיהָ	_	_	_	_
+29	בִּ	ב	ADP	ADP
+30	תנאי_	תנאי	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Plur	תְּנַאי	_
+31	_של_	של	ADP	ADP	_
+32	_היא	היא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+33-37	), הַתֵּשַׁע	_	_	_	_
+33	)		PUNCT	PUNCT		)	_
+34	,		PUNCT	PUNCT		,	_
+35	 		X	X	DictaNote=Unknown	 	_
+36	ה	ה	DET	DET	PronType=Art
+37	תֵּשַׁע	תשעה	NUM	NUM	Gender=Fem|Number=Plur	תִּשְׁעָה	_
+38-40	""בְּ	_	_	_	_
+38	"		PUNCT	PUNCT		"	_
+39	"		PUNCT	PUNCT		"	_
+40	בְּ	ב	ADP	ADP		בְּ	_
+41	-		PUNCT	PUNCT		-	_
+42	2012		NUM	NUM		2012	_
+43	;		PUNCT	PUNCT		;	_
+44	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ""חניית ביניים"" ו""נותן שירותי סוכנות נסיעות"" – כהגדרתם בחוק פיצוי וסיוע; 
+1-3	""חֲנָיַת	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	"		PUNCT	PUNCT		"	_
+3	חֲנָיַת	חניה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	חֲנָיָה	_
+4	בֵּינַיִם	ביניים	NOUN	NOUN	Gender=Masc|Number=Dual	בֵּינַיִם	_
+5-8	"" ו	_	_	_	_
+5	"		PUNCT	PUNCT		"	_
+6	"		PUNCT	PUNCT		"	_
+7	 		X	X	DictaNote=Unknown	 	_
+8	ו	ו	NUM	NUM		ו	_
+9-11	""נוֹתֵן	_	_	_	_
+9	"		PUNCT	PUNCT		"	_
+10	"		PUNCT	PUNCT		"	_
+11	נוֹתֵן	נתן	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נתן|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	נָתַן	_
+12	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+13	סוֹכְנוּת	סוכנות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	סוֹכְנוּת	_
+14	נְסִיעוֹת	נסיעה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִיעָה	_
+15-21	"" – כְּהַגְדָּרָתָם	_	_	_	_
+15	"		PUNCT	PUNCT		"	_
+16	"		PUNCT	PUNCT		"	_
+17	 – 		X	X	DictaNote=Unknown	 – 	_
+18	כְּ	כ	ADP	ADP
+19	הגדרה_	הגדרה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	הַגְדָּרָה	_
+20	_של_	של	ADP	ADP	_
+21	_הם	הם	PRON	PRON	Case=Gen|Gender=Masc|Number=Plur|Person=3|PronType=Prs
+22-23	בְּחֹק	_	_	_	_
+22	בְּ	ב	ADP	ADP
+23	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+24	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+25-26	וְסִיּוּעַ	_	_	_	_
+25	וְ	ו	CCONJ	CCONJ
+26	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+27	;		PUNCT	PUNCT		;	_
+28	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = ""כרטיס טיסה הלוך ושוב"" – כהגדרתו בסעיף 3(ג) לחוק פיצוי וסיוע."" "
+
+1-3	""כַּרְטִיס	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	"		PUNCT	PUNCT		"	_
+3	כַּרְטִיס	כרטיס	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	כַּרְטִיס	_
+4	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+5	הָלוֹךְ	הלך	VERB	VERB	HebBinyan=PAAL|HebRoot=הלך|Voice=Act	הָלַךְ	_
+6-7	וָשׁוֹב	_	_	_	_
+6	וָ	ו	CCONJ	CCONJ
+7	שׁוֹב	שב	VERB	VERB	HebBinyan=PAAL|HebRoot=שׁוב|Voice=Act	שָׁב	_
+8-14	"" – כְּהַגְדָּרָתוֹ	_	_	_	_
+8	"		PUNCT	PUNCT		"	_
+9	"		PUNCT	PUNCT		"	_
+10	 – 		X	X	DictaNote=Unknown	 – 	_
+11	כְּ	כ	ADP	ADP
+12	הגדרה_	הגדרה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	הַגְדָּרָה	_
+13	_של_	של	ADP	ADP	_
+14	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+15-16	בִּסְעִיף	_	_	_	_
+15	בִּ	ב	ADP	ADP
+16	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+17	3		NUM	NUM		3	_
+18-19	(ג	_	_	_	_
+18	(		PUNCT	PUNCT		(	_
+19	ג	ג	NUM	NUM		ג	_
+20-23	) לְחֹק	_	_	_	_
+20	)		PUNCT	PUNCT		)	_
+21	 		X	X	DictaNote=Unknown	 	_
+22	לְ	ל	ADP	ADP
+23	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+24	פִּצּוּי	פיצוי	NOUN	NOUN	Gender=Masc|Number=Sing	פִּצּוּי	_
+25-26	וְסִיּוּעַ	_	_	_	_
+25	וְ	ו	CCONJ	CCONJ
+26	סִיּוּעַ	סיוע	NOUN	NOUN	Gender=Masc|Number=Sing	סִיּוּעַ	_
+27	.		PUNCT	PUNCT		.	_
+28	"		PUNCT	PUNCT		"	_
+29	"		PUNCT	PUNCT		"	_
+30	 "		X	X	DictaNote=Unknown	 "	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = תחילה ותקנות ראשונות
+
+1	תְּחִלָּה	תחילה	NOUN	NOUN	Gender=Fem|Number=Sing	תְּחִלָּה	_
+2-3	וְתַקָּנוֹת	_	_	_	_
+2	וְ	ו	CCONJ	CCONJ
+3	תַקָּנוֹת	תקנה	NOUN	NOUN	Gender=Fem|Number=Plur	תַּקָּנָה	_
+4	רִאשׁוֹנוֹת	ראשון	ADJ	ADJ	Gender=Fem|Number=Plur	רִאשׁוֹן	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = טיסה שבוטלה – הוראת שעה
+
+1	טִיסָה	טיסה	NOUN	NOUN	Gender=Fem|Number=Sing	טִיסָה	_
+2-3	שֶׁבֻּטְּלָה	_	_	_	_
+2	שֶׁ	ש	SCONJ	SCONJ
+3	בֻּטְּלָה	בוטל	VERB	VERB	Gender=Fem|HebBinyan=PUAL|HebRoot=בטל|Number=Sing|Person=3|Tense=Past|Voice=Pass	בֻּטַּל	_
+4-5	 – הוֹרָאַת	_	_	_	_
+4	 – 		X	X	DictaNote=Unknown	 – 	_
+5	הוֹרָאַת	הוראה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הוֹרָאָה	_
+6	שָׁעָה	שעה	NOUN	NOUN	Gender=Fem|Number=Sing	שָׁעָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = חוק איסור הפליה במוצרים, בשירותים ובכניסה למקומות בידור ולמקומות ציבוריים, התשס"א–2000
+
+1	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+2	אִסּוּר	איסור	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִסּוּר	_
+3	הַפְלָיָה	הפליה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְלָיָה	_
+4-6	בַּמּוּצָרִים	_	_	_	_
+4	בַּ	ב	ADP	ADP
+5	ה_	ה	DET	DET	PronType=Art
+6	מּוּצָרִים	מוצר	NOUN	NOUN	Gender=Masc|Number=Plur	מוּצָר	_
+7-11	, בַּשֵּׁרוּתִים	_	_	_	_
+7	,		PUNCT	PUNCT		,	_
+8	 		X	X	DictaNote=Unknown	 	_
+9	בַּ	ב	ADP	ADP
+10	ה_	ה	DET	DET	PronType=Art
+11	שֵּׁרוּתִים	שירות	NOUN	NOUN	Gender=Masc|Number=Plur	שֵׁרוּת	_
+12-15	וּבַכְּנִיסָה	_	_	_	_
+12	וּ	ו	CCONJ	CCONJ
+13	בַ	ב	ADP	ADP
+14	ה_	ה	DET	DET	PronType=Art
+15	כְּנִיסָה	כניסה	NOUN	NOUN	Gender=Fem|Number=Sing	כְּנִיסָה	_
+16-17	לִמְקוֹמוֹת	_	_	_	_
+16	לִ	ל	ADP	ADP
+17	מְקוֹמוֹת	מקום	NOUN	NOUN	Gender=Masc|Number=Plur	מָקוֹם	_
+18	בִּדּוּר	בידור	NOUN	NOUN	Gender=Masc|Number=Sing	בִּדּוּר	_
+19-21	וְלִמְקוֹמוֹת	_	_	_	_
+19	וְ	ו	CCONJ	CCONJ
+20	לִ	ל	ADP	ADP
+21	מְקוֹמוֹת	מקום	NOUN	NOUN	Gender=Masc|Number=Plur	מָקוֹם	_
+22	צִבּוּרִיִּים	צבורי	ADJ	ADJ	Gender=Masc|Number=Plur	צִבּוּרִי	_
+23-25	, התשס"א	_	_	_	_
+23	,		PUNCT	PUNCT		,	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	התשס"א	התשס"א	X	X	Abbr=Yes	התשס"א	_
+26	–		PUNCT	PUNCT		–	_
+27	2000		NUM	NUM		2000	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = מטרה
+
+1	מַטָּרָה	מטרה	NOUN	NOUN	Gender=Fem|Number=Sing	מַטָּרָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הגדרות
+
+1	הַגְדָּרוֹת	הגדרה	NOUN	NOUN	Gender=Fem|Number=Plur	הַגְדָּרָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = "כוחות הביטחון וההצלה" – צבא הגנה לישראל, משטרת ישראל, שירות בתי הסוהר, אגודת מגן דוד אדום בישראל שהוקמה בחוק מגן דוד אדום, התש"י–1950, 
+1-2	"כּוֹחוֹת	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	כּוֹחוֹת	כוח	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	כּוֹחַ	_
+3-4	הַבִּטָּחוֹן	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	בִּטָּחוֹן	ביטחון	NOUN	NOUN	Gender=Masc|Number=Sing	בִּטָּחוֹן	_
+5-7	וְהַהַצָּלָה	_	_	_	_
+5	וְ	ו	CCONJ	CCONJ
+6	ה	ה	DET	DET	PronType=Art
+7	הַצָּלָה	הצלה	NOUN	NOUN	Gender=Fem|Number=Sing	הַצָּלָה	_
+8-10	" – צְבָא	_	_	_	_
+8	"		PUNCT	PUNCT		"	_
+9	 – 		X	X	DictaNote=Unknown	 – 	_
+10	צְבָא	צבא	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	צָבָא	_
+11	הֲגַנָּה	הגנה	NOUN	NOUN	Gender=Fem|Number=Sing	הֲגַנָּה	_
+12-13	לְיִשְׂרָאֵל	_	_	_	_
+12	לְ	ל	ADP	ADP
+13	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+14-16	, מִשְׁטֶרֶת	_	_	_	_
+14	,		PUNCT	PUNCT		,	_
+15	 		X	X	DictaNote=Unknown	 	_
+16	מִשְׁטֶרֶת	משטרה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מִשְׁטָרָה	_
+17	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+18-20	, שֵׁרוּת	_	_	_	_
+18	,		PUNCT	PUNCT		,	_
+19	 		X	X	DictaNote=Unknown	 	_
+20	שֵׁרוּת	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	שֵׁרוּת	_
+21	בָּתֵּי	בית	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	בַּיִת	_
+22-23	הַסֹּהַר	_	_	_	_
+22	ה	ה	DET	DET	PronType=Art
+23	סֹּהַר	סוהר	NOUN	NOUN	Gender=Masc|Number=Sing	סֹהַר	_
+24-26	, אֲגֻדַּת	_	_	_	_
+24	,		PUNCT	PUNCT		,	_
+25	 		X	X	DictaNote=Unknown	 	_
+26	אֲגֻדַּת	אגודה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	אֲגֻדָּה	_
+27	מָגֵן	מגן	NOUN	NOUN	Gender=Masc|Number=Sing	מָגֵן	_
+28	דָּוִד	דוד	PROPN	PROPN		דָּוִד	_
+29	אָדֹם	אדום	ADJ	ADJ	Gender=Masc|Number=Sing	אָדֹם	_
+30-31	בְּיִשְׂרָאֵל	_	_	_	_
+30	בְּ	ב	ADP	ADP
+31	יִשְׂרָאֵל	ישראל	PROPN	PROPN		יִשְׂרָאֵל'	_
+32-33	שֶׁהוּקְמָה	_	_	_	_
+32	שֶׁ	ש	SCONJ	SCONJ
+33	הוּקְמָה	הוקם	VERB	VERB	Gender=Fem|HebBinyan=HUFAL|HebRoot=קום|Number=Sing|Person=3|Tense=Past|Voice=Pass	הוּקַם	_
+34-35	בְּחֹק	_	_	_	_
+34	בְּ	ב	ADP	ADP
+35	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+36	מָגֵן	מגן	NOUN	NOUN	Gender=Masc|Number=Sing	מָגֵן	_
+37	דָּוִד	דוד	PROPN	PROPN		דָּוִד	_
+38	אָדֹם	אדומים	NOUN	NOUN	Gender=Masc|Number=Sing	אֲדֻמִּים	_
+39-41	, התש"י	_	_	_	_
+39	,		PUNCT	PUNCT		,	_
+40	 		X	X	DictaNote=Unknown	 	_
+41	התש"י	התש"י	X	X	Abbr=Yes	התש"י	_
+42	–		PUNCT	PUNCT		–	_
+43	1950		NUM	NUM		1950	_
+44	,		PUNCT	PUNCT		,	_
+45	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הרשות הארצית לכבאות והצלה או גוף שנקבע בצו לפי סעיף 4(א)(8) לחוק שירות לאומי–אזרחי, התשע"ד–2014;
+
+1-2	הָרָשׁוּת	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	רָשׁוּת	רשות	NOUN	NOUN	Gender=Fem|Number=Sing	רָשׁוּת	_
+3-4	הָאַרְצִית	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	אַרְצִית	ארצי	ADJ	ADJ	Gender=Fem|Number=Sing	אַרְצִי	_
+5-6	לְכַבָּאוּת	_	_	_	_
+5	לְ	ל	ADP	ADP
+6	כַבָּאוּת	כבאות	NOUN	NOUN	Gender=Fem|Number=Sing	כַּבָּאוּת	_
+7-8	וְהַצָּלָה	_	_	_	_
+7	וְ	ו	CCONJ	CCONJ
+8	הַצָּלָה	הצלה	NOUN	NOUN	Gender=Fem|Number=Sing	הַצָּלָה	_
+9	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+10	גּוּף	גוף	NOUN	NOUN	Gender=Masc|Number=Sing	גּוּף	_
+11-12	שֶׁנִּקְבַּע	_	_	_	_
+11	שֶׁ	ש	SCONJ	SCONJ
+12	נִּקְבַּע	נקבע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=קבע|Number=Sing|Person=3|Tense=Past|Voice=Mid	נִקְבַּע	_
+13-14	בְּצַו	_	_	_	_
+13	בְּ	ב	ADP	ADP
+14	צַו	צו	NOUN	NOUN	Gender=Masc|Number=Sing	צַו	_
+15	לְפִי	לפי	ADP	ADP		לְפִי	_
+16	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+17	4		NUM	NUM		4	_
+18-19	(אַ	_	_	_	_
+18	(		PUNCT	PUNCT		(	_
+19	אַ	א	ADP	ADP		אַ	_
+20	)		PUNCT	PUNCT		)	_
+21	(		PUNCT	PUNCT		(	_
+22	8		NUM	NUM		8	_
+23-26	) לְחֹק	_	_	_	_
+23	)		PUNCT	PUNCT		)	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	לְ	ל	ADP	ADP
+26	חֹק	חוק	NOUN	NOUN	Gender=Masc|Number=Sing	חֹק	_
+27	שֵׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+28	לְאֻמִּי	לאומי	ADJ	ADJ	Gender=Masc|Number=Sing	לְאֻמִּי	_
+29-30	–אֶזְרָחִי	_	_	_	_
+29	–		PUNCT	PUNCT		–	_
+30	אֶזְרָחִי	אזרחי	ADJ	ADJ	Gender=Masc|Number=Sing	אֶזְרָחִי	_
+31-33	, התשע"ד	_	_	_	_
+31	,		PUNCT	PUNCT		,	_
+32	 		X	X	DictaNote=Unknown	 	_
+33	התשע"ד	התשע"ד	X	X	Abbr=Yes	התשע"ד	_
+34	–		PUNCT	PUNCT		–	_
+35	2014		NUM	NUM		2014	_
+36	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=no
+# text = "מקום ציבורי" – כל מקום המיועד לשימוש הציבור, לרבות אתר תיירות, בית מלון, אכסניה, בית הארחה, גן ציבורי, מסעדה, בית קפה, אולם המשמש למופעי בידור ותרבות, מוזיאון, 
+1-2	"מָקוֹם	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+3	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+4-6	" – כׇּל	_	_	_	_
+4	"		PUNCT	PUNCT		"	_
+5	 – 		X	X	DictaNote=Unknown	 – 	_
+6	כׇּל	כול	DET	DET	Definite=Cons	כֹּל	_
+7	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+8-9	הַמְּיֹעָד	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	מְּיֹעָד	מיועד	ADJ	ADJ	Gender=Masc|Number=Sing	מְיֹעָד	_
+10-11	לְשִׁמּוּשׁ	_	_	_	_
+10	לְ	ל	ADP	ADP
+11	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+12-13	הַצִּבּוּר	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+14-16	, לְרַבּוֹת	_	_	_	_
+14	,		PUNCT	PUNCT		,	_
+15	 		X	X	DictaNote=Unknown	 	_
+16	לְרַבּוֹת	ריבה	VERB	VERB	HebBinyan=PIEL|HebRoot=רבי|VerbForm=Inf|Voice=Act	רִבָּה	_
+17	אֲתַר	אתר	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֲתָר	_
+18	תַּיָּרוּת	תיירות	NOUN	NOUN	Gender=Fem|Number=Sing	תַּיָּרוּת	_
+19-21	, בֵּית	_	_	_	_
+19	,		PUNCT	PUNCT		,	_
+20	 		X	X	DictaNote=Unknown	 	_
+21	בֵּית	בית	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בַּיִת	_
+22	מָלוֹן	מלון	NOUN	NOUN	Gender=Masc|Number=Sing	מָלוֹן	_
+23-25	, אַכְסַנְיָה	_	_	_	_
+23	,		PUNCT	PUNCT		,	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	אַכְסַנְיָה	אכסניה	NOUN	NOUN	Gender=Fem|Number=Sing	אַכְסַנְיָה	_
+26-28	, בֵּית	_	_	_	_
+26	,		PUNCT	PUNCT		,	_
+27	 		X	X	DictaNote=Unknown	 	_
+28	בֵּית	בית	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בַּיִת	_
+29	הַאֲרָחָה	הארחה	NOUN	NOUN	Gender=Fem|Number=Sing	הַאֲרָחָה	_
+30-32	, גַּן	_	_	_	_
+30	,		PUNCT	PUNCT		,	_
+31	 		X	X	DictaNote=Unknown	 	_
+32	גַּן	גן	NOUN	NOUN	Gender=Masc|Number=Sing	גַּן	_
+33	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+34-36	, מִסְעָדָה	_	_	_	_
+34	,		PUNCT	PUNCT		,	_
+35	 		X	X	DictaNote=Unknown	 	_
+36	מִסְעָדָה	מסעדה	NOUN	NOUN	Gender=Fem|Number=Sing	מִסְעָדָה	_
+37-39	, בֵּית	_	_	_	_
+37	,		PUNCT	PUNCT		,	_
+38	 		X	X	DictaNote=Unknown	 	_
+39	בֵּית	בית	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	בַּיִת	_
+40	קָפֶה	קפה	NOUN	NOUN	Gender=Masc|Number=Sing	קָפֶה	_
+41-43	, אוּלָם	_	_	_	_
+41	,		PUNCT	PUNCT		,	_
+42	 		X	X	DictaNote=Unknown	 	_
+43	אוּלָם	אולם	NOUN	NOUN	Gender=Masc|Number=Sing	אוּלָם	_
+44-45	הַמְּשַׁמֵּשׁ	_	_	_	_
+44	ה	ה	DET	DET	PronType=Art
+45	מְּשַׁמֵּשׁ	שימש	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=שׁמשׁ|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	שִׁמֵּשׁ	_
+46-47	לְמוֹפְעֵי	_	_	_	_
+46	לְ	ל	ADP	ADP
+47	מוֹפְעֵי	מופע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	מוֹפָע	_
+48	בִּדּוּר	בידור	NOUN	NOUN	Gender=Masc|Number=Sing	בִּדּוּר	_
+49-50	וְתַרְבּוּת	_	_	_	_
+49	וְ	ו	CCONJ	CCONJ
+50	תַרְבּוּת	תרבות	NOUN	NOUN	Gender=Fem|Number=Sing	תַּרְבּוּת	_
+51-53	, מוּזֵאוֹן	_	_	_	_
+51	,		PUNCT	PUNCT		,	_
+52	 		X	X	DictaNote=Unknown	 	_
+53	מוּזֵאוֹן	מוזאון	NOUN	NOUN	Gender=Masc|Number=Sing	מוּזֵאוֹן	_
+54	,		PUNCT	PUNCT		,	_
+55	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = ספריה, דיסקוטק, אולם או מיתקן ספורט, בריכת שחיה, קניון, חנות, מוסך וכן מקום המציע שירותי תחבורה ציבורית;
+
+1	סִפְרִיָּה	ספרייה	NOUN	NOUN	Gender=Fem|Number=Sing	סִפְרִיָּה	_
+2-4	, דִּיסְקוֹטֵק	_	_	_	_
+2	,		PUNCT	PUNCT		,	_
+3	 		X	X	DictaNote=Unknown	 	_
+4	דִּיסְקוֹטֵק	דיסקוטק	NOUN	NOUN	Gender=Masc|Number=Sing	דִּיסְקוֹטֵק	_
+5-7	, אוּלָם	_	_	_	_
+5	,		PUNCT	PUNCT		,	_
+6	 		X	X	DictaNote=Unknown	 	_
+7	אוּלָם	אולם	NOUN	NOUN	Gender=Masc|Number=Sing	אוּלָם	_
+8	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+9	מִתְקַן	מתקן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מִתְקָן	_
+10	סְפּוֹרְט	ספורט	NOUN	NOUN	Gender=Masc|Number=Sing	סְפּוֹרְט	_
+11-13	, בְּרֵכַת	_	_	_	_
+11	,		PUNCT	PUNCT		,	_
+12	 		X	X	DictaNote=Unknown	 	_
+13	בְּרֵכַת	בריכה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	בְּרֵכָה	_
+14	שְׂחִיָּה	שחייה	NOUN	NOUN	Gender=Fem|Number=Sing	שְׂחִיָּה	_
+15-17	, קַנְיוֹן	_	_	_	_
+15	,		PUNCT	PUNCT		,	_
+16	 		X	X	DictaNote=Unknown	 	_
+17	קַנְיוֹן	קניון	NOUN	NOUN	Gender=Masc|Number=Sing	קַנְיוֹן	_
+18-20	, חֲנוּת	_	_	_	_
+18	,		PUNCT	PUNCT		,	_
+19	 		X	X	DictaNote=Unknown	 	_
+20	חֲנוּת	חנות	NOUN	NOUN	Gender=Fem|Number=Sing	חֲנוּת	_
+21-23	, מוּסָךְ	_	_	_	_
+21	,		PUNCT	PUNCT		,	_
+22	 		X	X	DictaNote=Unknown	 	_
+23	מוּסָךְ	מוסך	NOUN	NOUN	Gender=Masc|Number=Sing	מוּסָךְ	_
+24-25	וְכֵן	_	_	_	_
+24	וְ	ו	CCONJ	CCONJ
+25	כֵן	כן	CCONJ	CCONJ		כֵּן	_
+26	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+27-28	הַמַּצִּיעַ	_	_	_	_
+27	ה	ה	DET	DET	PronType=Art
+28	מַּצִּיעַ	הציע	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יצע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִצִּיעַ	_
+29	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+30	תַּחְבּוּרָה	תחבורה	NOUN	NOUN	Gender=Fem|Number=Sing	תַּחְבּוּרָה	_
+31	צִבּוּרִית	צבורי	ADJ	ADJ	Gender=Fem|Number=Sing	צִבּוּרִי	_
+32	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "שירות ציבורי" – שירותי תחבורה, תקשורת, אנרגיה, חינוך, תרבות, בידור, תיירות ושירותים פיננסיים, המיועדים לשימוש הציבור;
+
+1-2	"שֵׁרוּת	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	שֵׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+3	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+4-6	" – שֵׁרוּתֵי	_	_	_	_
+4	"		PUNCT	PUNCT		"	_
+5	 – 		X	X	DictaNote=Unknown	 – 	_
+6	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+7	תַּחְבּוּרָה	תחבורה	NOUN	NOUN	Gender=Fem|Number=Sing	תַּחְבּוּרָה	_
+8-10	, תִּקְשֹׁרֶת	_	_	_	_
+8	,		PUNCT	PUNCT		,	_
+9	 		X	X	DictaNote=Unknown	 	_
+10	תִּקְשֹׁרֶת	תקשורת	NOUN	NOUN	Gender=Fem|Number=Sing	תִּקְשֹׁרֶת	_
+11-13	, אֵנֶרְגִּיָּה	_	_	_	_
+11	,		PUNCT	PUNCT		,	_
+12	 		X	X	DictaNote=Unknown	 	_
+13	אֵנֶרְגִּיָּה	אנרגייה	NOUN	NOUN	Gender=Fem|Number=Sing	אֵנֶרְגִּיָּה	_
+14-16	, חִנּוּךְ	_	_	_	_
+14	,		PUNCT	PUNCT		,	_
+15	 		X	X	DictaNote=Unknown	 	_
+16	חִנּוּךְ	חינוך	NOUN	NOUN	Gender=Masc|Number=Sing	חִנּוּךְ	_
+17-19	, תַּרְבּוּת	_	_	_	_
+17	,		PUNCT	PUNCT		,	_
+18	 		X	X	DictaNote=Unknown	 	_
+19	תַּרְבּוּת	תרבות	NOUN	NOUN	Gender=Fem|Number=Sing	תַּרְבּוּת	_
+20-22	, בִּדּוּר	_	_	_	_
+20	,		PUNCT	PUNCT		,	_
+21	 		X	X	DictaNote=Unknown	 	_
+22	בִּדּוּר	בידור	NOUN	NOUN	Gender=Masc|Number=Sing	בִּדּוּר	_
+23-25	, תַּיָּרוּת	_	_	_	_
+23	,		PUNCT	PUNCT		,	_
+24	 		X	X	DictaNote=Unknown	 	_
+25	תַּיָּרוּת	תיירות	NOUN	NOUN	Gender=Fem|Number=Sing	תַּיָּרוּת	_
+26-27	וְשֵׁרוּתִים	_	_	_	_
+26	וְ	ו	CCONJ	CCONJ
+27	שֵׁרוּתִים	שירות	NOUN	NOUN	Gender=Masc|Number=Plur	שֵׁרוּת	_
+28	פִינַנְסִיִּים	פיננסי	ADJ	ADJ	Gender=Masc|Number=Plur	פִינַנְסִי	_
+29-32	, הַמְּיֹעָדִים	_	_	_	_
+29	,		PUNCT	PUNCT		,	_
+30	 		X	X	DictaNote=Unknown	 	_
+31	ה	ה	DET	DET	PronType=Art
+32	מְּיֹעָדִים	מיועד	ADJ	ADJ	Gender=Masc|Number=Plur	מְיֹעָד	_
+33-34	לְשִׁמּוּשׁ	_	_	_	_
+33	לְ	ל	ADP	ADP
+34	שִׁמּוּשׁ	שימוש	NOUN	NOUN	Gender=Masc|Number=Sing	שִׁמּוּשׁ	_
+35-36	הַצִּבּוּר	_	_	_	_
+35	ה	ה	DET	DET	PronType=Art
+36	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+37	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = "שירותים פיננסים" – שירותי בנקאות, מתן אשראי וביטוח;
+
+1-2	"שֵׁרוּתִים	_	_	_	_
+1	"		PUNCT	PUNCT		"	_
+2	שֵׁרוּתִים	שירות	NOUN	NOUN	Gender=Masc|Number=Plur	שֵׁרוּת	_
+3	פִינַנְסִים	פיננסים	NOUN	NOUN	Gender=Masc|Number=Plur	פִינַנְסִים	_
+4-6	" – שֵׁרוּתֵי	_	_	_	_
+4	"		PUNCT	PUNCT		"	_
+5	 – 		X	X	DictaNote=Unknown	 – 	_
+6	שֵׁרוּתֵי	שירות	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שֵׁרוּת	_
+7	בַּנְקָאוּת	בנקאות	NOUN	NOUN	Gender=Fem|Number=Sing	בַּנְקָאוּת	_
+8-10	, מַתַּן	_	_	_	_
+8	,		PUNCT	PUNCT		,	_
+9	 		X	X	DictaNote=Unknown	 	_
+10	מַתַּן	מתן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַתָּן	_
+11	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+12-13	וּבִטּוּחַ	_	_	_	_
+12	וּ	ו	CCONJ	CCONJ
+13	בִטּוּחַ	ביטוח	NOUN	NOUN	Gender=Masc|Number=Sing	בִּטּוּחַ	_
+14	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = איסור הפליה
+
+1	אִסּוּר	איסור	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אִסּוּר	_
+2	הַפְלָיָה	הפליה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְלָיָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = (1) כאשר הדבר מתחייב מאופיו או ממהותו של המוצר, השירות הציבורי או המקום הציבורי;
+
+1	(		PUNCT	PUNCT		(	_
+2	1		NUM	NUM		1	_
+3-5	) כַּאֲשֶׁר	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	כַּאֲשֶׁר	כאשר	SCONJ	SCONJ		כַּאֲשֶׁר	_
+6-7	הַדָּבָר	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	דָּבָר	דבר	NOUN	NOUN	Gender=Masc|Number=Sing	דָּבָר	_
+8	מִתְחַיֵּב	התחייב	VERB	VERB	Gender=Masc|HebBinyan=HITPAEL|HebRoot=חיב|Number=Sing|Person=1,2,3|VerbForm=Part	הִתְחַיֵּב	_
+9-12	מֵאׇפְיוֹ	_	_	_	_
+9	מֵ	מ	ADP	ADP
+10	אפי_	אופי	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	אֹפִי	_
+11	_של_	של	ADP	ADP	_
+12	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+13	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+14-17	מִמַּהוּתוֹ	_	_	_	_
+14	מִ	מ	ADP	ADP
+15	מהות_	מהות	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	מַהוּת	_
+16	_של_	של	ADP	ADP	_
+17	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+18	שֶׁל	של	ADP	ADP		שֶׁל	_
+19-20	הַמּוּצָר	_	_	_	_
+19	ה	ה	DET	DET	PronType=Art
+20	מּוּצָר	מוצר	NOUN	NOUN	Gender=Masc|Number=Sing	מוּצָר	_
+21-24	, הַשֵּׁרוּת	_	_	_	_
+21	,		PUNCT	PUNCT		,	_
+22	 		X	X	DictaNote=Unknown	 	_
+23	ה	ה	DET	DET	PronType=Art
+24	שֵּׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+25-26	הַצִּבּוּרִי	_	_	_	_
+25	ה	ה	DET	DET	PronType=Art
+26	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+27	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+28-29	הַמָּקוֹם	_	_	_	_
+28	ה	ה	DET	DET	PronType=Art
+29	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+30-31	הַצִּבּוּרִי	_	_	_	_
+30	ה	ה	DET	DET	PronType=Art
+31	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+32	;		PUNCT	PUNCT		;	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (3) בקיומן של מסגרות נפרדות לגברים או לנשים, כאשר אי הפרדה תמנע מחלק מן הציבור את הספקת המוצר או השירות הציבורי, את הכניסה למקום הציבורי, 
+1	(		PUNCT	PUNCT		(	_
+2	3		NUM	NUM		3	_
+3-8	) בְּקִיּוּמָן	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	בְּ	ב	ADP	ADP
+6	קיום_	קיום	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	קִיּוּם	_
+7	_של_	של	ADP	ADP	_
+8	_הן	הן	PRON	PRON	Case=Gen|Gender=Fem|Number=Plur|Person=3|PronType=Prs
+9	שֶׁל	של	ADP	ADP		שֶׁל	_
+10	מִסְגְּרוֹת	מסגרת	NOUN	NOUN	Gender=Fem|Number=Plur	מִסְגֶּרֶת	_
+11	נִפְרָדוֹת	נפרד	ADJ	ADJ	Gender=Fem|Number=Plur	נִפְרָד	_
+12-13	לִגְבָרִים	_	_	_	_
+12	לִ	ל	ADP	ADP
+13	גְבָרִים	גבר	NOUN	NOUN	Gender=Masc|Number=Plur	גֶּבֶר	_
+14	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+15-16	לְנָשִׁים	_	_	_	_
+15	לְ	ל	ADP	ADP
+16	נָשִׁים	אישה	NOUN	NOUN	Gender=Fem|Number=Plur	אִשָּׁה	_
+17-19	, כַּאֲשֶׁר	_	_	_	_
+17	,		PUNCT	PUNCT		,	_
+18	 		X	X	DictaNote=Unknown	 	_
+19	כַּאֲשֶׁר	כאשר	SCONJ	SCONJ		כַּאֲשֶׁר	_
+20	אִי	אי	ADV	ADV	Prefix=Yes	אִי	_
+21	הַפְרָדָה	הפרדה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְרָדָה	_
+22	תִּמְנַע	מנע	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=מנע|Number=Sing|Person=3|Tense=Fut|Voice=Act	מָנַע	_
+23-24	מֵחֵלֶק	_	_	_	_
+23	מֵ	מ	ADP	ADP
+24	חֵלֶק	חלק	NOUN	NOUN	Gender=Masc|Number=Sing	חֵלֶק	_
+25	מִן	מין	ADP	ADP		מִן	_
+26-27	הַצִּבּוּר	_	_	_	_
+26	ה	ה	DET	DET	PronType=Art
+27	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+28	אֶת	את	ADP	ADP		אֶת	_
+29	הַסְפָּקַת	הספקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַסְפָּקָה	_
+30-31	הַמּוּצָר	_	_	_	_
+30	ה	ה	DET	DET	PronType=Art
+31	מּוּצָר	מוצר	NOUN	NOUN	Gender=Masc|Number=Sing	מוּצָר	_
+32	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+33-34	הַשֵּׁרוּת	_	_	_	_
+33	ה	ה	DET	DET	PronType=Art
+34	שֵּׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+35-36	הַצִּבּוּרִי	_	_	_	_
+35	ה	ה	DET	DET	PronType=Art
+36	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+37-39	, אֶת	_	_	_	_
+37	,		PUNCT	PUNCT		,	_
+38	 		X	X	DictaNote=Unknown	 	_
+39	אֶת	את	ADP	ADP		אֶת	_
+40-41	הַכְּנִיסָה	_	_	_	_
+40	ה	ה	DET	DET	PronType=Art
+41	כְּנִיסָה	כניסה	NOUN	NOUN	Gender=Fem|Number=Sing	כְּנִיסָה	_
+42-44	לַמָּקוֹם	_	_	_	_
+42	לַ	ל	ADP	ADP
+43	ה_	ה	DET	DET	PronType=Art
+44	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+45-46	הַצִּבּוּרִי	_	_	_	_
+45	ה	ה	DET	DET	PronType=Art
+46	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+47	,		PUNCT	PUNCT		,	_
+48	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = או את מתן השירות במקום הציבורי, ובלבד שההפרדה היא מוצדקת, בהתחשב, בין השאר, באופיו של המוצר, השירות הציבורי או המקום הציבורי, במידת החיוניות שלו, 
+1	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+2	אֶת	את	ADP	ADP		אֶת	_
+3	מַתַּן	מתן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַתָּן	_
+4-5	הַשֵּׁרוּת	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	שֵּׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+6-8	בַּמָּקוֹם	_	_	_	_
+6	בַּ	ב	ADP	ADP
+7	ה_	ה	DET	DET	PronType=Art
+8	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+9-10	הַצִּבּוּרִי	_	_	_	_
+9	ה	ה	DET	DET	PronType=Art
+10	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+11-14	, וּבִלְבַד	_	_	_	_
+11	,		PUNCT	PUNCT		,	_
+12	 		X	X	DictaNote=Unknown	 	_
+13	וּ	ו	CCONJ	CCONJ
+14	בִלְבַד	בלבד	ADV	ADV		בִּלְבַד	_
+15-17	שֶׁהַהַפְרָדָה	_	_	_	_
+15	שֶׁ	ש	SCONJ	SCONJ
+16	ה	ה	DET	DET	PronType=Art
+17	הַפְרָדָה	הפרדה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְרָדָה	_
+18	הִיא	הוא	AUX	AUX	Gender=Fem|Number=Sing|Person=3|Polarity=Pos|VerbForm=Part|VerbType=Cop	הוּא	_
+19	מֻצְדֶּקֶת	מוצדק	ADJ	ADJ	Gender=Fem|Number=Sing	מֻצְדָּק	_
+20-23	, בְּהִתְחַשֵּׁב	_	_	_	_
+20	,		PUNCT	PUNCT		,	_
+21	 		X	X	DictaNote=Unknown	 	_
+22	בְּ	ב	ADP	ADP
+23	הִתְחַשֵּׁב	התחשב	VERB	VERB	HebBinyan=HITPAEL|HebRoot=חשׁב	הִתְחַשֵּׁב	_
+24-26	, בֵּין	_	_	_	_
+24	,		PUNCT	PUNCT		,	_
+25	 		X	X	DictaNote=Unknown	 	_
+26	בֵּין	בין	ADP	ADP		בֵּין	_
+27-28	הַשְּׁאָר	_	_	_	_
+27	ה	ה	DET	DET	PronType=Art
+28	שְּׁאָר	שאר	NOUN	NOUN	Gender=Masc|Number=Sing	שְׁאָר	_
+29-34	, בְּאׇפְיוֹ	_	_	_	_
+29	,		PUNCT	PUNCT		,	_
+30	 		X	X	DictaNote=Unknown	 	_
+31	בְּ	ב	ADP	ADP
+32	אפי_	אופי	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	אֹפִי	_
+33	_של_	של	ADP	ADP	_
+34	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+35	שֶׁל	של	ADP	ADP		שֶׁל	_
+36-37	הַמּוּצָר	_	_	_	_
+36	ה	ה	DET	DET	PronType=Art
+37	מּוּצָר	מוצר	NOUN	NOUN	Gender=Masc|Number=Sing	מוּצָר	_
+38-41	, הַשֵּׁרוּת	_	_	_	_
+38	,		PUNCT	PUNCT		,	_
+39	 		X	X	DictaNote=Unknown	 	_
+40	ה	ה	DET	DET	PronType=Art
+41	שֵּׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+42-43	הַצִּבּוּרִי	_	_	_	_
+42	ה	ה	DET	DET	PronType=Art
+43	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+44	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+45-46	הַמָּקוֹם	_	_	_	_
+45	ה	ה	DET	DET	PronType=Art
+46	מָּקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+47-48	הַצִּבּוּרִי	_	_	_	_
+47	ה	ה	DET	DET	PronType=Art
+48	צִּבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+49-52	, בְּמִדַּת	_	_	_	_
+49	,		PUNCT	PUNCT		,	_
+50	 		X	X	DictaNote=Unknown	 	_
+51	בְּ	ב	ADP	ADP
+52	מִדַּת	מידה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	מִדָּה	_
+53-54	הַחִיּוּנִיּוּת	_	_	_	_
+53	ה	ה	DET	DET	PronType=Art
+54	חִיּוּנִיּוּת	חיוניות	NOUN	NOUN	Gender=Fem|Number=Sing	חִיּוּנִיּוּת	_
+55-56	שֶׁלּוֹ	_	_	_	_
+55	_של	של	ADP	ADP	Case=Gen	של	_
+56	הוא_	הוא_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	הוא_	_
+57	,		PUNCT	PUNCT		,	_
+58	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בקיומה של חלופה סבירה לו, ובצורכי הציבור העלול להיפגע מן ההפרדה.
+1-4	בְּקִיּוּמָהּ	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	קיום_	קיום	NOUN	NOUN	Definite=Def|Gender=Masc|Number=Sing	קִיּוּם	_
+3	_של_	של	ADP	ADP	_
+4	_היא	היא	PRON	PRON	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs
+5	שֶׁל	של	ADP	ADP		שֶׁל	_
+6	חֲלוּפָה	חלופה	NOUN	NOUN	Gender=Fem|Number=Sing	חֲלוּפָה	_
+7	סְבִירָה	סביר	ADJ	ADJ	Gender=Fem|Number=Sing	סָבִיר	_
+8-9	לוֹ	_	_	_	_
+8	ל_	ל	ADP	ADP		לְ	_
+9	_הוא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs
+10-14	, וּבְצׇרְכֵי	_	_	_	_
+10	,		PUNCT	PUNCT		,	_
+11	 		X	X	DictaNote=Unknown	 	_
+12	וּ	ו	CCONJ	CCONJ
+13	בְ	ב	ADP	ADP
+14	צׇרְכֵי	צורך	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	צֹרֶךְ	_
+15-16	הַצִּבּוּר	_	_	_	_
+15	ה	ה	DET	DET	PronType=Art
+16	צִּבּוּר	ציבור	NOUN	NOUN	Gender=Masc|Number=Sing	צִבּוּר	_
+17-18	הֶעָלוּל	_	_	_	_
+17	ה	ה	DET	DET	PronType=Art
+18	עָלוּל	עלול	ADJ	ADJ	Gender=Masc|Number=Sing	עָלוּל	_
+19	לְהִפָּגַע	נפגע	VERB	VERB	HebBinyan=NIFAL|HebRoot=פגע|VerbForm=Inf|Voice=Mid	נִפְגַּע	_
+20	מִן	מין	ADP	ADP		מִן	_
+21-22	הַהַפְרָדָה	_	_	_	_
+21	ה	ה	DET	DET	PronType=Art
+22	הַפְרָדָה	הפרדה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְרָדָה	_
+23	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = מודעות מפלות
+
+1	מוֹדָעוֹת	מודעה	NOUN	NOUN	Gender=Fem|Number=Plur	מוֹדָעָה	_
+2	מַפָּלוֹת	מפלה	NOUN	NOUN	Gender=Fem|Number=Plur	מַפָּלָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = עוולה אזרחית
+
+1	עַוְלָה	עוולה	NOUN	NOUN	Gender=Fem|Number=Sing	עַוְלָה	_
+2	אֶזְרָחִית	אזרחית	NOUN	NOUN	Gender=Fem|Number=Sing	אֶזְרָחִית	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = חזקות
+
+1	חֲזָקוֹת	חזקה	NOUN	NOUN	Gender=Fem|Number=Plur	חֶזְקָה	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (3) הנתבע התנה הספקת מוצר או שירות ציבורי, כניסה למקום ציבורי או מתן שירות במקום ציבורי, לנמנים עם קבוצה המאופיינת לפי עילה מעילות ההפליה המנויות בסעיף 3, 
+1	(		PUNCT	PUNCT		(	_
+2	3		NUM	NUM		3	_
+3-6	) הַנִּתְבָּע	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	ה	ה	DET	DET	PronType=Art
+6	נִּתְבָּע	נתבע	NOUN	NOUN	Gender=Masc|Number=Sing	נִתְבָּע	_
+7	הִתְנָה	התנה	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=תני|Number=Sing|Person=3|Tense=Past|Voice=Act	הִתְנָה	_
+8	הַסְפָּקַת	הספקה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	הַסְפָּקָה	_
+9	מוּצָר	מוצר	NOUN	NOUN	Gender=Masc|Number=Sing	מוּצָר	_
+10	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+11	שֵׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+12	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+13-15	, כְּנִיסָה	_	_	_	_
+13	,		PUNCT	PUNCT		,	_
+14	 		X	X	DictaNote=Unknown	 	_
+15	כְּנִיסָה	כניסה	NOUN	NOUN	Gender=Fem|Number=Sing	כְּנִיסָה	_
+16-17	לְמָקוֹם	_	_	_	_
+16	לְ	ל	ADP	ADP
+17	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+18	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+19	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+20	מַתַּן	מתן	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַתָּן	_
+21	שֵׁרוּת	שירות	NOUN	NOUN	Gender=Masc|Number=Sing	שֵׁרוּת	_
+22-23	בְּמָקוֹם	_	_	_	_
+22	בְּ	ב	ADP	ADP
+23	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+24	צִבּוּרִי	צבורי	ADJ	ADJ	Gender=Masc|Number=Sing	צִבּוּרִי	_
+25-28	, לְנִמְנִים	_	_	_	_
+25	,		PUNCT	PUNCT		,	_
+26	 		X	X	DictaNote=Unknown	 	_
+27	לְ	ל	ADP	ADP
+28	נִמְנִים	נמנה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=מני|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Mid	נִמְנָה	_
+29	עִם	עם	ADP	ADP		עִם	_
+30	קְבוּצָה	קבוצה	NOUN	NOUN	Gender=Fem|Number=Sing	קְבוּצָה	_
+31-32	הַמְּאֻפְיֶנֶת	_	_	_	_
+31	ה	ה	DET	DET	PronType=Art
+32	מְּאֻפְיֶנֶת	מאופיין	ADJ	ADJ	Gender=Fem|Number=Sing	מְאֻפְיָן	_
+33	לְפִי	לפי	ADP	ADP		לְפִי	_
+34	עִלָּה	עילה	NOUN	NOUN	Gender=Fem|Number=Sing	עִלָּה	_
+35-36	מֵעִלּוֹת	_	_	_	_
+35	מֵ	מ	ADP	ADP
+36	עִלּוֹת	עילה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Plur	עִלָּה	_
+37-38	הַהַפְלָיָה	_	_	_	_
+37	ה	ה	DET	DET	PronType=Art
+38	הַפְלָיָה	הפליה	NOUN	NOUN	Gender=Fem|Number=Sing	הַפְלָיָה	_
+39-40	הַמְּנוּיוֹת	_	_	_	_
+39	ה	ה	DET	DET	PronType=Art
+40	מְּנוּיוֹת	מנה	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=מני|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	מָנָה	_
+41-42	בִּסְעִיף	_	_	_	_
+41	בִּ	ב	ADP	ADP
+42	סְעִיף	סעיף	NOUN	NOUN	Gender=Masc|Number=Sing	סְעִיף	_
+43	3		NUM	NUM		3	_
+44	,		PUNCT	PUNCT		,	_
+45	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = בקיום תנאי אשר לא נדרש ממי שאינם נמנים עם אותה קבוצה.
+1-2	בְּקִיּוּם	_	_	_	_
+1	בְּ	ב	ADP	ADP
+2	קִיּוּם	קיום	NOUN	NOUN	Gender=Masc|Number=Sing	קִיּוּם	_
+3	תְּנַאי	תנאי	NOUN	NOUN	Gender=Masc|Number=Sing	תְּנַאי	_
+4	אֲשֶׁר	אשר	CCONJ	CCONJ		אֲשֶׁר	_
+5	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+6	נִדְרָשׁ	נדרש	ADJ	ADJ	Gender=Masc|Number=Sing	נִדְרָשׁ	_
+7-8	מִמִּי	_	_	_	_
+7	מִ	מ	ADP	ADP
+8	מִּי	מי	PRON	PRON	Number=Sing|Person=3	מִי	_
+9-10	שֶׁאֵינָם	_	_	_	_
+9	שֶׁ	ש	SCONJ	SCONJ
+10	אֵינָם	אין	AUX	AUX	Gender=Masc|Number=Plur|Person=3|Polarity=Neg|VerbForm=Part|VerbType=Cop	אֵין	_
+11	נִמְנִים	נמנה	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=מני|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Mid	נִמְנָה	_
+12	עִם	עם	ADP	ADP		עִם	_
+13-14	אוֹתָהּ	_	_	_	_
+13	_את	את	ADP	ADP	Case=Acc	את	_
+14	היא_	היא_	PRON	PRON	Gender=Fem|Number=Sing|Person=3	היא_	_
+15	קְבוּצָה	קבוצה	NOUN	NOUN	Gender=Fem|Number=Sing	קְבוּצָה	_
+16	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = מעמד תאגיד העוסק בהגנה על זכויות
+
+1	מַעֲמַד	מעמד	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	מַעֲמָד	_
+2	תַּאֲגִיד	תאגיד	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲגִיד	_
+3-4	הָעוֹסֵק	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	עוֹסֵק	עסק	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=עסק|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	עָסַק	_
+5-7	בַּהֲגַנָּה	_	_	_	_
+5	בַּ	ב	ADP	ADP
+6	ה_	ה	DET	DET	PronType=Art
+7	הֲגַנָּה	הגנה	NOUN	NOUN	Gender=Fem|Number=Sing	הֲגַנָּה	_
+8	עַל	על	ADP	ADP		עַל	_
+9	זְכוּיוֹת	זכות	NOUN	NOUN	Gender=Fem|Number=Plur	זְכוּת	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = אחריות נושאי משרה בתאגיד
+
+1	אַחְרָיוּת	אחריות	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	אַחְרָיוּת	_
+2	נוֹשְׂאֵי	נשא	VERB	VERB	Definite=Cons|Gender=Masc|HebBinyan=PAAL|HebRoot=נשׂא|Number=Plur|Person=1,2,3|VerbForm=Part|Voice=Act	נָשָׂא	_
+3	מִשְׂרָה	משרה	NOUN	NOUN	Gender=Fem|Number=Sing	מִשְׂרָה	_
+4-5	בְּתַאֲגִיד	_	_	_	_
+4	בְּ	ב	ADP	ADP
+5	תַאֲגִיד	תאגיד	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲגִיד	_
+
+# new_sentence = yes, end_paragraph=no
+# text = 8. 
+1	8		NUM	NUM		8	_
+2	.		PUNCT	PUNCT		.	_
+3	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = מקום שהעוולה נעשתה על ידי תאגיד, יהיה אדם אחראי גם הוא לעוולה, אם היה אותה שעה מנהל פעיל בתאגיד, שותף, למעט שותף מוגבל, 
+1	מָקוֹם	מקום	NOUN	NOUN	Gender=Masc|Number=Sing	מָקוֹם	_
+2-4	שֶׁהָעַוְלָה	_	_	_	_
+2	שֶׁ	ש	SCONJ	SCONJ
+3	ה	ה	DET	DET	PronType=Art
+4	עַוְלָה	עוולה	NOUN	NOUN	Gender=Fem|Number=Sing	עַוְלָה	_
+5	נֶעֶשְׂתָה	נעשה	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|HebRoot=עשׂי|Number=Sing|Person=3|Tense=Past|Voice=Mid	נַעֲשָׂה	_
+6	עַל		ADP	ADP			_
+7	יְדֵי	ידי	PROPN	PROPN	Gender=Masc|Number=Sing	יְדֵי	_
+8	תַּאֲגִיד	תאגיד	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲגִיד	_
+9-11	, יִהְיֶה	_	_	_	_
+9	,		PUNCT	PUNCT		,	_
+10	 		X	X	DictaNote=Unknown	 	_
+11	יִהְיֶה	היי	AUX	AUX	Gender=Masc|Number=Sing|Person=3|Tense=Fut|VerbType=Cop	היי	_
+12	אָדָם	אדם	NOUN	NOUN	Gender=Masc|Number=Sing	אָדָם	_
+13	אַחְרַאי	אחראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַחְרַאי	_
+14	גַּם	גם	ADV	ADV		גַּם	_
+15	הוּא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	הוא	_
+16-17	לְעַוְלָה	_	_	_	_
+16	לְ	ל	ADP	ADP
+17	עַוְלָה	עוולה	NOUN	NOUN	Gender=Fem|Number=Sing	עַוְלָה	_
+18-20	, אִם	_	_	_	_
+18	,		PUNCT	PUNCT		,	_
+19	 		X	X	DictaNote=Unknown	 	_
+20	אִם	אם	CCONJ	CCONJ		אִם	_
+21	הָיָה	היי	AUX	AUX	Gender=Masc|HebBinyan=PAAL|Number=Sing|Person=3|Polarity=Pos|Tense=Past|VerbType=Cop|Voice=Act	היי	_
+22	אוֹתָהּ	את	PRON	PRON	Gender=Fem|Number=Sing|PronType=Dem	אֶת	_
+23	שָׁעָה	שעה	NOUN	NOUN	Gender=Fem|Number=Sing	שָׁעָה	_
+24	מְנַהֵל	מנהל	NOUN	NOUN	Gender=Masc|Number=Sing	מְנַהֵל	_
+25	פָּעִיל	פעיל	ADJ	ADJ	Gender=Masc|Number=Sing	פָּעִיל	_
+26-28	בַּתַּאֲגִיד	_	_	_	_
+26	בַּ	ב	ADP	ADP
+27	ה_	ה	DET	DET	PronType=Art
+28	תַּאֲגִיד	תאגיד	NOUN	NOUN	Gender=Masc|Number=Sing	תַּאֲגִיד	_
+29-31	, שֻׁתָּף	_	_	_	_
+29	,		PUNCT	PUNCT		,	_
+30	 		X	X	DictaNote=Unknown	 	_
+31	שֻׁתָּף	שותף	NOUN	NOUN	Gender=Masc|Number=Sing	שֻׁתָּף	_
+32-34	, לְמַעֵט	_	_	_	_
+32	,		PUNCT	PUNCT		,	_
+33	 		X	X	DictaNote=Unknown	 	_
+34	לְמַעֵט	למעט	ADP	ADP		לְמַעֵט	_
+35	שֻׁתָּף	שותף	NOUN	NOUN	Gender=Masc|Number=Sing	שֻׁתָּף	_
+36	מֻגְבָּל	מוגבל	ADJ	ADJ	Gender=Masc|Number=Sing	מֻגְבָּל	_
+37	,		PUNCT	PUNCT		,	_
+38	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = או עובד בכיר האחראי לנושא הנדון, אלא אם כן הוכיח שניים אלה: 
+1	אוֹ	או	CCONJ	CCONJ		אוֹ	_
+2	עוֹבֵד	עובד	NOUN	NOUN	Gender=Masc|Number=Sing	עוֹבֵד	_
+3	בָּכִיר	בכיר	ADJ	ADJ	Gender=Masc|Number=Sing	בָּכִיר	_
+4-5	הָאַחְרַאי	_	_	_	_
+4	ה	ה	DET	DET	PronType=Art
+5	אַחְרַאי	אחראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַחְרַאי	_
+6-7	לְנוֹשֵׂא	_	_	_	_
+6	לְ	ל	ADP	ADP
+7	נוֹשֵׂא	נושא	NOUN	NOUN	Gender=Masc|Number=Sing	נוֹשֵׂא	_
+8-9	הַנָּדוֹן	_	_	_	_
+8	ה	ה	DET	DET	PronType=Art
+9	נָּדוֹן	נדון	ADJ	ADJ	Gender=Masc|Number=Sing	נָדוֹן	_
+10-12	, אֶלָּא	_	_	_	_
+10	,		PUNCT	PUNCT		,	_
+11	 		X	X	DictaNote=Unknown	 	_
+12	אֶלָּא	אילא	CCONJ	CCONJ		אֶלָּא	_
+13	אִם	אם	CCONJ	CCONJ		אִם	_
+14	כֵּן	כין	ADV	ADV		כֵּן	_
+15	הוֹכִיחַ	הוכיח	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=יכח|Number=Sing|Person=3|Tense=Past|Voice=Act	הוֹכִיחַ	_
+16	שְׁנַיִם	שניים	NUM	NUM	Gender=Masc|Number=Dual	שְׁנַיִם	_
+17	אֵלֶּה	אלה	PRON	PRON	Gender=Fem,Masc|Number=Plur|Person=3|PronType=Dem	אֵלֶּה	_
+18	:		PUNCT	PUNCT		:	_
+19	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (1) העוולה נעשתה שלא בידיעתו; 
+1	(		PUNCT	PUNCT		(	_
+2	1		NUM	NUM		1	_
+3-6	) הָעַוְלָה	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	ה	ה	DET	DET	PronType=Art
+6	עַוְלָה	עוולה	NOUN	NOUN	Gender=Fem|Number=Sing	עַוְלָה	_
+7	נֶעֶשְׂתָה	נעשה	VERB	VERB	Gender=Fem|HebBinyan=NIFAL|HebRoot=עשׂי|Number=Sing|Person=3|Tense=Past|Voice=Mid	נַעֲשָׂה	_
+8-9	שֶׁלֹּא	_	_	_	_
+8	שֶׁ	ש	SCONJ	SCONJ
+9	לֹּא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+10-13	בִּידִיעָתוֹ	_	_	_	_
+10	בִּ	ב	ADP	ADP
+11	ידיעה_	ידיעה	NOUN	NOUN	Definite=Def|Gender=Fem|Number=Sing	יְדִיעָה	_
+12	_של_	של	ADP	ADP	_
+13	_הוא	הוא	PRON	PRON	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs
+14	;		PUNCT	PUNCT		;	_
+15	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=no
+# text = (2) הוא נקט אמצעים סבירים בנסיבות הענין כדי למנוע את העוולה.
+1	(		PUNCT	PUNCT		(	_
+2	2		NUM	NUM		2	_
+3-5	) הוּא	_	_	_	_
+3	)		PUNCT	PUNCT		)	_
+4	 		X	X	DictaNote=Unknown	 	_
+5	הוּא	הוא	PRON	PRON	Gender=Masc|Number=Sing|Person=3|PronType=Prs	הוא	_
+6	נָקַט	נקט	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=נקט|Number=Sing|Person=3|Tense=Past|Voice=Act	נָקַט	_
+7	אֶמְצָעִים	אמצע	NOUN	NOUN	Gender=Masc|Number=Plur	אֶמְצַע	_
+8	סְבִירִים	סביר	ADJ	ADJ	Gender=Masc|Number=Plur	סָבִיר	_
+9-10	בִּנְסִבּוֹת	_	_	_	_
+9	בִּ	ב	ADP	ADP
+10	נְסִבּוֹת	נסיבה	NOUN	NOUN	Gender=Fem|Number=Plur	נְסִבָּה	_
+11-12	הָעִנְיָן	_	_	_	_
+11	ה	ה	DET	DET	PronType=Art
+12	עִנְיָן	עניין	NOUN	NOUN	Gender=Masc|Number=Sing	עִנְיָן	_
+13	כְּדֵי	כדי	SCONJ	SCONJ		כְּדֵי	_
+14	לִמְנֹעַ	מנע	VERB	VERB	HebBinyan=PAAL|HebRoot=מנע|VerbForm=Inf|Voice=Act	מָנַע	_
+15	אֶת	את	ADP	ADP		אֶת	_
+16-17	הָעַוְלָה	_	_	_	_
+16	ה	ה	DET	DET	PronType=Art
+17	עַוְלָה	עוולה	NOUN	NOUN	Gender=Fem|Number=Sing	עַוְלָה	_
+18	.		PUNCT	PUNCT		.	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = עונשין
+
+1	עוֹנְשִׁין	עונשין	NOUN	NOUN	Gender=Masc|Number=Plur	עוֹנְשִׁין	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = דיון בדלתיים סגורות
+
+1	דִּיּוּן	דיון	NOUN	NOUN	Gender=Masc|Number=Sing	דִּיּוּן	_
+2-3	בִּדְלָתַיִם	_	_	_	_
+2	בִּ	ב	ADP	ADP
+3	דְלָתַיִם	דלת	NOUN	NOUN	Gender=Fem|Number=Dual	דֶּלֶת	_
+4	סְגוּרוֹת	סגור	ADJ	ADJ	Gender=Fem|Number=Plur	סָגוּר	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = דין המדינה
+
+1	דִּין	דין	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	דִּין	_
+2-3	הַמְּדִינָה	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	מְּדִינָה	מדינה	NOUN	NOUN	Gender=Fem|Number=Sing	מְדִינָה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = שמירת דינים
+
+1	שְׁמִירַת	שמירה	NOUN	NOUN	Definite=Cons|Gender=Fem|Number=Sing	שְׁמִירָה	_
+2	דִּינִים	דין	NOUN	NOUN	Gender=Masc|Number=Plur	דִּין	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = ביצוע
+
+1	בִּצּוּעַ	ביצוע	NOUN	NOUN	Gender=Masc|Number=Sing	בִּצּוּעַ	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = הנחיות הממונה על נתוני האשראי להתמודדות עם השלכות הקורונה וצמצום פגיעה בלקוחות – זיהוי וסימון של הנתונים השליליים שידווחו למערכת כתוצאה מאירוע הקורונה
+
+1	הַנְחָיוֹת	הנחיה	NOUN	NOUN	Gender=Fem|Number=Plur	הַנְחָיָה	_
+2-3	הַמְּמֻנֶּה	_	_	_	_
+2	ה	ה	DET	DET	PronType=Art
+3	מְּמֻנֶּה	ממונה	NOUN	NOUN	Gender=Masc|Number=Sing	מְמֻנֶּה	_
+4	עַל	על	ADP	ADP		עַל	_
+5	נְתוּנֵי	נתון	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	נָתוּן	_
+6-7	הָאַשְׁרַאי	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	אַשְׁרַאי	אשראי	NOUN	NOUN	Gender=Masc|Number=Sing	אַשְׁרַאי	_
+8-9	לְהִתְמוֹדְדוּת	_	_	_	_
+8	לְ	ל	ADP	ADP
+9	הִתְמוֹדְדוּת	התמודדות	NOUN	NOUN	Gender=Fem|Number=Sing	הִתְמוֹדְדוּת	_
+10	עִם	עם	ADP	ADP		עִם	_
+11	הַשְׁלָכוֹת	השלכה	NOUN	NOUN	Gender=Fem|Number=Plur	הַשְׁלָכָה	_
+12-13	הַקּוֹרוֹנָה	_	_	_	_
+12	ה	ה	DET	DET	PronType=Art
+13	קּוֹרוֹנָה	קורונה	PROPN	PROPN		קוֹרוֹנָה	_
+14-15	וְצִמְצוּם	_	_	_	_
+14	וְ	ו	CCONJ	CCONJ
+15	צִמְצוּם	צמצום	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	צִמְצוּם	_
+16	פְּגִיעָה	פגיעה	NOUN	NOUN	Gender=Fem|Number=Sing	פְּגִיעָה	_
+17-18	בְּלָקוֹחוֹת	_	_	_	_
+17	בְּ	ב	ADP	ADP
+18	לָקוֹחוֹת	לקוח	NOUN	NOUN	Gender=Masc|Number=Plur	לָקוֹחַ	_
+19-20	 – זִהוּי	_	_	_	_
+19	 – 		X	X	DictaNote=Unknown	 – 	_
+20	זִהוּי	זיהוי	NOUN	NOUN	Gender=Masc|Number=Sing	זִהוּי	_
+21-22	וְסִמּוּן	_	_	_	_
+21	וְ	ו	CCONJ	CCONJ
+22	סִמּוּן	סימון	NOUN	NOUN	Gender=Masc|Number=Sing	סִמּוּן	_
+23	שֶׁל	של	ADP	ADP		שֶׁל	_
+24-25	הַנְּתוּנִים	_	_	_	_
+24	ה	ה	DET	DET	PronType=Art
+25	נְּתוּנִים	נתון	NOUN	NOUN	Gender=Masc|Number=Plur	נָתוּן	_
+26-27	הַשְּׁלִילִיִּים	_	_	_	_
+26	ה	ה	DET	DET	PronType=Art
+27	שְּׁלִילִיִּים	שלילי	ADJ	ADJ	Gender=Masc|Number=Plur	שְׁלִילִי	_
+28-29	שֶׁיְּדַוְּחוּ	_	_	_	_
+28	שֶׁ	ש	SCONJ	SCONJ
+29	יְּדַוְּחוּ	דיוח	VERB	VERB	Gender=Masc|HebBinyan=PIEL|HebRoot=דוח|Number=Plur|Person=3|Tense=Fut|Voice=Act	דִּוֵּחַ	_
+30-32	לַמַּעֲרֶכֶת	_	_	_	_
+30	לַ	ל	ADP	ADP
+31	ה_	ה	DET	DET	PronType=Art
+32	מַּעֲרֶכֶת	מערכת	NOUN	NOUN	Gender=Fem|Number=Sing	מַעֲרֶכֶת	_
+33-34	כְּתוֹצָאָה	_	_	_	_
+33	כְּ	כ	ADP	ADP
+34	תוֹצָאָה	תוצאה	NOUN	NOUN	Gender=Fem|Number=Sing	תּוֹצָאָה	_
+35-36	מֵאֵרוּעַ	_	_	_	_
+35	מֵ	מ	ADP	ADP
+36	אֵרוּעַ	אירוע	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Sing	אֵרוּעַ	_
+37-38	הַקּוֹרוֹנָה	_	_	_	_
+37	ה	ה	DET	DET	PronType=Art
+38	קּוֹרוֹנָה	קורונה	PROPN	PROPN		קוֹרוֹנָה	_
+

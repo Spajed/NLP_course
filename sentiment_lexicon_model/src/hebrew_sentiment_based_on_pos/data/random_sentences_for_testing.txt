@@ -1,0 +1,114 @@
+﻿
+# new_sentence = yes, end_paragraph=yes
+# text = אני ממש כועסת עליך 
+
+1	אֲנִי	אני	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	הוא	_
+2	מַמָּשׁ	ממש	ADV	ADV		מַמָּשׁ	_
+3	כּוֹעֶסֶת	כעס	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=כעס|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	כָּעַס	_
+4-5	עָלֶיךָ	_	_	_	_
+4	על_	על	ADP	ADP		עַל	_
+5	_אתה	אתה	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs
+
+# new_sentence = yes, end_paragraph=yes
+# text = לא תוכל להתחמק מהמטלה הזו 
+
+1	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+2	תּוּכַל	יכל	AUX	AUX	Gender=Masc|Number=Sing|Person=2|Tense=Fut|VerbType=Mod	יכל	_
+3	לְהִתְחַמֵּק	התחמק	VERB	VERB	HebBinyan=HITPAEL|HebRoot=חמק|VerbForm=Inf	הִתְחַמֵּק	_
+4-6	מֵהַמַּטָּלָה	_	_	_	_
+4	מֵ	מ	ADP	ADP
+5	ה	ה	DET	DET	PronType=Art
+6	מַּטָּלָה	מטלה	NOUN	NOUN	Gender=Fem|Number=Sing	מַטָּלָה	_
+7-8	הַזּוֹ	_	_	_	_
+7	ה	ה	DET	DET	PronType=Art
+8	זּוֹ	זה	PRON	PRON	Gender=Fem|Number=Sing|Person=3	זֶה	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = אתה חייב להכין את שיעורי הבית שלך
+
+1	אַתָּה	אני	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	הוא	_
+2	חַיָּב	חייב	AUX	AUX	Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod	חַיָּב	_
+3	לְהָכִין	הכוין	VERB	VERB	HebBinyan=HIFIL|HebRoot=כון|VerbForm=Inf|Voice=Act	הִכְוִין	_
+4	אֶת	את	ADP	ADP		אֶת	_
+5	שִׁעוּרֵי	שיעור	NOUN	NOUN	Definite=Cons|Gender=Masc|Number=Plur	שִׁעוּר	_
+6-7	הַבַּיִת	_	_	_	_
+6	ה	ה	DET	DET	PronType=Art
+7	בַּיִת	בית	NOUN	NOUN	Gender=Masc|Number=Sing	בַּיִת	_
+8-9	שֶׁלְּךָ	_	_	_	_
+8	_של	של	ADP	ADP	Case=Gen	של	_
+9	אתה_	אתה_	PRON	PRON	Gender=Masc|Number=Sing|Person=2	אתה_	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = נשמע לי כמו דבר מרגש מאוד
+
+1	נִשְׁמָע	נשמע	VERB	VERB	Gender=Masc|HebBinyan=NIFAL|HebRoot=שׁמע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid	נִשְׁמַע	_
+2-3	לִי	_	_	_	_
+2	ל_	ל	ADP	ADP		לְ	_
+3	_אני	אני	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs
+4	כְּמוֹ	כמו	ADP	ADP		כְּמוֹ	_
+5	דָּבָר	דבר	NOUN	NOUN	Gender=Masc|Number=Sing	דָּבָר	_
+6	מְרַגֵּשׁ	מרגש	ADJ	ADJ	Gender=Masc|Number=Sing	מְרַגֵּשׁ	_
+7	מְאוֹד	מאוד	ADV	ADV		מְאוֹד	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = החתול אכל את האוכל שלו 
+
+1-2	הֶחָתוּל	_	_	_	_
+1	ה	ה	DET	DET	PronType=Art
+2	חָתוּל	חתול	NOUN	NOUN	Gender=Masc|Number=Sing	חָתוּל	_
+3	אָכַל	אכל	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=אכל|Number=Sing|Person=3|Tense=Past|Voice=Act	אָכַל	_
+4	אֶת	את	ADP	ADP		אֶת	_
+5-6	הָאֹכֶל	_	_	_	_
+5	ה	ה	DET	DET	PronType=Art
+6	אֹכֶל	אוכל	NOUN	NOUN	Gender=Masc|Number=Sing	אֹכֶל	_
+7-8	שֶׁלּוֹ	_	_	_	_
+7	_של	של	ADP	ADP	Case=Gen	של	_
+8	הוא_	הוא_	PRON	PRON	Gender=Masc|Number=Sing|Person=3	הוא_	_
+
+# new_sentence = yes, end_paragraph=yes
+# text = אתה לא מקשיב למה שאני אומרת 
+
+1	אַתָּה	אני	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	הוא	_
+2	לֹא	לא	ADV	ADV	Polarity=Neg|PronType=Neg	לֹא	_
+3	מַקְשִׁיב	הקשיב	VERB	VERB	Gender=Masc|HebBinyan=HIFIL|HebRoot=קשׁב|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	הִקְשִׁיב	_
+4-5	לְמָה	_	_	_	_
+4	לְ	ל	ADP	ADP
+5	מָה	מה	PRON	PRON	PronType=Int	מָה	_
+6-7	שֶׁאֲנִי	_	_	_	_
+6	שֶׁ	ש	SCONJ	SCONJ
+7	אֲנִי	אני	PRON	PRON	Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs	הוא	_
+8	אוֹמֶרֶת	אמר	VERB	VERB	Gender=Fem|HebBinyan=PAAL|HebRoot=אמר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	אָמַר	_
+
+# new_sentence = yes, end_paragraph=no
+# text = ממתי אתה שומר שבת? 
+1-2	מִמָּתַי	_	_	_	_
+1	מִ	מ	ADP	ADP
+2	מָּתַי	מתי	ADV	ADV		מָתַי	_
+3	אַתָּה	אני	PRON	PRON	Gender=Masc|Number=Sing|Person=2|PronType=Prs	הוא	_
+4	שׁוֹמֵר	שמר	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=שׁמר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act	שָׁמַר	_
+5	שַׁבָּת	שבת	NOUN	NOUN	Gender=Fem|Number=Sing	שַׁבָּת	_
+6	?		PUNCT	PUNCT		?	_
+7	 		X	X	DictaNote=Unknown	 	_
+
+# new_sentence = yes, end_paragraph=yes
+# text =
+
+# new_sentence = yes, end_paragraph=yes
+# text = בוא נלך היום לים יש שמש בחוץ
+
+1	בּוֹא	בא	VERB	VERB	Gender=Masc|HebBinyan=PAAL|HebRoot=בוא|Mood=Imp|Number=Sing|Person=2|Voice=Act	בָּא	_
+2	נֵלֵךְ	הלך	VERB	VERB	Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=הלך|Number=Plur|Person=1|Tense=Fut|Voice=Act	הָלַךְ	_
+3-4	הַיּוֹם	_	_	_	_
+3	ה	ה	DET	DET	PronType=Art
+4	יּוֹם	יום	NOUN	NOUN	Gender=Masc|Number=Sing	יוֹם	_
+5-7	לַיָּם	_	_	_	_
+5	לַ	ל	ADP	ADP
+6	ה_	ה	DET	DET	PronType=Art
+7	יָּם	ים	NOUN	NOUN	Gender=Masc|Number=Sing	יָם	_
+8	יֵשׁ	יש	VERB	VERB	HebExistential=True	יֵשׁ	_
+9	שֶׁמֶשׁ	שמש	NOUN	NOUN	Gender=Fem|Number=Sing	שֶׁמֶשׁ	_
+10-12	בַּחוּץ	_	_	_	_
+10	בַּ	ב	ADP	ADP
+11	ה_	ה	DET	DET	PronType=Art
+12	חוּץ	חוץ	NOUN	NOUN	Gender=Masc|Number=Sing	חוּץ	_
+

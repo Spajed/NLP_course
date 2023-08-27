@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/dicta_for_morphological_analysis/src",
+        "./src/hebrew_sentiment_based_on_pos/src"
+    ]
+}

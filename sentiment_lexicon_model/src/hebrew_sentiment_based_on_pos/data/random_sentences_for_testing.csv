@@ -1,0 +1,98 @@
+﻿ID,Word,Lemma,LemmaVoc,UPOS,Features
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = אני ממש כועסת עליך ,,,,,
+,,,,,
+1,אֲנִי,אני,PRON,PRON,"Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs"
+2,מַמָּשׁ,ממש,ADV,ADV,_
+3,כּוֹעֶסֶת,כעס,VERB,VERB,"Gender=Fem|HebBinyan=PAAL|HebRoot=כעס|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act"
+04-May,עָלֶיךָ,_,_,_,_
+4,על_,על,ADP,ADP,
+5,_אתה,אתה,PRON,PRON,Gender=Masc|Number=Sing|Person=2|PronType=Prs
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = לא תוכל להתחמק מהמטלה הזו ,,,,,
+1,לֹא,לא,ADV,ADV,Polarity=Neg|PronType=Neg
+2,תּוּכַל,יכל,AUX,AUX,Gender=Masc|Number=Sing|Person=2|Tense=Fut|VerbType=Mod
+3,לְהִתְחַמֵּק,התחמק,VERB,VERB,HebBinyan=HITPAEL|HebRoot=חמק|VerbForm=Inf
+04-Jun,מֵהַמַּטָּלָה,_,_,_,_
+4,מֵ,מ,ADP,ADP,_
+5,ה,ה,DET,DET,PronType=Art
+6,מַּטָּלָה,מטלה,NOUN,NOUN,Gender=Fem|Number=Sing
+07-Aug,הַזּוֹ,_,_,_,_
+7,ה,ה,DET,DET,PronType=Art
+8,זּוֹ,זה,PRON,PRON,Gender=Fem|Number=Sing|Person=3
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = אתה חייב להכין את שיעורי הבית שלך,,,,,
+1,אַתָּה,אני,PRON,PRON,Gender=Masc|Number=Sing|Person=2|PronType=Prs
+2,חַיָּב,חייב,AUX,AUX,"Gender=Masc|Number=Sing|Person=1,2,3|VerbType=Mod"
+3,לְהָכִין,הכוין,VERB,VERB,HebBinyan=HIFIL|HebRoot=כון|VerbForm=Inf|Voice=Act
+4,אֶת,את,ADP,ADP,_
+5,שִׁעוּרֵי,שיעור,NOUN,NOUN,Definite=Cons|Gender=Masc|Number=Plur
+06-Jul,הַבַּיִת,_,_,_,_
+6,ה,ה,DET,DET,PronType=Art
+7,בַּיִת,בית,NOUN,NOUN,Gender=Masc|Number=Sing
+08-Sep,שֶׁלְּךָ,_,_,_,_
+8,_של,של,ADP,ADP,Case=Gen
+9,אתה_,אתה_,PRON,PRON,Gender=Masc|Number=Sing|Person=2
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = נשמע לי כמו דבר מרגש מאוד,,,,,
+1,נִשְׁמָע,נשמע,VERB,VERB,"Gender=Masc|HebBinyan=NIFAL|HebRoot=שׁמע|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Mid"
+02-Mar,לִי,_,_,_,_
+2,ל_,ל,ADP,ADP,_
+3,_אני,אני,PRON,PRON,"Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs"
+4,כְּמוֹ,כמו,ADP,ADP,_
+5,דָּבָר,דבר,NOUN,NOUN,Gender=Masc|Number=Sing
+6,מְרַגֵּשׁ,מרגש,ADJ,ADJ,Gender=Masc|Number=Sing
+7,מְאוֹד,מאוד,ADV,ADV,
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = החתול אכל את האוכל שלו ,,,,,
+01-Feb,הֶחָתוּל,_,_,_,_
+1,ה,ה,DET,DET,PronType=Art
+2,חָתוּל,חתול,NOUN,NOUN,Gender=Masc|Number=Sing
+3,אָכַל,אכל,VERB,VERB,Gender=Masc|HebBinyan=PAAL|HebRoot=אכל|Number=Sing|Person=3|Tense=Past|Voice=Act
+4,אֶת,את,ADP,ADP,
+05-Jun,הָאֹכֶל,_,_,_,_
+5,ה,ה,DET,DET,PronType=Art
+6,אֹכֶל,אוכל,NOUN,NOUN,Gender=Masc|Number=Sing
+07-Aug,שֶׁלּוֹ,_,_,_,_
+7,_של,של,ADP,ADP,Case=Gen
+8,הוא_,הוא_,PRON,PRON,Gender=Masc|Number=Sing|Person=3
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = אתה לא מקשיב למה שאני אומרת ,,,,,
+1,אַתָּה,אני,PRON,PRON,Gender=Masc|Number=Sing|Person=2|PronType=Prs
+2,לֹא,לא,ADV,ADV,Polarity=Neg|PronType=Neg
+3,מַקְשִׁיב,הקשיב,VERB,VERB,"Gender=Masc|HebBinyan=HIFIL|HebRoot=קשׁב|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act"
+04-May,לְמָה,_,_,_,_
+4,לְ,ל,ADP,ADP,_
+5,מָה,מה,PRON,PRON,PronType=Int
+06-Jul,שֶׁאֲנִי,_,_,_,_
+6,שֶׁ,ש,SCONJ,SCONJ,_
+7,אֲנִי,אני,PRON,PRON,"Gender=Fem,Masc|Number=Sing|Person=1|PronType=Prs"
+8,אוֹמֶרֶת,אמר,VERB,VERB,"Gender=Fem|HebBinyan=PAAL|HebRoot=אמר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act"
+"# new_sentence = yes, end_paragraph=no",,,,,
+# text = ממתי אתה שומר שבת? ,,,,,
+01-Feb,מִמָּתַי,_,_,_,_
+1,מִ,מ,ADP,ADP,_
+2,מָּתַי,מתי,ADV,ADV,_
+3,אַתָּה,אני,PRON,PRON,Gender=Masc|Number=Sing|Person=2|PronType=Prs
+4,שׁוֹמֵר,שמר,VERB,VERB,"Gender=Masc|HebBinyan=PAAL|HebRoot=שׁמר|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act"
+5,שַׁבָּת,שבת,NOUN,NOUN,Gender=Fem|Number=Sing
+6,?,,PUNCT,PUNCT,
+7, ,,X,X,DictaNote=Unknown
+"# new_sentence = yes, end_paragraph=yes",,,,,
+# text = בוא נלך היום לים יש שמש בחוץ,,,,,
+1,בּוֹא,בא,VERB,VERB,Gender=Masc|HebBinyan=PAAL|HebRoot=בוא|Mood=Imp|Number=Sing|Person=2|Voice=Act
+2,נֵלֵךְ,הלך,VERB,VERB,"Gender=Fem,Masc|HebBinyan=PAAL|HebRoot=הלך|Number=Plur|Person=1|Tense=Fut|Voice=Act"
+03-Apr,הַיּוֹם,_,_,_,_
+3,ה,ה,DET,DET,PronType=Art
+4,יּוֹם,יום,NOUN,NOUN,Gender=Masc|Number=Sing
+05-Jul,לַיָּם,_,_,_,_
+5,לַ,ל,ADP,ADP,
+6,ה_,ה,DET,DET,PronType=Art
+7,יָּם,ים,NOUN,NOUN,Gender=Masc|Number=Sing
+8,יֵשׁ,יש,VERB,VERB,HebExistential=True
+9,שֶׁמֶשׁ,שמש,NOUN,NOUN,Gender=Fem|Number=Sing
+10-Dec,בַּחוּץ,_,_,_,_
+10,בַּ,ב,ADP,ADP,_
+11,ה_,ה,DET,DET,PronType=Art
+12,חוּץ,חוץ,NOUN,NOUN,Gender=Masc|Number=Sing
+12,חוּץ,חוץ,NOUN,NOUN,Gender=Masc|Number=Sing
