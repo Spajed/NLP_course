@@ -1,0 +1,11 @@
+﻿total words,15958,,
+positive ,2773,17.37686427,
+negative ,2151,13.47913272,
+neutral ,11034,69.14400301,
+,,,
+intresting examples,,,
+גִּנָּה,VERB,"Gender=Fem|HebBinyan=PIEL|HebRoot=גני|Number=Sing|Person=1,2,3|VerbForm=Part|Voice=Act",1
+גִּנָּה,NOUN,Gender=Fem|Number=Plur,0
+,,,
+צַר,NOUN,Definite=Cons|Gender=Masc|Number=Sing,1
+צַר,ADJ,Gender=Fem|Number=Plur,2
